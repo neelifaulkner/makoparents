@@ -4,59 +4,93 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Mako Parents • Orange Beach</title>
-  <meta name="description" content="Parent-run hub for Orange Beach school and youth updates." />
+  <meta name="description" content="Parent-powered hub for Orange Beach families—clear, timely, and accessible info about our schools and community." />
   <style>
     :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
     * { box-sizing: border-box; }
     body { margin:0; font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); background:var(--bg); }
-    header { background:linear-gradient(135deg,var(--brand),#0345a2); color:white; padding:48px 20px; text-align:center; }
-    header h1 { margin:0 0 10px; font-size:clamp(28px,5vw,44px); letter-spacing:.3px; }
-    header p { margin:0; opacity:.9; }
-    .wrap { max-width:1000px; margin:0 auto; padding:24px 20px 60px; }
-    .card { background:white; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); }
-    .grid { display:grid; gap:16px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
-    .pill { display:inline-block; background:rgba(240,78,35,.12); color:var(--accent); padding:6px 10px; border-radius:999px; font-weight:600; font-size:13px; }
-    footer { text-align:center; color:#5a6472; padding:36px 20px; }
     a { color:var(--brand); text-decoration:none; }
     a:hover { text-decoration:underline; }
-    .cta { display:inline-block; margin-top:10px; background:var(--accent); color:white; padding:10px 14px; border-radius:12px; font-weight:700; }
+    .wrap { max-width:1000px; margin:0 auto; padding:24px 20px 60px; }
+
+    /* Nav */
+    nav { display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2; }
+    nav .brand { font-weight:900; letter-spacing:.2px; }
+    nav a { font-weight:600; }
+
+    /* Hero */
+    header.hero { background:linear-gradient(135deg,var(--brand),#0345a2); color:#fff; padding:56px 20px; text-align:center; }
+    header.hero h1 { margin:0 0 10px; font-size:clamp(28px,5vw,44px); letter-spacing:.3px; }
+    header.hero p { margin:0 auto; opacity:.95; max-width:720px; }
+
+    /* Cards & sections */
+    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); }
+    .pill { display:inline-block; background:rgba(240,78,35,.12); color:var(--accent); padding:6px 10px; border-radius:999px; font-weight:700; font-size:13px; }
+    .grid { display:grid; gap:16px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
+    .cta { display:inline-block; margin-top:10px; background:var(--accent); color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; }
+    .meta { color:#5a6472; font-size:14px; }
+
+    /* Footer */
+    footer { text-align:center; color:#5a6472; padding:36px 20px; }
   </style>
 </head>
 <body>
-  <header>
+  <!-- Simple site-wide nav -->
+  <nav>
+    <a class="brand" href="/">Mako Parents</a>
+    <a href="/updates/">Updates</a>
+    <a href="/calendar/">Calendar</a>
+    <a href="/resources/">Resources</a>
+    <a href="/minutes/">Minutes</a>
+    <a href="/about.html">About</a>
+    <a href="/submit.html">Submit</a>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero">
     <h1>Mako Parents</h1>
     <p>Parent-powered updates for Orange Beach schools and youth programs.</p>
   </header>
 
   <main class="wrap">
-    <div class="card" style="margin-bottom:16px;">
-      <span class="pill">Start here</span>
-      <h2 style="margin:8px 0 8px;">What is this?</h2>
-      <p>This is a community-run hub to keep Orange Beach families in the loop on school board news, policies, events, and resources that affect our kids.</p>
-      <a class="cta" href="#">Submit a tip or link</a>
-    </div>
+    <!-- WHY WE EXIST -->
+    <section class="card" style="margin-bottom:16px;">
+      <span class="pill">Why we exist</span>
+      <h2 style="margin:8px 0 8px;">Parents should always feel informed—not overwhelmed</h2>
+      <p>Every family deserves clear, timely, and accessible information about what’s happening in our schools and community. Mako Parents was created to bring that information together in one place, so parents can spend less time searching and more time supporting their kids.</p>
+      <a class="cta" href="/submit.html">Submit a tip or link</a>
+    </section>
 
-    <div class="grid">
-      <div class="card">
-        <h3>School Board & Policy</h3>
-        <p>Meeting dates, agendas, and key votes—summarized in plain English.</p>
-        <a href="#">View updates →</a>
-      </div>
-      <div class="card">
-        <h3>Events & Deadlines</h3>
-        <p>Calendars for sports, arts, registrations, and important school deadlines.</p>
-        <a href="#">Open calendar →</a>
-      </div>
-      <div class="card">
-        <h3>Resources for Parents</h3>
-        <p>IEP & 504 guides, contacts, and how-tos for navigating the system.</p>
-        <a href="#">See resources →</a>
-      </div>
-    </div>
+    <!-- Feature grid -->
+    <section class="grid">
+      <article class="card">
+        <h3 style="margin-top:0;">School Board & Policy</h3>
+        <p>Meeting dates, agendas, votes, and plain-English summaries—what changed and why it matters.</p>
+        <a href="/updates/">View updates →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Events & Deadlines</h3>
+        <p>Sports, arts, registrations, and key school dates in one place.</p>
+        <a href="/calendar/">Open calendar →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Parent Resources</h3>
+        <p>Guides, contacts, and how-tos for navigating the system.</p>
+        <a href="/resources/">See resources →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Special Education</h3>
+        <p>Resources, guides, and advocacy tips for families navigating IEPs, 504 plans, and special services.</p>
+        <a href="/special-education/">Explore Special Education →</a>
+      </article>
+    </section>
   </main>
 
   <footer>
-    Made by Orange Beach parents • Not affiliated with OBCS • <a href="#">Contact</a>
+    Made by Orange Beach parents • Not affiliated with OBCS • <span class="meta"><a href="/about.html">About</a></span>
   </footer>
 </body>
 </html>
