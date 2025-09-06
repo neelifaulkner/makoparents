@@ -8,9 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "ical": "^0.8.0",
     "node-fetch": "^2.7.0"
-  }
+  },
+  "description": ""
 }

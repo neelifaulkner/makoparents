@@ -1,5 +1,893 @@
 [
   {
+    "title": "First Day of School",
+    "start": "2025-08-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "First day of school",
+    "start": "2025-08-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "First day of school",
+    "start": "2025-08-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football vs Maclay, FL (Jamboree)",
+    "start": "2025-08-15T18:00:00.000Z",
+    "end": "2025-08-15T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Parent Night (1st, 3rd, 5th)",
+    "start": "2025-08-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "1st Grade - 5:30 pm  \n3rd Grade - 6:00 pm  \n5th Grade - 6:30 pm"
+  },
+  {
+    "title": "Parent Night (1st, 3rd, 5th)",
+    "start": "2025-08-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "1st Grade - 5:30 pm  \n3rd Grade - 6:00 pm  \n5th Grade - 6:30 pm"
+  },
+  {
+    "title": "Parent Night (K, 2nd, 4th, 6th)",
+    "start": "2025-08-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Kinder- 5:00 pm \n2nd Grade -5:30 pm  \n4th Grade - 6:00 pm  \n6th Grade - 6:30 pm"
+  },
+  {
+    "title": "Parent Night (K, 2nd, 4th, 6th)",
+    "start": "2025-08-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Kinder- 5:00 pm \n2nd Grade -5:30 pm  \n4th Grade - 6:00 pm  \n6th Grade - 6:30 pm"
+  },
+  {
+    "title": "Volleyball @ Curry",
+    "start": "2025-08-21T16:30:00.000Z",
+    "end": "2025-08-21T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Curry High School",
+    "link": "",
+    "notes": "Curry & Winston County"
+  },
+  {
+    "title": "MS Football vs Bayside",
+    "start": "2025-08-21T18:00:00.000Z",
+    "end": "2025-08-21T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "X-Country @ Bayside",
+    "start": "2025-08-21T19:30:00.000Z",
+    "end": "2025-08-21T20:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "Bayside Twilight Admiral, Daphne\n7:30 Girls 3K\n7:55 Boys 3K"
+  },
+  {
+    "title": "Volleyball @ Curry Invitational Tournament",
+    "start": "2025-08-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Curry High School",
+    "link": "",
+    "notes": "Curry Invitational Tournament"
+  },
+  {
+    "title": "Football vs Elberta",
+    "start": "2025-08-22T19:00:00.000Z",
+    "end": "2025-08-22T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Mako Stadium"
+  },
+  {
+    "title": "Volleyball @ Curry Invitational Tournament",
+    "start": "2025-08-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Curry High School",
+    "link": "",
+    "notes": "Curry Invitational Tournament"
+  },
+  {
+    "title": "JV Football @ Elberta",
+    "start": "2025-08-25T17:00:00.000Z",
+    "end": "2025-08-25T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Elberta High School",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ Elberta",
+    "start": "2025-08-25T17:00:00.000Z",
+    "end": "2025-08-25T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Elberta High School",
+    "link": "",
+    "notes": "7th- 5:00, 8th- 6:00"
+  },
+  {
+    "title": "Volleyball (JV, V) @ Baldwin County",
+    "start": "2025-08-26T16:30:00.000Z",
+    "end": "2025-08-26T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Baldwin high county school, 1 Tiger Dr, Bay Minette, AL 36507, USA",
+    "link": "",
+    "notes": "JV & Varsity: Baldwin County & TR Miller"
+  },
+  {
+    "title": "MS Volleyball vs Gulf Shores",
+    "start": "2025-08-27T16:30:00.000Z",
+    "end": "2025-08-27T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7th- 4:30, 8th- 5:30"
+  },
+  {
+    "title": "Volleyball (9th, JV, V) vs Elberta",
+    "start": "2025-08-28T16:30:00.000Z",
+    "end": "2025-08-28T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "9th- 4:30, JV- 5:30, V- 6:30"
+  },
+  {
+    "title": "Kona Ice",
+    "start": "2025-08-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Kona Ice",
+    "start": "2025-08-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ OWA (Labor Day Classic)",
+    "start": "2025-08-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Labor Day Classic Tournament; 7th & 8th"
+  },
+  {
+    "title": "Volleyball (9th, JV, V) @ OWA (Labor Day Classic)",
+    "start": "2025-08-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Labor Day Classic"
+  },
+  {
+    "title": "Football @ Citronelle",
+    "start": "2025-08-29T19:00:00.000Z",
+    "end": "2025-08-29T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Citronelle High School, 8200 Lebaron Ave, Citronelle, AL 36522, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ OWA (Labor Day Classic)",
+    "start": "2025-08-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Labor Day Classic Tournament; 7th & 8th"
+  },
+  {
+    "title": "Volleyball (9th, JV, V) @ OWA (Labor Day Classic)",
+    "start": "2025-08-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Labor Day Classic"
+  },
+  {
+    "title": "No School/Labor Day Holiday",
+    "start": "2025-09-01T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "No School/Labor Day Holiday",
+    "start": "2025-09-01T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Volleyball vs Fairhope",
+    "start": "2025-09-02T17:00:00.000Z",
+    "end": "2025-09-02T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th- 6:00"
+  },
+  {
+    "title": "Volleyball (9th) @ Fairhope",
+    "start": "2025-09-04T17:30:00.000Z",
+    "end": "2025-09-04T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": "Tri-Match: Fairhope, MGM"
+  },
+  {
+    "title": "Volleyball (JV, V) @ Gulf Shores",
+    "start": "2025-09-04T17:30:00.000Z",
+    "end": "2025-09-04T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "Tri-Match: Gulf Shores, UMS-Wright"
+  },
+  {
+    "title": "MS Football @ St. Michael",
+    "start": "2025-09-04T18:00:00.000Z",
+    "end": "2025-09-04T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "PALMS t-shirt order deadline (MySchoolBucks)",
+    "start": "2025-09-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "PALMS t-shirt order deadline (MySchoolBucks)",
+    "start": "2025-09-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football vs Bayside",
+    "start": "2025-09-05T19:00:00.000Z",
+    "end": "2025-09-05T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JV Football @ Satsuma",
+    "start": "2025-09-08T17:30:00.000Z",
+    "end": "2025-09-08T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Progress Reports",
+    "start": "2025-09-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Progress Reports",
+    "start": "2025-09-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball (9th, JV, V) @ Robertsdale",
+    "start": "2025-09-09T16:30:00.000Z",
+    "end": "2025-09-09T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Robertsdale High School, 1 Golden Bear Dr, Robertsdale, AL 36567, USA",
+    "link": "",
+    "notes": "9th- 4:30, JV- 5:30, V- 6:30"
+  },
+  {
+    "title": "MS Volleyball vs Elberta",
+    "start": "2025-09-10T17:00:00.000Z",
+    "end": "2025-09-10T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th-6:00"
+  },
+  {
+    "title": "Volleyball vs DAR, Curry, Central-Florence",
+    "start": "2025-09-11T15:30:00.000Z",
+    "end": "2025-09-11T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Tri-Match: DAR, Curry, Central-Florence"
+  },
+  {
+    "title": "MS Volleyball @ St. Pauls",
+    "start": "2025-09-11T17:00:00.000Z",
+    "end": "2025-09-11T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "7th- , 8th-"
+  },
+  {
+    "title": "MS Volleyball @ Spanish Fort Tournament",
+    "start": "2025-09-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Spanish Fort High School, 1 Plaza De Toros Dr, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "8th Grade Tournament"
+  },
+  {
+    "title": "Volleyball vs Mako's Battle for the Board",
+    "start": "2025-09-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Volleyball Tournament @ Orange Beach"
+  },
+  {
+    "title": "Football @ WS Neal",
+    "start": "2025-09-12T19:00:00.000Z",
+    "end": "2025-09-12T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "W S Neal High School, 801 Andrew Jackson St, East Brewton, AL 36426, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ Spanish Fort Tournament",
+    "start": "2025-09-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Spanish Fort High School, 1 Plaza De Toros Dr, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "8th Grade Tournament"
+  },
+  {
+    "title": "Volleyball vs Mako's Battle for the Board",
+    "start": "2025-09-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Volleyball Tournament @ Orange Beach"
+  },
+  {
+    "title": "MS Volleyball @ Spanish Fort (Tri-Match)",
+    "start": "2025-09-15T16:30:00.000Z",
+    "end": "2025-09-15T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Spanish Fort Middle School, Unnamed Road, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "Tri-Match: Spanish Fort, Central Baldwin"
+  },
+  {
+    "title": "Volleyball (9th) @ Saraland",
+    "start": "2025-09-15T16:30:00.000Z",
+    "end": "2025-09-15T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Saraland High School, 1115 Industrial Pkwy, Saraland, AL 36571, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JV Football vs Robertsdale",
+    "start": "2025-09-15T17:30:00.000Z",
+    "end": "2025-09-15T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball (JV, V) @ Satsuma",
+    "start": "2025-09-16T16:30:00.000Z",
+    "end": "2025-09-16T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Picture Day",
+    "start": "2025-09-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Students may wear their school appropriate fall best. Closed toe shoes are required."
+  },
+  {
+    "title": "Fall Picture Day",
+    "start": "2025-09-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Students may wear their school appropriate fall best. Closed toe shoes are required."
+  },
+  {
+    "title": "MS Volleyball @ Gulf Shores",
+    "start": "2025-09-17T16:30:00.000Z",
+    "end": "2025-09-17T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "7th- 4:30, 8th- 5:30"
+  },
+  {
+    "title": "Volleyball (JV, V) @ Fairhope",
+    "start": "2025-09-17T17:30:00.000Z",
+    "end": "2025-09-17T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": "Tri-Match: Fairhope, Spanish Fort"
+  },
+  {
+    "title": "Volleyball (JV, V) vs MGM",
+    "start": "2025-09-18T16:30:00.000Z",
+    "end": "2025-09-18T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football vs Satsuma",
+    "start": "2025-09-18T19:00:00.000Z",
+    "end": "2025-09-18T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Alabama Public Television Game of the Week (AHSAA)"
+  },
+  {
+    "title": "MS Volleyball @ Gulf Shores Tournament",
+    "start": "2025-09-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "7th & 8th Tournament"
+  },
+  {
+    "title": "MS Volleyball @ Satsuma",
+    "start": "2025-09-22T16:30:00.000Z",
+    "end": "2025-09-22T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
+    "link": "",
+    "notes": "7th- 4:30, 8th- 5:30"
+  },
+  {
+    "title": "JV Football vs Elberta",
+    "start": "2025-09-22T17:00:00.000Z",
+    "end": "2025-09-22T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball (V, JV) vs Foley",
+    "start": "2025-09-23T16:30:00.000Z",
+    "end": "2025-09-23T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Senior Night"
+  },
+  {
+    "title": "MS Volleyball @ Fairhope (Tri-Match)",
+    "start": "2025-09-24T16:30:00.000Z",
+    "end": "2025-09-24T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Fairhope Middle School",
+    "link": "",
+    "notes": "Tri-Match: Fairhope, Bay Minette"
+  },
+  {
+    "title": "Volleyball (JV) vs Bayshore",
+    "start": "2025-09-25T17:00:00.000Z",
+    "end": "2025-09-25T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-09-26T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-09-26T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football @ Robertsdale",
+    "start": "2025-09-26T19:00:00.000Z",
+    "end": "2025-09-26T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Robertsdale High School, 1 Golden Bear Dr, Robertsdale, AL 36567, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ Daphne Jubilee Jam Tournament",
+    "start": "2025-09-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Daphne High School",
+    "link": "",
+    "notes": "7th & 8th Tournament"
+  },
+  {
+    "title": "JV Football @ St. Michael",
+    "start": "2025-09-29T17:30:00.000Z",
+    "end": "2025-09-29T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball (JV, V) vs St. Michael",
+    "start": "2025-09-30T16:30:00.000Z",
+    "end": "2025-09-30T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "PureGame Winter Sports",
+    "start": "2025-10-01T14:30:00.000Z",
+    "end": "2025-10-01T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Football @ Bayside",
+    "start": "2025-10-02T18:00:00.000Z",
+    "end": "2025-10-02T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Kona Ice",
+    "start": "2025-10-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Kona Ice",
+    "start": "2025-10-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football @ Escambia County",
+    "start": "2025-10-03T19:00:00.000Z",
+    "end": "2025-10-03T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Escambia County High School, 1215 S Presley St, Atmore, AL 36502, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "​Disney's Lion King JR.",
     "start": "2025-10-03T19:00:00.000Z",
     "end": "2025-10-03T20:00:00.000Z",
@@ -34,5 +922,785 @@
     "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7557"
+  },
+  {
+    "title": "Volleyball @ Gulf Shores",
+    "start": "2025-10-07T17:30:00.000Z",
+    "end": "2025-10-07T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "Tri-Match: Gulf Shores, Madison Co."
+  },
+  {
+    "title": "Walk and Roll to School Day",
+    "start": "2025-10-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Walk and Roll to School Day",
+    "start": "2025-10-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball vs Sparkman",
+    "start": "2025-10-08T16:30:00.000Z",
+    "end": "2025-10-08T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "End of 1st Quarter",
+    "start": "2025-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "End of 1st Quarter",
+    "start": "2025-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball vs Baldwin Co, Buckhorn",
+    "start": "2025-10-09T16:30:00.000Z",
+    "end": "2025-10-09T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Tri-Match: Baldwin Co, Buckhorn"
+  },
+  {
+    "title": "Football @ Jackson",
+    "start": "2025-10-09T19:00:00.000Z",
+    "end": "2025-10-09T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Jackson High School, 321 Stanley Dr, Jackson, AL 36545, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break",
+    "start": "2025-10-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball Area Tournament",
+    "start": "2025-10-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "TBD",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Report Cards",
+    "start": "2025-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Report Cards",
+    "start": "2025-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Football @ Elberta",
+    "start": "2025-10-16T18:00:00.000Z",
+    "end": "2025-10-16T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Elberta High School",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football vs Mobile Christian",
+    "start": "2025-10-17T19:00:00.000Z",
+    "end": "2025-10-17T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Homecoming"
+  },
+  {
+    "title": "JV Football vs Foley",
+    "start": "2025-10-20T17:00:00.000Z",
+    "end": "2025-10-20T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Volleyball Regional Tournament",
+    "start": "2025-10-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Montgomery, AL, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-10-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-10-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football vs St. Michael",
+    "start": "2025-10-24T19:00:00.000Z",
+    "end": "2025-10-24T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Volleyball State Tournament",
+    "start": "2025-10-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Volleyball State Tournament",
+    "start": "2025-10-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Volleyball State Tournament",
+    "start": "2025-10-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-31T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "Red Ribbon Week: Life is a puzzle, live drug free",
+    "start": "2025-10-31T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Life is a puzzle, live drug free"
+  },
+  {
+    "title": "STEAM Day",
+    "start": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "STEAM Day",
+    "start": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Veterans Day Holiday",
+    "start": "2025-11-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Veterans Day Holiday",
+    "start": "2025-11-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Progress Reports",
+    "start": "2025-11-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Progress Reports",
+    "start": "2025-11-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Spelling Bee",
+    "start": "2025-11-14T08:30:00.000Z",
+    "end": "2025-11-14T09:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Join with Google Meet: https://meet.google.com/gwo-yjhd-phk\nOr dial: (US) +1 812-228-1507 PIN: 436088434#\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720"
+  },
+  {
+    "title": "Spelling Bee",
+    "start": "2025-11-14T08:30:00.000Z",
+    "end": "2025-11-14T09:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Join with Google Meet: https://meet.google.com/gwo-yjhd-phk\nOr dial: (US) +1 812-228-1507 PIN: 436088434#\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720"
+  },
+  {
+    "title": "Holiday Picture day/Make-up yearbook",
+    "start": "2025-11-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Holiday Picture day/Make-up yearbook",
+    "start": "2025-11-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Parents' Day",
+    "start": "2025-11-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Parents' Day",
+    "start": "2025-11-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Parents' Day",
+    "start": "2025-11-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Parents' Day",
+    "start": "2025-11-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-11-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-11-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-26T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-26T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Thanksgiving Break",
+    "start": "2025-11-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   }
 ]
