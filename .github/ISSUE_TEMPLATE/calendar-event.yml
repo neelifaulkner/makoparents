@@ -1,0 +1,67 @@
+name: Calendar Event Submission
+description: Submit an event for the Mako Parents calendar (goes to approval)
+title: "[Calendar] Your event title"
+labels: ["calendar-event","needs-approval"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Event title
+      placeholder: e.g., Football vs. Gulf Shores
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Date (YYYY-MM-DD)
+      placeholder: 2025-09-15
+    validations:
+      required: true
+
+  - type: input
+    id: time
+    attributes:
+      label: Start time (24h HH:MM) — leave blank for all-day
+      placeholder: "19:00"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - school
+        - sports
+        - testing
+        - deadlines
+        - arts
+        - community
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location (optional)
+      placeholder: OBHS Stadium
+    validations:
+      required: false
+
+  - type: input
+    id: link
+    attributes:
+      label: Link (tickets/info) (optional)
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Details (optional)
+      placeholder: Extra info for parents
+    validations:
+      required: false
