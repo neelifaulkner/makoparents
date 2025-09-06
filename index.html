@@ -1,37 +1,108 @@
-<section class="grid">
-  <article class="card">
-    <h3 style="margin-top:0;">School Board & Policy</h3>
-    <p>Meeting dates, agendas, and board information.</p>
-    <a href="https://www.orangebeachboe.org/school-board" target="_blank" rel="noopener">Visit the Board Site →</a>
-  </article>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mako Parents • Orange Beach</title>
+  <meta name="description" content="Parent-powered hub for Orange Beach City Schools—clear, timely, and accessible info for families." />
+  <style>
+    :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
+    * { box-sizing: border-box; }
+    body { margin:0; font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); background:var(--bg); }
+    a { color:var(--brand); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width:1000px; margin:0 auto; padding:24px 20px 60px; }
 
-  <article class="card">
-    <h3 style="margin-top:0;">Minutes</h3>
-    <p>Detailed, parent-friendly notes from board meetings. Summaries you can actually use.</p>
-    <a href="/minutes/">View all minutes →</a>
-  </article>
+    /* Nav */
+    nav { display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2; }
+    nav .brand { font-weight:900; letter-spacing:.2px; }
+    nav a { font-weight:600; }
 
-  <article class="card">
-    <h3 style="margin-top:0;">Events & Deadlines</h3>
-    <p>Sports, arts, registrations, and key school dates in one place.</p>
-    <a href="/calendar/">Open calendar →</a>
-  </article>
+    /* Hero */
+    header.hero { background:linear-gradient(135deg,var(--brand),#0345a2); color:#fff; padding:56px 20px; text-align:center; }
+    header.hero h1 { margin:0 0 10px; font-size:clamp(28px,5vw,44px); letter-spacing:.3px; }
+    header.hero p { margin:0 auto; opacity:.95; max-width:720px; }
 
-  <article class="card">
-    <h3 style="margin-top:0;">Parent Resources</h3>
-    <p>Guides, contacts, and how-tos for navigating the system.</p>
-    <a href="/resources/">See resources →</a>
-  </article>
+    /* Cards & sections */
+    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); }
+    .pill { display:inline-block; background:rgba(240,78,35,.12); color:var(--accent); padding:6px 10px; border-radius:999px; font-weight:700; font-size:13px; }
+    .grid { display:grid; gap:16px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
+    .cta { display:inline-block; margin-top:10px; background:var(--accent); color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; }
+    .meta { color:#5a6472; font-size:14px; }
 
-  <article class="card">
-    <h3 style="margin-top:0;">Special Education</h3>
-    <p>Resources, guides, and advocacy tips for families navigating IEPs, 504 plans, and special services.</p>
-    <a href="/special-education/">Explore Special Education →</a>
-  </article>
+    /* Footer */
+    footer { text-align:center; color:#5a6472; padding:36px 20px; }
+  </style>
+</head>
+<body>
+  <!-- Simple site-wide nav -->
+  <nav>
+    <a class="brand" href="/">Mako Parents</a>
+    <a href="/updates/">Updates</a>
+    <a href="/calendar/">Calendar</a>
+    <a href="/resources/">Resources</a>
+    <a href="/minutes/">Minutes</a>
+    <a href="/about.html">About</a>
+    <a href="/submit.html">Submit</a>
+  </nav>
 
-  <article class="card">
-    <h3 style="margin-top:0;">Support & Services</h3>
-    <p>Local programs, after-school activities, tutoring, and mental health resources for families.</p>
-    <a href="/support/">Explore support →</a>
-  </article>
-</section>
+  <!-- Hero -->
+  <header class="hero">
+    <h1>Mako Parents</h1>
+    <p>Parent-powered updates for Orange Beach City Schools</p>
+  </header>
+
+  <main class="wrap">
+    <!-- WHY WE EXIST -->
+    <section class="card" style="margin-bottom:16px;">
+      <span class="pill">Why we exist</span>
+      <h2 style="margin:8px 0 8px;">Parents should always feel informed, not overwhelmed</h2>
+      <p>Every family deserves clear, timely, and accessible information about what’s happening in our schools and community. Mako Parents was created to bring that information together in one place, so parents can spend less time searching and more time supporting their kids.</p>
+      <a class="cta" href="/submit.html">Submit a tip or link</a>
+    </section>
+
+    <!-- Feature grid -->
+    <section class="grid">
+      <article class="card">
+        <h3 style="margin-top:0;">School Board & Policy</h3>
+        <p>Meeting dates, agendas, and board information.</p>
+        <a href="https://www.orangebeachboe.org/school-board" target="_blank" rel="noopener">Visit the Board Site →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Minutes</h3>
+        <p>Detailed, parent-friendly notes from board meetings. Summaries you can actually use.</p>
+        <a href="/minutes/">View all minutes →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Events & Deadlines</h3>
+        <p>Sports, arts, registrations, and key school dates in one place.</p>
+        <a href="/calendar/">Open calendar →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Parent Resources</h3>
+        <p>Guides, contacts, and how-tos for navigating the system.</p>
+        <a href="/resources/">See resources →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Special Education</h3>
+        <p>Resources, guides, and advocacy tips for families navigating IEPs, 504 plans, and special services.</p>
+        <a href="/special-education/">Explore Special Education →</a>
+      </article>
+
+      <article class="card">
+        <h3 style="margin-top:0;">Support & Services</h3>
+        <p>Local programs, after-school activities, tutoring, and mental health resources for families.</p>
+        <a href="/support/">Explore support →</a>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    Made by Orange Beach parents • Not affiliated with OBCS • <span class="meta"><a href="/about.html">About</a></span>
+  </footer>
+</body>
+</html>
