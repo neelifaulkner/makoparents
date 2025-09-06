@@ -8,32 +8,34 @@
   <link rel="stylesheet" href="/styles.css">
   <style>
     :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
-    body { background: var(--bg); }
+    body { background: var(--bg); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); margin:0; }
     .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
-    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); }
+    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); margin:20px 0; }
+    h1 { margin: 12px 0; color: var(--brand); }
+    h2 { color: var(--brand); margin: 0 0 10px; }
     .meta { color:#5a6472; font-size:14px; }
-    h1 { margin: 12px 0; }
-    .year { margin: 28px 0 8px; color: var(--brand); }
-    .list { list-style: none; padding: 0; margin: 0; }
-    .list li { display:flex; gap:12px; align-items:baseline; padding:12px 0; border-bottom:1px solid #eef1f6; }
-    .list li:last-child { border-bottom:none; }
-    .date { min-width: 10ch; font-weight:700; }
     a { color: var(--brand); text-decoration: none; }
     a:hover { text-decoration: underline; }
-    .search { display:flex; gap:10px; margin:16px 0 20px; }
+    .search { display:flex; gap:10px; margin:12px 0 8px; }
     .search input { flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px; }
-    .badge { display:inline-block; background:rgba(240,78,35,.12); color:#F04E23; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:700; }
+    .list { list-style:none; padding:0; margin:0; }
+    .row { display:flex; gap:12px; align-items:baseline; padding:12px 0; border-bottom:1px solid #eef1f6; }
+    .row:last-child { border-bottom:none; }
+    .date { min-width: 12ch; font-weight:700; }
+    .badge { display:inline-block; background:rgba(240,78,35,.12); color:#F04E23; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:700; margin-left:8px; }
     @media print { nav { display:none } .card { box-shadow:none; border:1px solid #ddd } }
   </style>
 </head>
 <body>
-  <!-- Simple nav (match your site) -->
+  <!-- Nav (match your site) -->
   <nav style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2;">
     <a href="/">Home</a>
     <a href="/updates/">Updates</a>
     <a href="/calendar/">Calendar</a>
     <a href="/resources/">Resources</a>
     <a href="/minutes/">Minutes</a>
+    <a href="/special-education/">Special Education</a>
+    <a href="/support/">Support & Services</a>
     <a href="/about.html">About</a>
     <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit</a>
   </nav>
@@ -47,45 +49,55 @@
       </div>
     </header>
 
-    <!-- Minutes list container -->
+    <!-- Minutes by year -->
     <section class="card" id="minutes">
-      <!-- ==== EXAMPLE ENTRIES (edit/extend these) ==== -->
-      <h2 class="year">2025</h2>
+      <h2>2025</h2>
       <ul class="list">
-        <li data-text="2025-09-10 budget transportation facilities regular meeting">
+        <!-- EXAMPLE ROWS — duplicate and edit -->
+        <li class="row" data-text="2025-09-10 budget transportation facilities regular meeting">
           <span class="date">Sep 10, 2025</span>
-          <a href="https://docs.google.com/document/d/XXXXXXXXXXXX/view" target="_blank" rel="noopener">
-            School Board Meeting — Regular Session
-          </a>
-          <span class="badge" title="Opens an embedded page">Notes</span>
+          <span>
+            <a href="https://docs.google.com/document/d/XXXXXXXXXXXX/view" target="_blank" rel="noopener">
+              School Board Meeting — Regular Session
+            </a>
+            <a class="badge" href="/minutes/2025-09-10-board.html">Embedded</a>
+          </span>
         </li>
-        <li data-text="2025-08-27 facilities safety special-called">
+
+        <li class="row" data-text="2025-08-27 facilities safety special-called">
           <span class="date">Aug 27, 2025</span>
-          <a href="https://docs.google.com/document/d/YYYYYYYYYYYY/view" target="_blank" rel="noopener">
-            Special-Called Meeting — Facilities & Safety
-          </a>
+          <span>
+            <a href="https://docs.google.com/document/d/YYYYYYYYYYYY/view" target="_blank" rel="noopener">
+              Special-Called Meeting — Facilities & Safety
+            </a>
+          </span>
         </li>
       </ul>
 
-      <h2 class="year">2024</h2>
+      <h2 style="margin-top:24px;">2024</h2>
       <ul class="list">
-        <li data-text="2024-12-12 policy curriculum regular">
+        <li class="row" data-text="2024-12-12 policy curriculum regular">
           <span class="date">Dec 12, 2024</span>
-          <a href="https://docs.google.com/document/d/ZZZZZZZZZZZZ/view" target="_blank" rel="noopener">
-            School Board Meeting — Policy & Curriculum
-          </a>
+          <span>
+            <a href="https://docs.google.com/document/d/ZZZZZZZZZZZZ/view" target="_blank" rel="noopener">
+              School Board Meeting — Policy & Curriculum
+            </a>
+          </span>
         </li>
       </ul>
-      <!-- =========================================== -->
+    </section>
+
+    <section class="card">
+      <h2>How to Contribute</h2>
+      <p>Have your own notes or a link to share? Send them here and we’ll add them:</p>
+      <p><a class="badge" href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit minutes or links →</a></p>
     </section>
   </main>
 
   <script>
-    // Simple client-side search filtering
+    // Simple client-side search filtering (matches text plus data-text keywords)
     const q = document.getElementById('q');
-    const minutes = document.getElementById('minutes');
-    const rows = Array.from(minutes.querySelectorAll('.list li'));
-
+    const rows = Array.from(document.querySelectorAll('#minutes .row'));
     function filter(value) {
       const term = value.trim().toLowerCase();
       rows.forEach(li => {
