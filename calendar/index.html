@@ -13,6 +13,7 @@
     .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); margin:20px 0; }
     h1 { margin: 12px 0; color: var(--brand); }
     h2 { color: var(--brand); margin: 0 0 10px; }
+    h3 { margin: 0 0 6px; }
     .meta { color:#5a6472; font-size:14px; }
     a { color: var(--brand); text-decoration: none; }
     a:hover { text-decoration: underline; }
@@ -66,7 +67,6 @@
           </select>
         </div>
         <div class="filters" aria-label="Filters">
-          <!-- Checkboxes map to event.categories -->
           <label class="filter-chip"><input type="checkbox" value="school" checked> School Calendar</label>
           <label class="filter-chip"><input type="checkbox" value="sports" checked> Sports</label>
           <label class="filter-chip"><input type="checkbox" value="testing" checked> Testing</label>
@@ -83,7 +83,7 @@
         <h2 style="margin:0;">Calendar</h2>
         <a class="cta mini" href="#submit">Submit an event →</a>
       </div>
-      <div id="eventsList" aria-live="polite" aria-busy="false"></div>
+      <div id="eventsList" aria-live="polite" aria-busy="true"></div>
       <p id="emptyState" class="muted" style="display:none; padding:10px 0;">No events match your filters.</p>
     </section>
 
@@ -126,68 +126,92 @@
   </footer>
 
   <script>
-    // ----- 1) Data: edit/extend this list to add events -----
-    // category: one of ['school','sports','testing','deadlines','arts','community']
-    const EVENTS = [
-      // sample upcoming
-      { title: "First Day of School", date: "2025-08-12", time: "", categories: ["school"], location: "All campuses", link: "", notes: "" },
-      { title: "ACT School-Day Testing", date: "2025-10-07", time: "08:00", categories: ["testing","school"], location: "OBHS", link: "", notes: "Grade 11" },
-      { title: "Football vs. Gulf Shores", date: "2025-09-12", time: "19:00", categories: ["sports","community"], location: "OBHS Stadium", link: "", notes: "Tickets on GoFan" },
-      { title: "Art Show Submission Deadline", date: "2025-10-01", time: "", categories: ["deadlines","arts"], location: "", link: "", notes: "" },
-      { title: "Band Concert", date: "2025-11-05", time: "18:30", categories: ["arts","school"], location: "OBHS Auditorium", link: "", notes: "" },
-      // sample past (to prove range filter)
-      { title: "Spring Testing Window Opens", date: "2025-04-01", time: "", categories: ["testing","school"], location: "", link: "", notes: "" },
-    ];
-
-    // ----- 2) Helpers -----
-    const $ = s => document.querySelector(s);
-    const $$ = s => Array.from(document.querySelectorAll(s));
+    // ----------------------------
+    // 1) Load events.json (built by GitHub Action)
+    // ----------------------------
+    let EVENTS = [];
     const monthNames = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 
-    function fmtDate(iso) {
-      const d = new Date(iso + (iso.length === 10 ? "T00:00:00" : ""));
-      if (isNaN(d)) return iso;
+    function fmtDate(iso){
+      const d = new Date(iso);
+      if (isNaN(d)) return "";
       return `${monthNames[d.getMonth()]} ${String(d.getDate()).padStart(2,'0')}, ${d.getFullYear()}`;
     }
-    function fmtTime(t) {
-      if (!t) return "";
-      const [H,M] = t.split(":").map(Number);
+    function fmtTime(iso){
+      const d = new Date(iso);
+      if (isNaN(d)) return "";
+      const H = d.getHours(), M = d.getMinutes();
       const am = H < 12 ? "AM" : "PM";
-      const h = ((H + 11) % 12 + 1);
-      return `${h}:${String(M||0).padStart(2,'0')} ${am}`;
+      const h = ((H + 11) % 12) + 1;
+      return `${h}:${String(M).padStart(2,'0')} ${am}`;
     }
-    function withinRange(d, mode) {
+
+    async function loadEvents(){
+      const listEl = document.getElementById('eventsList');
+      listEl.setAttribute('aria-busy', 'true');
+      try {
+        const res = await fetch('/calendar/events.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('events.json not found');
+        const raw = await res.json();
+        EVENTS = raw.map(ev => ({
+          title: ev.title,
+          start: ev.start,      // ISO string
+          end: ev.end || "",
+          allDay: !!ev.allDay,
+          categories: ev.categories || ["school"],
+          location: ev.location || "",
+          link: ev.link || "",
+          notes: ev.notes || ""
+        }));
+      } catch (e) {
+        console.error('Failed to load events.json', e);
+        EVENTS = [];
+      } finally {
+        listEl.setAttribute('aria-busy', 'false');
+        render();
+      }
+    }
+
+    // ----------------------------
+    // 2) Filters / search / range
+    // ----------------------------
+    const $ = s => document.querySelector(s);
+    const $$ = s => Array.from(document.querySelectorAll(s));
+    const qEl = $("#q");
+    const rangeEl = $("#range");
+    const checksEl = $$(".filters input[type=checkbox]");
+    const listEl = $("#eventsList");
+    const emptyEl = $("#emptyState");
+
+    function withinRange(iso, mode){
       const now = new Date();
-      const dt = new Date(d + "T00:00:00");
-      if (mode === "upcoming") return dt >= new Date(now.getFullYear(), now.getMonth(), now.getDate());
+      const dt = new Date(iso);
+      if (isNaN(dt)) return false;
+      if (mode === "upcoming") {
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        return dt >= today;
+      }
       if (mode === "this-month") {
         const start = new Date(now.getFullYear(), now.getMonth(), 1);
-        const end = new Date(now.getFullYear(), now.getMonth()+1, 0);
+        const end = new Date(now.getFullYear(), now.getMonth()+1, 0, 23, 59, 59);
         return dt >= start && dt <= end;
       }
       return true; // "all"
     }
 
-    // ----- 3) Render -----
-    const listEl = $("#eventsList");
-    const emptyEl = $("#emptyState");
-    const qEl = $("#q");
-    const rangeEl = $("#range");
-    const checksEl = $$(".filters input[type=checkbox]");
-
-    function render() {
+    function render(){
       const term = qEl.value.trim().toLowerCase();
       const range = rangeEl.value;
       const activeCats = checksEl.filter(c => c.checked).map(c => c.value);
 
       const filtered = EVENTS
-        .filter(ev => withinRange(ev.date, range))
+        .filter(ev => withinRange(ev.start, range))
         .filter(ev => ev.categories.some(c => activeCats.includes(c)))
         .filter(ev => {
           const hay = (ev.title + " " + (ev.location||"") + " " + (ev.notes||"") + " " + ev.categories.join(" ")).toLowerCase();
           return !term || hay.includes(term);
         })
-        .sort((a,b) => new Date(a.date) - new Date(b.date));
+        .sort((a,b) => new Date(a.start) - new Date(b.start));
 
       listEl.innerHTML = "";
       if (!filtered.length) {
@@ -199,7 +223,7 @@
       // Group by month/year
       let currentGroup = "";
       filtered.forEach(ev => {
-        const d = new Date(ev.date + "T00:00:00");
+        const d = new Date(ev.start);
         const group = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
         if (group !== currentGroup) {
           currentGroup = group;
@@ -213,11 +237,11 @@
         const row = document.createElement("div");
         row.className = "event";
         row.innerHTML = `
-          <div class="event-date">${fmtDate(ev.date)}</div>
+          <div class="event-date">${fmtDate(ev.start)}</div>
           <div class="event-body">
             <h3>${ev.title}</h3>
             <div class="meta">
-              ${ev.time ? `<span class="badge" title="Time">${fmtTime(ev.time)}</span>` : ""}
+              ${!ev.allDay ? `<span class="badge" title="Time">${fmtTime(ev.start)}</span>` : ""}
               ${ev.categories.map(c => `<span class="badge">${c.charAt(0).toUpperCase()+c.slice(1)}</span>`).join(" ")}
             </div>
             ${ev.location ? `<div class="meta"><strong>Location:</strong> ${ev.location}</div>` : ""}
@@ -231,9 +255,10 @@
     checksEl.forEach(c => c.addEventListener("change", render));
     qEl.addEventListener("input", render);
     rangeEl.addEventListener("change", render);
-    render();
 
-    // ----- 4) Submit via email (mailto) -----
+    // ----------------------------
+    // 3) Submit via email (mailto)
+    // ----------------------------
     function submitEventEmail(e){
       e.preventDefault();
       const title = $("#title").value.trim();
@@ -267,6 +292,9 @@
       return false;
     }
     window.submitEventEmail = submitEventEmail;
+
+    // Kick things off
+    loadEvents();
   </script>
 </body>
 </html>
