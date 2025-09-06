@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How to Request an Evaluation (Alabama) • Mako Parents</title>
+  <meta name="description" content="Step-by-step guide for Alabama parents to request a special education evaluation (IEP) — with timelines, rights, and a sample letter." />
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
+    body { background: var(--bg); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); margin:0; }
+    .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
+    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); margin:20px 0; }
+    h1 { margin: 12px 0; color: var(--brand); }
+    h2 { color: var(--brand); margin: 0 0 10px; }
+    h3 { margin: 14px 0 6px; }
+    .meta { color:#5a6472; font-size:14px; }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { margin:0; padding-left:20px; }
+    .cta { display:inline-block; background:#F04E23; color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; text-decoration:none; }
+    .note { background: #fff8f6; border:1px solid #ffd9cf; border-left:4px solid var(--accent); border-radius:12px; padding:12px 14px; margin:12px 0; }
+    .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; background:#f1f3f8; border:1px solid #e3e7ee; border-radius:6px; padding:0 6px; }
+    .grid2 { display:grid; gap:12px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+    .table { width:100%; border-collapse: collapse; }
+    .table th, .table td { text-align:left; padding:8px 10px; border-bottom:1px solid #eef1f6; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media print { nav { display:none } .card { box-shadow:none; border:1px solid #ddd } body{ background:#fff } }
+  </style>
+</head>
+<body>
+  <!-- Site nav -->
+  <nav style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2;">
+    <a href="/">Home</a>
+    <a href="/updates/">Updates</a>
+    <a href="/calendar/">Calendar</a>
+    <a href="/resources/">Resources</a>
+    <a href="/minutes/">Minutes</a>
+    <a href="/special-education/">Special Education</a>
+    <a href="/support/">Support & Services</a>
+    <a href="/about.html">About</a>
+    <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit</a>
+  </nav>
+
+  <main class="wrap">
+    <header style="margin:10px 0 16px;">
+      <h1>How to Request a Special Education Evaluation (Alabama)</h1>
+      <p class="meta">For Orange Beach families: clear steps, Alabama timelines, your rights, and a ready-to-use letter.</p>
+    </header>
+
+    <!-- Why & when -->
+    <section class="card">
+      <h2>When to Request an Evaluation</h2>
+      <p>If your child is struggling academically, behaviorally, or socially, you can request a <strong>free</strong> special education evaluation through the school. The evaluation determines eligibility for services under IDEA and what supports might help.</p>
+      <div class="note">
+        <strong>Alabama timelines (by law):</strong>
+        <ul>
+          <li><strong>60 calendar days</strong> from the date the school receives your signed consent to <em>complete</em> the initial evaluation.</li>
+          <li><strong>30 calendar days</strong> after the evaluation is completed to determine initial eligibility.</li>
+        </ul>
+        <p class="meta">These clocks run even during scheduled school breaks (e.g., summer). :contentReference[oaicite:0]{index=0}</p>
+      </div>
+    </section>
+
+    <!-- Steps -->
+    <section class="card">
+      <h2>Step-by-Step: Alabama Process</h2>
+      <ol>
+        <li>
+          <h3>Send a written request</h3>
+          <p>Email or deliver a short letter to the <strong>principal</strong> and the <strong>Special Education Coordinator</strong> asking for a “special education evaluation.” Include your child’s full name, grade/school, specific concerns, and the date. Keep a copy for your records.</p>
+        </li>
+        <li>
+          <h3>Referral/Problem-Solving meeting</h3>
+          <p>The school convenes a team meeting to review data (grades, behavior, interventions). If the team suspects a disability, they’ll seek your <strong>written consent</strong> to evaluate. You must receive your <em>Special Education Rights</em> at or before this point.</p>
+          <p class="meta">Consent starts the 60-day evaluation clock; schools must document reasonable efforts to obtain consent and provide rights notices. :contentReference[oaicite:1]{index=1}</p>
+        </li>
+        <li>
+          <h3>Evaluation (no cost to you)</h3>
+          <p>Multidisciplinary assessments may include academic testing, speech/language, psychology, behavior, OT/PT, etc. Schools complete all testing within <strong>60 calendar days</strong> from receipt of your signed consent. :contentReference[oaicite:2]{index=2}</p>
+        </li>
+        <li>
+          <h3>Eligibility decision</h3>
+          <p>Within <strong>30 calendar days</strong> after the evaluation is complete, the team—including you—meets to decide eligibility under IDEA categories and whether your child needs special education and related services. :contentReference[oaicite:3]{index=3}</p>
+        </li>
+        <li>
+          <h3>IEP development (if eligible)</h3>
+          <p>If eligible, the team drafts an <strong>Individualized Education Program (IEP)</strong> that outlines goals, services, accommodations, and placement.</p>
+        </li>
+        <li>
+          <h3>If not eligible</h3>
+          <p>You can discuss general education supports and ask whether a <strong>Section 504 plan</strong> is appropriate based on your child’s needs.</p>
+        </li>
+      </ol>
+    </section>
+
+    <!-- Our recommendation -->
+    <section class="card">
+      <h2>Our Recommendation: Consider a Special Education Advocate</h2>
+      <p>The process can be overwhelming. Many Baldwin County parents find it helpful to work with a <strong>special education advocate</strong> who understands IDEA, Alabama rules, and local practices. Advocates can help you prep for meetings, review data, and make sure your child’s rights are respected.</p>
+      <p><strong>We maintain a parent-recommended list of local and state advocates</strong> (compiled from Baldwin County families). <a href="#" aria-label="View the advocates list">View the list</a> (coming soon).</p>
+    </section>
+
+    <!-- Disagreements -->
+    <section class="card">
+      <h2>If You Disagree with the School</h2>
+      <div class="grid2">
+        <div>
+          <h3>Request an IEE</h3>
+          <p>You may request an <strong>Independent Educational Evaluation (IEE)</strong> at public expense if you disagree with the evaluation. Ask—in writing—for the district’s IEE procedures.</p>
+        </div>
+        <div>
+          <h3>Mediation / Due Process</h3>
+          <p>Alabama offers mediation and due process to resolve disputes. You’ll receive procedural safeguards explaining these options whenever you request an evaluation. :contentReference[oaicite:4]{index=4}</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sample letter -->
+    <section class="card">
+      <h2>Sample Letter (Copy/Paste)</h2>
+      <p class="meta">Tip: send by email and ask for confirmation of receipt. The 60-day clock starts when the school <em>receives</em> your signed consent form, but a timestamped request helps track the process. :contentReference[oaicite:5]{index=5}</p>
+<pre class="mono" style="white-space:pre-wrap; background:#f9fafc; border:1px solid #e3e7ee; border-radius:12px; padding:14px;">
+[Today’s Date]
+
+Subject: Request for Special Education Evaluation (IDEA)
+
+Dear [Principal’s Name] and [Special Education Coordinator],
+
+I am requesting a comprehensive special education evaluation for my child, [Child’s Full Name], who is in [grade] at [school]. We have concerns regarding [brief concerns—reading, writing, math, attention, behavior, speech, etc.]. 
+
+Please let me know the next steps to provide written consent for the evaluation. I appreciate a written acknowledgment of this request and a proposed date for the referral team meeting.
+
+Sincerely,
+[Your Name]
+[Phone]
+[Email]
+</pre>
+      <p class="meta">When the school provides the <em>Notice and Consent for Initial Evaluation</em> form, sign and return it promptly—the 60-day clock begins upon the district’s receipt of your signed consent. :contentReference[oaicite:6]{index=6}</p>
+    </section>
+
+    <!-- Quick summary table -->
+    <section class="card">
+      <h2>Quick View: Alabama Timeline</h2>
+      <table class="table" aria-label="Alabama evaluation timeline">
+        <thead>
+          <tr><th>Milestone</th><th>Deadline</th><th>Notes</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>School receives your signed consent</td>
+            <td>Day 0</td>
+            <td>Starts the 60-day evaluation clock. :contentReference[oaicite:7]{index=7}</td>
+          </tr>
+          <tr>
+            <td>Complete initial evaluation</td>
+            <td>By Day 60 (calendar days)</td>
+            <td>Runs through school breaks. :contentReference[oaicite:8]{index=8}</td>
+          </tr>
+          <tr>
+            <td>Eligibility decision meeting</td>
+            <td>Within 30 calendar days after evaluation completion</td>
+            <td>Team (including you) determines eligibility. :contentReference[oaicite:9]{index=9}</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Need help -->
+    <section class="card">
+      <h2>Need Help?</h2>
+      <ul>
+        <li>Your school’s Special Education Coordinator</li>
+        <li>Alabama State Dept. of Education — Special Education Services: <a href="https://www.alabamaachieves.org/special-education-services/" target="_blank" rel="noopener">website</a></li>
+      </ul>
+      <p><a class="cta" href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Ask a question →</a></p>
+    </section>
+  </main>
+
+  <footer style="text-align:center; color:#5a6472; padding:36px 20px;">
+    Made by Orange Beach parents • Not affiliated with OBCS • <span class="meta"><a href="/about.html">About</a></span>
+  </footer>
+</body>
+</html>
