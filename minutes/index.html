@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meeting Minutes • Mako Parents</title>
+  <meta name="description" content="Detailed, parent-friendly notes from Orange Beach City Schools board meetings." />
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
+    body { background: var(--bg); }
+    .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
+    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); }
+    .meta { color:#5a6472; font-size:14px; }
+    h1 { margin: 12px 0; }
+    .year { margin: 28px 0 8px; color: var(--brand); }
+    .list { list-style: none; padding: 0; margin: 0; }
+    .list li { display:flex; gap:12px; align-items:baseline; padding:12px 0; border-bottom:1px solid #eef1f6; }
+    .list li:last-child { border-bottom:none; }
+    .date { min-width: 10ch; font-weight:700; }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .search { display:flex; gap:10px; margin:16px 0 20px; }
+    .search input { flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px; }
+    .badge { display:inline-block; background:rgba(240,78,35,.12); color:#F04E23; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:700; }
+    @media print { nav { display:none } .card { box-shadow:none; border:1px solid #ddd } }
+  </style>
+</head>
+<body>
+  <!-- Simple nav (match your site) -->
+  <nav style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2;">
+    <a href="/">Home</a>
+    <a href="/updates/">Updates</a>
+    <a href="/calendar/">Calendar</a>
+    <a href="/resources/">Resources</a>
+    <a href="/minutes/">Minutes</a>
+    <a href="/about.html">About</a>
+    <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit</a>
+  </nav>
+
+  <main class="wrap">
+    <header style="margin:10px 0 16px;">
+      <h1>Meeting Minutes</h1>
+      <p class="meta">Detailed, parent-friendly notes from school board meetings. Links open in a new tab.</p>
+      <div class="search">
+        <input id="q" type="search" placeholder="Search by date, topic, or title…" autocomplete="off" aria-label="Search minutes">
+      </div>
+    </header>
+
+    <!-- Minutes list container -->
+    <section class="card" id="minutes">
+      <!-- ==== EXAMPLE ENTRIES (edit/extend these) ==== -->
+      <h2 class="year">2025</h2>
+      <ul class="list">
+        <li data-text="2025-09-10 budget transportation facilities regular meeting">
+          <span class="date">Sep 10, 2025</span>
+          <a href="https://docs.google.com/document/d/XXXXXXXXXXXX/view" target="_blank" rel="noopener">
+            School Board Meeting — Regular Session
+          </a>
+          <span class="badge" title="Opens an embedded page">Notes</span>
+        </li>
+        <li data-text="2025-08-27 facilities safety special-called">
+          <span class="date">Aug 27, 2025</span>
+          <a href="https://docs.google.com/document/d/YYYYYYYYYYYY/view" target="_blank" rel="noopener">
+            Special-Called Meeting — Facilities & Safety
+          </a>
+        </li>
+      </ul>
+
+      <h2 class="year">2024</h2>
+      <ul class="list">
+        <li data-text="2024-12-12 policy curriculum regular">
+          <span class="date">Dec 12, 2024</span>
+          <a href="https://docs.google.com/document/d/ZZZZZZZZZZZZ/view" target="_blank" rel="noopener">
+            School Board Meeting — Policy & Curriculum
+          </a>
+        </li>
+      </ul>
+      <!-- =========================================== -->
+    </section>
+  </main>
+
+  <script>
+    // Simple client-side search filtering
+    const q = document.getElementById('q');
+    const minutes = document.getElementById('minutes');
+    const rows = Array.from(minutes.querySelectorAll('.list li'));
+
+    function filter(value) {
+      const term = value.trim().toLowerCase();
+      rows.forEach(li => {
+        const hay = (li.getAttribute('data-text') + ' ' + li.textContent).toLowerCase();
+        li.style.display = term && !hay.includes(term) ? 'none' : '';
+      });
+    }
+    q.addEventListener('input', e => filter(e.target.value));
+  </script>
+</body>
+</html>
