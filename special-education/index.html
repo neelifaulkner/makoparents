@@ -19,18 +19,23 @@
     ul { margin:0; padding-left:20px; }
     .cta { display:inline-block; background:#F04E23; color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; text-decoration:none; }
     @media print { nav { display:none } .card { box-shadow:none; border:1px solid #ddd } }
-    .badge {
-  display:inline-block;
-  vertical align: middle;
-  background:rgba(240,78,35,.12); /* light orange background */
-  color:#F04E23;                  /* brand accent */
-  padding:4px 8px;
-  border-radius:999px;
-  font-size:12px;
-  font-weight:700;
-  margin-left:6px;
-}
 
+    /* Badge fix */
+    .badge {
+      display: inline-block;
+      vertical-align: middle;   /* correct hyphen */
+      background: rgba(240,78,35,.12);
+      color: #F04E23;
+      padding: 4px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      margin-left: 6px;
+      white-space: nowrap;      /* keep short badges on same line */
+    }
+
+    /* Ensure links in list items don't force a new line */
+    li > a { display: inline; }
   </style>
 </head>
 <body>
@@ -56,18 +61,32 @@
     <section class="card">
       <h2>Guides & Checklists</h2>
       <ul>
-        <li><a href="https://makoparents.com/special-education/how-to-request-an-evaluation.html">How to Request an Evaluation</a></li>
-        <li><a href="https://makoparents.com/special-education/iep-meeting-prep-checklist.html">IEP Meeting Prep Checklist</a></li>
-        <li><a href="#">504 Plan Basics</a></li> <span class="badge">Coming soon</span>
+        <li>
+          <a href="https://makoparents.com/special-education/how-to-request-an-evaluation.html">How to Request an Evaluation</a>
+        </li>
+        <li>
+          <a href="https://makoparents.com/special-education/iep-meeting-prep-checklist.html">IEP Meeting Prep Checklist</a>
+        </li>
+        <li>
+          <a href="#">504 Plan Basics</a>
+          <span class="badge">Coming soon</span>
+        </li>
       </ul>
     </section>
 
     <section class="card">
       <h2>Key Contacts</h2>
       <ul>
-        <li>District Special Education Coordinator — <a href="mailto:">Kylie Burleson</a></li>
-        <li>School-based Case Managers — <a href="#">directory</a></li> <span class="badge">Coming soon</span>
-        <li>Alabama State Dept. of Education (Special Education Services) — <a href="https://www.alabamaachieves.org/special-education-services/" target="_blank" rel="noopener">website</a></li>
+        <li>
+          District Special Education Coordinator — <a href="mailto:">Kylie Burleson</a>
+        </li>
+        <li>
+          School-based Case Managers — <a href="#">directory</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          Alabama State Dept. of Education (Special Education Services) — <a href="https://www.alabamaachieves.org/special-education-services/" target="_blank" rel="noopener">website</a>
+        </li>
       </ul>
       <p class="meta">Know a better contact? Send updates via the <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit form</a>.</p>
     </section>
@@ -76,36 +95,72 @@
       <h2>Parent Rights</h2>
       <p>A plain-language overview of IDEA and Section 504. These are your baseline rights—use them.</p>
       <ul>
-        <li><a href="#">Parent Rights Handbook (PDF)</a></li> <span class="badge">Coming soon</span>
-        <li><a href="#">Dispute Resolution & Mediation</a></li> <span class="badge">Coming soon</span>
-        <li><a href="#">Requesting Independent Educational Evaluations (IEE)</a></li> <span class="badge">Coming soon</span>
+        <li>
+          <a href="#">Parent Rights Handbook (PDF)</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          <a href="#">Dispute Resolution & Mediation</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          <a href="#">Requesting Independent Educational Evaluations (IEE)</a>
+          <span class="badge">Coming soon</span>
+        </li>
       </ul>
     </section>
 
     <section class="card">
       <h2>Local Support</h2>
       <ul>
-        <li>Parent Support Groups (Baldwin County) — <a href="#">info</a></li> <span class="badge">Coming soon</span>
-        <li>Advocacy Nonprofits — <a href="#">find help</a></li> <span class="badge">Coming soon</span>
-        <li>Therapy & Related Services — <a href="#">local providers</a></li> <span class="badge">Coming soon</span>
+        <li>
+          Parent Support Groups (Baldwin County) — <a href="#">info</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          Advocacy Nonprofits — <a href="#">find help</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          Therapy & Related Services — <a href="#">local providers</a>
+          <span class="badge">Coming soon</span>
+        </li>
       </ul>
     </section>
 
     <section class="card">
       <h2>FAQs</h2>
       <ul>
-        <li>IEP vs. 504 — what’s the difference?</li> <span class="badge">Coming soon</span>
-        <li>How long does the evaluation process take?</li> <span class="badge">Coming soon</span>
-        <li>What if I disagree with the school’s decision?</li> <span class="badge">Coming soon</span>
+        <li>
+          IEP vs. 504 — what’s the difference?
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          How long does the evaluation process take?
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          What if I disagree with the school’s decision?
+          <span class="badge">Coming soon</span>
+        </li>
       </ul>
     </section>
 
     <section class="card">
       <h2>Template Letters</h2>
       <ul>
-        <li><a href="#">Request for Evaluation</a></li> <span class="badge">Coming soon</span>
-        <li><a href="#">Request for Meeting Notes</a></li> <span class="badge">Coming soon</span>
-        <li><a href="#">Records Request (FERPA)</a></li> <span class="badge">Coming soon</span>
+        <li>
+          <a href="#">Request for Evaluation</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          <a href="#">Request for Meeting Notes</a>
+          <span class="badge">Coming soon</span>
+        </li>
+        <li>
+          <a href="#">Records Request (FERPA)</a>
+          <span class="badge">Coming soon</span>
+        </li>
       </ul>
       <p class="meta">We’ll convert these to downloadable docs soon. Send suggestions <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">here</a>.</p>
     </section>
