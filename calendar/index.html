@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Calendar • Mako Parents</title>
+  <meta name="description" content="Events & deadlines for Orange Beach families, with filters for school, sports, testing, and more." />
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
+    body { background: var(--bg); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); margin:0; }
+    .wrap { max-width: 1000px; margin: 0 auto; padding: 24px 20px 60px; }
+    .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); margin:20px 0; }
+    h1 { margin: 12px 0; color: var(--brand); }
+    h2 { color: var(--brand); margin: 0 0 10px; }
+    .meta { color:#5a6472; font-size:14px; }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .grid { display:grid; gap:12px; grid-template-columns: 1fr; }
+    .filters { display:grid; gap:10px; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); margin:10px 0 6px; }
+    .filter-chip { display:flex; align-items:center; gap:8px; background:#fff; border:1px solid #e3e7ee; border-radius:999px; padding:8px 10px; font-weight:600; }
+    .search { display:flex; gap:10px; }
+    .search input, .search select { flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px; }
+    .event { display:flex; gap:14px; padding:14px 0; border-bottom:1px solid #eef1f6; }
+    .event:last-child { border-bottom:none; }
+    .event-date { min-width: 9ch; font-weight:800; color:#0b1220; }
+    .event-body h3 { margin:0 0 4px; font-size:18px; }
+    .event-body .meta { margin:2px 0; }
+    .badge { display:inline-block; background:rgba(240,78,35,.12); color:#F04E23; padding:3px 8px; border-radius:999px; font-size:12px; font-weight:800; margin-right:6px; white-space:nowrap; }
+    .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+    .muted { color:#5a6472; }
+    .cta { display:inline-block; background:#F04E23; color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; text-decoration:none; }
+    .mini { font-size:13px; }
+    @media (max-width:560px){ .event { flex-direction:column; } .event-date{ min-width:auto; } }
+  </style>
+</head>
+<body>
+  <!-- Nav -->
+  <nav style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2;">
+    <a href="/">Home</a>
+    <a href="/updates/">Updates</a>
+    <a href="/calendar/">Calendar</a>
+    <a href="/resources/">Resources</a>
+    <a href="/minutes/">Minutes</a>
+    <a href="/special-education/">Special Education</a>
+    <a href="/support/">Support & Services</a>
+    <a href="/about.html">About</a>
+    <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit</a>
+  </nav>
+
+  <main class="wrap">
+    <header style="margin:10px 0 16px;">
+      <h1>Events & Deadlines</h1>
+      <p class="meta">Filter by type, search by keyword, or submit an event for approval.</p>
+    </header>
+
+    <!-- Filters -->
+    <section class="card">
+      <div class="grid">
+        <div class="search">
+          <input id="q" type="search" placeholder="Search (e.g., ‘registration’, ‘football’, ‘testing’)" aria-label="Search events" />
+          <select id="range" aria-label="Date range">
+            <option value="upcoming">Upcoming</option>
+            <option value="this-month">This month</option>
+            <option value="all">All dates</option>
+          </select>
+        </div>
+        <div class="filters" aria-label="Filters">
+          <!-- Checkboxes map to event.categories -->
+          <label class="filter-chip"><input type="checkbox" value="school" checked> School Calendar</label>
+          <label class="filter-chip"><input type="checkbox" value="sports" checked> Sports</label>
+          <label class="filter-chip"><input type="checkbox" value="testing" checked> Testing</label>
+          <label class="filter-chip"><input type="checkbox" value="deadlines" checked> Application Deadlines</label>
+          <label class="filter-chip"><input type="checkbox" value="arts" checked> Arts</label>
+          <label class="filter-chip"><input type="checkbox" value="community" checked> Community</label>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calendar list -->
+    <section class="card" id="eventsCard">
+      <div class="row" style="justify-content:space-between;">
+        <h2 style="margin:0;">Calendar</h2>
+        <a class="cta mini" href="#submit">Submit an event →</a>
+      </div>
+      <div id="eventsList" aria-live="polite" aria-busy="false"></div>
+      <p id="emptyState" class="muted" style="display:none; padding:10px 0;">No events match your filters.</p>
+    </section>
+
+    <!-- Submit an event -->
+    <section class="card" id="submit">
+      <h2>Submit an Event</h2>
+      <p class="meta">We’ll review and add approved entries. Submissions open your email with details pre-filled. Prefer a form? Use our <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Google Form</a>.</p>
+
+      <form id="submitForm" class="grid" onsubmit="return submitEventEmail(event)">
+        <div class="row" style="gap:12px;">
+          <input required id="title" type="text" placeholder="Event title (e.g., Football vs. Gulf Shores)" style="flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;">
+        </div>
+        <div class="row" style="gap:12px;">
+          <input required id="date" type="date" style="padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;">
+          <input id="time" type="time" style="padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;">
+          <select id="category" style="padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;">
+            <option value="school">School</option>
+            <option value="sports">Sports</option>
+            <option value="testing">Testing</option>
+            <option value="deadlines">Application Deadline</option>
+            <option value="arts">Arts</option>
+            <option value="community">Community</option>
+          </select>
+        </div>
+        <div class="row" style="gap:12px;">
+          <input id="location" type="text" placeholder="Location (optional)" style="flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;">
+          <input id="link" type="url" placeholder="Link (tickets, info) (optional)" style="flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;">
+        </div>
+        <textarea id="notes" rows="3" placeholder="Details (optional)" style="width:100%; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px;"></textarea>
+        <div class="row">
+          <button class="cta" type="submit">Email for approval</button>
+          <a class="mini" href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">or use the Google Form</a>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer style="text-align:center; color:#5a6472; padding:36px 20px;">
+    Made by Orange Beach parents • Not affiliated with OBCS • <span class="meta"><a href="/about.html">About</a></span>
+  </footer>
+
+  <script>
+    // ----- 1) Data: edit/extend this list to add events -----
+    // category: one of ['school','sports','testing','deadlines','arts','community']
+    const EVENTS = [
+      // sample upcoming
+      { title: "First Day of School", date: "2025-08-12", time: "", categories: ["school"], location: "All campuses", link: "", notes: "" },
+      { title: "ACT School-Day Testing", date: "2025-10-07", time: "08:00", categories: ["testing","school"], location: "OBHS", link: "", notes: "Grade 11" },
+      { title: "Football vs. Gulf Shores", date: "2025-09-12", time: "19:00", categories: ["sports","community"], location: "OBHS Stadium", link: "", notes: "Tickets on GoFan" },
+      { title: "Art Show Submission Deadline", date: "2025-10-01", time: "", categories: ["deadlines","arts"], location: "", link: "", notes: "" },
+      { title: "Band Concert", date: "2025-11-05", time: "18:30", categories: ["arts","school"], location: "OBHS Auditorium", link: "", notes: "" },
+      // sample past (to prove range filter)
+      { title: "Spring Testing Window Opens", date: "2025-04-01", time: "", categories: ["testing","school"], location: "", link: "", notes: "" },
+    ];
+
+    // ----- 2) Helpers -----
+    const $ = s => document.querySelector(s);
+    const $$ = s => Array.from(document.querySelectorAll(s));
+    const monthNames = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+    function fmtDate(iso) {
+      const d = new Date(iso + (iso.length === 10 ? "T00:00:00" : ""));
+      if (isNaN(d)) return iso;
+      return `${monthNames[d.getMonth()]} ${String(d.getDate()).padStart(2,'0')}, ${d.getFullYear()}`;
+    }
+    function fmtTime(t) {
+      if (!t) return "";
+      const [H,M] = t.split(":").map(Number);
+      const am = H < 12 ? "AM" : "PM";
+      const h = ((H + 11) % 12 + 1);
+      return `${h}:${String(M||0).padStart(2,'0')} ${am}`;
+    }
+    function withinRange(d, mode) {
+      const now = new Date();
+      const dt = new Date(d + "T00:00:00");
+      if (mode === "upcoming") return dt >= new Date(now.getFullYear(), now.getMonth(), now.getDate());
+      if (mode === "this-month") {
+        const start = new Date(now.getFullYear(), now.getMonth(), 1);
+        const end = new Date(now.getFullYear(), now.getMonth()+1, 0);
+        return dt >= start && dt <= end;
+      }
+      return true; // "all"
+    }
+
+    // ----- 3) Render -----
+    const listEl = $("#eventsList");
+    const emptyEl = $("#emptyState");
+    const qEl = $("#q");
+    const rangeEl = $("#range");
+    const checksEl = $$(".filters input[type=checkbox]");
+
+    function render() {
+      const term = qEl.value.trim().toLowerCase();
+      const range = rangeEl.value;
+      const activeCats = checksEl.filter(c => c.checked).map(c => c.value);
+
+      const filtered = EVENTS
+        .filter(ev => withinRange(ev.date, range))
+        .filter(ev => ev.categories.some(c => activeCats.includes(c)))
+        .filter(ev => {
+          const hay = (ev.title + " " + (ev.location||"") + " " + (ev.notes||"") + " " + ev.categories.join(" ")).toLowerCase();
+          return !term || hay.includes(term);
+        })
+        .sort((a,b) => new Date(a.date) - new Date(b.date));
+
+      listEl.innerHTML = "";
+      if (!filtered.length) {
+        emptyEl.style.display = "";
+        return;
+      }
+      emptyEl.style.display = "none";
+
+      // Group by month/year
+      let currentGroup = "";
+      filtered.forEach(ev => {
+        const d = new Date(ev.date + "T00:00:00");
+        const group = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
+        if (group !== currentGroup) {
+          currentGroup = group;
+          const h = document.createElement("h3");
+          h.className = "muted";
+          h.style.margin = "12px 0 4px";
+          h.textContent = `${monthNames[d.getMonth()]} ${d.getFullYear()}`;
+          listEl.appendChild(h);
+        }
+
+        const row = document.createElement("div");
+        row.className = "event";
+        row.innerHTML = `
+          <div class="event-date">${fmtDate(ev.date)}</div>
+          <div class="event-body">
+            <h3>${ev.title}</h3>
+            <div class="meta">
+              ${ev.time ? `<span class="badge" title="Time">${fmtTime(ev.time)}</span>` : ""}
+              ${ev.categories.map(c => `<span class="badge">${c.charAt(0).toUpperCase()+c.slice(1)}</span>`).join(" ")}
+            </div>
+            ${ev.location ? `<div class="meta"><strong>Location:</strong> ${ev.location}</div>` : ""}
+            ${ev.notes ? `<div class="meta">${ev.notes}</div>` : ""}
+            ${ev.link ? `<div class="meta"><a href="${ev.link}" target="_blank" rel="noopener">More info →</a></div>` : ""}
+          </div>`;
+        listEl.appendChild(row);
+      });
+    }
+
+    checksEl.forEach(c => c.addEventListener("change", render));
+    qEl.addEventListener("input", render);
+    rangeEl.addEventListener("change", render);
+    render();
+
+    // ----- 4) Submit via email (mailto) -----
+    function submitEventEmail(e){
+      e.preventDefault();
+      const title = $("#title").value.trim();
+      const date = $("#date").value;
+      const time = $("#time").value;
+      const category = $("#category").value;
+      const location = $("#location").value.trim();
+      const link = $("#link").value.trim();
+      const notes = $("#notes").value.trim();
+
+      if(!title || !date){
+        alert("Please include at least a title and date.");
+        return false;
+      }
+
+      const subject = encodeURIComponent(`[Mako Parents] Calendar submission: ${title} (${date}${time? " " + time : ""})`);
+      const bodyLines = [
+        `Title: ${title}`,
+        `Date: ${date}`,
+        `Time: ${time || "(none)"}`,
+        `Category: ${category}`,
+        `Location: ${location || "(none)"}`,
+        `Link: ${link || "(none)"}`,
+        `Details: ${notes || "(none)"}`,
+        "",
+        "Submitted via makoparents.com/calendar/"
+      ];
+      const body = encodeURIComponent(bodyLines.join("\n"));
+      const mailto = `mailto:neeli.faulkner@gmail.com?subject=${subject}&body=${body}`;
+      window.location.href = mailto;
+      return false;
+    }
+    window.submitEventEmail = submitEventEmail;
+  </script>
+</body>
+</html>
