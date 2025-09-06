@@ -4,21 +4,25 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Support & Services • Mako Parents</title>
-  <meta name="description" content="Local programs, after-school activities, tutoring, and mental health resources for Orange Beach families." />
+  <meta name="description" content="Local programs, after-school activities, tutoring, counseling, and community resources for Orange Beach families." />
   <link rel="stylesheet" href="/styles.css">
   <style>
     :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
-    body { background: var(--bg); }
+    body { background: var(--bg); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--ink); margin:0; }
     .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
     .card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 6px 24px rgba(0,0,0,.06); margin:20px 0; }
     h1 { margin: 12px 0; color: var(--brand); }
-    h2 { color: var(--brand); margin-top: 0; }
+    h2 { color: var(--brand); margin: 0 0 10px; }
     .meta { color:#5a6472; font-size:14px; }
-    ul { margin: 0; padding-left: 20px; }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { margin:0; padding-left:20px; }
+    .cta { display:inline-block; background:#F04E23; color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; text-decoration:none; }
+    @media print { nav { display:none } .card { box-shadow:none; border:1px solid #ddd } }
   </style>
 </head>
 <body>
-  <!-- Nav -->
+  <!-- Nav (consistent across site) -->
   <nav style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2;">
     <a href="/">Home</a>
     <a href="/updates/">Updates</a>
@@ -34,43 +38,53 @@
   <main class="wrap">
     <header style="margin:10px 0 16px;">
       <h1>Support & Services</h1>
-      <p class="meta">Local programs, after-school activities, tutoring, and mental health resources for families in Orange Beach.</p>
+      <p class="meta">Local programs, after-school activities, tutoring, counseling, and community resources for families in Orange Beach.</p>
     </header>
 
     <section class="card">
       <h2>After-School Programs</h2>
       <ul>
-        <li>Sports clubs and recreational leagues</li>
-        <li>Arts and music programs</li>
-        <li>STEM and enrichment activities</li>
+        <li><a href="#">Parks & Recreation — youth sports</a></li>
+        <li><a href="#">Arts & Music — lessons and clubs</a></li>
+        <li><a href="#">STEM & Enrichment — coding, robotics, science</a></li>
+        <li><a href="#">Faith & Community Groups — weekly youth programs</a></li>
       </ul>
     </section>
 
     <section class="card">
       <h2>Tutoring & Academic Support</h2>
       <ul>
-        <li>Local tutoring centers</li>
-        <li>Free peer-to-peer or volunteer tutoring</li>
-        <li>Online homework help resources</li>
+        <li><a href="#">Local tutoring centers</a></li>
+        <li><a href="#">Volunteer & peer tutoring</a></li>
+        <li><a href="#">Reading & math intervention resources</a></li>
+        <li><a href="#">College & career readiness</a></li>
       </ul>
     </section>
 
     <section class="card">
       <h2>Mental Health & Counseling</h2>
       <ul>
-        <li>School counseling services</li>
-        <li>Local therapy and family counseling options</li>
-        <li>Hotlines and crisis resources</li>
+        <li><a href="#">School counseling services</a></li>
+        <li><a href="#">Local therapists & family counseling</a></li>
+        <li><a href="#">24/7 hotlines & crisis resources</a></li>
+        <li><a href="#">Grief, anxiety, and stress supports</a></li>
       </ul>
     </section>
 
     <section class="card">
       <h2>Community Resources</h2>
       <ul>
-        <li>Nonprofit organizations supporting families</li>
-        <li>Food assistance and clothing programs</li>
-        <li>Parent-led support groups</li>
+        <li><a href="#">Nonprofit organizations supporting families</a></li>
+        <li><a href="#">Food assistance & clothing closets</a></li>
+        <li><a href="#">Childcare & camp options</a></li>
+        <li><a href="#">Transportation help</a></li>
       </ul>
+    </section>
+
+    <section class="card">
+      <h2>Need Something We Missed?</h2>
+      <p>Point us to a program or ask a question. We’ll add it.</p>
+      <p><a class="cta" href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Suggest a resource →</a></p>
     </section>
   </main>
 
