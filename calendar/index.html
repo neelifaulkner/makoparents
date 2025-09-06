@@ -17,11 +17,14 @@
     .meta { color:#5a6472; font-size:14px; }
     a { color: var(--brand); text-decoration: none; }
     a:hover { text-decoration: underline; }
+
     .grid { display:grid; gap:12px; grid-template-columns: 1fr; }
     .filters { display:grid; gap:10px; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); margin:10px 0 6px; }
     .filter-chip { display:flex; align-items:center; gap:8px; background:#fff; border:1px solid #e3e7ee; border-radius:999px; padding:8px 10px; font-weight:600; }
+
     .search { display:flex; gap:10px; }
     .search input, .search select { flex:1; padding:10px 12px; border:1px solid #d9dee7; border-radius:10px; }
+
     .event { display:flex; gap:14px; padding:14px 0; border-bottom:1px solid #eef1f6; }
     .event:last-child { border-bottom:none; }
     .event-date { min-width: 9ch; font-weight:800; color:#0b1220; }
@@ -127,7 +130,7 @@
 
   <script>
     // ----------------------------
-    // 1) Load events.json (built by GitHub Action)
+    // 1) Load auto + manual events
     // ----------------------------
     let EVENTS = [];
     const monthNames = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
@@ -150,21 +153,15 @@
       const listEl = document.getElementById('eventsList');
       listEl.setAttribute('aria-busy', 'true');
       try {
-        const res = await fetch('/calendar/events.json', { cache: 'no-store' });
-        if (!res.ok) throw new Error('events.json not found');
-        const raw = await res.json();
-        EVENTS = raw.map(ev => ({
-          title: ev.title,
-          start: ev.start,      // ISO string
-          end: ev.end || "",
-          allDay: !!ev.allDay,
-          categories: ev.categories || ["school"],
-          location: ev.location || "",
-          link: ev.link || "",
-          notes: ev.notes || ""
-        }));
+        const [autoRes, manualRes] = await Promise.all([
+          fetch('/calendar/events.json', { cache: 'no-store' }).catch(()=>null),
+          fetch('/calendar/manual.json', { cache: 'no-store' }).catch(()=>null),
+        ]);
+        const auto = autoRes?.ok ? await autoRes.json() : [];
+        const manual = manualRes?.ok ? await manualRes.json() : [];
+        EVENTS = [...auto, ...manual];
       } catch (e) {
-        console.error('Failed to load events.json', e);
+        console.error('Failed to load calendars', e);
         EVENTS = [];
       } finally {
         listEl.setAttribute('aria-busy', 'false');
@@ -241,7 +238,7 @@
           <div class="event-body">
             <h3>${ev.title}</h3>
             <div class="meta">
-              ${!ev.allDay ? `<span class="badge" title="Time">${fmtTime(ev.start)}</span>` : ""}
+              ${ev.allDay ? "" : `<span class="badge" title="Time">${fmtTime(ev.start)}</span>`}
               ${ev.categories.map(c => `<span class="badge">${c.charAt(0).toUpperCase()+c.slice(1)}</span>`).join(" ")}
             </div>
             ${ev.location ? `<div class="meta"><strong>Location:</strong> ${ev.location}</div>` : ""}
