@@ -1,0 +1,38 @@
+[
+  {
+    "title": "​Disney's Lion King JR.",
+    "start": "2025-10-03T19:00:00.000Z",
+    "end": "2025-10-03T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7556"
+  },
+  {
+    "title": "​Disney's Lion King JR.",
+    "start": "2025-10-04T14:00:00.000Z",
+    "end": "2025-10-04T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7558"
+  },
+  {
+    "title": "​Disney's Lion King JR.",
+    "start": "2025-10-05T19:00:00.000Z",
+    "end": "2025-10-05T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7557"
+  }
+]
