@@ -16,16 +16,15 @@ jobs:
         with:
           script: |
             const {owner, repo} = context.repo;
-            const need = 'needs-approval';
-            // ensure label exists (no-op if already there)
-            try {
-              await github.rest.issues.getLabel({owner, repo, name: need});
-            } catch {
-              await github.rest.issues.createLabel({owner, repo, name: need, color: 'f0ad4e', description: 'Pending review'});
+            for (const {name,color,description} of [
+              {name:'needs-approval', color:'f0ad4e', description:'Pending review'},
+              {name:'approved', color:'28a745', description:'Approved for calendar'}
+            ]) {
+              try { await github.rest.issues.getLabel({owner, repo, name}) }
+              catch { await github.rest.issues.createLabel({owner, repo, name, color, description}) }
             }
-            // make sure the issue has the label
             await github.rest.issues.addLabels({
-              owner, repo, issue_number: context.payload.issue.number, labels: [need]
+              owner, repo, issue_number: context.payload.issue.number, labels: ['needs-approval']
             });
 
       - name: Build email content from Issue Form
@@ -34,19 +33,22 @@ jobs:
         with:
           script: |
             const issue = context.payload.issue;
-            // Issue Forms render as a table; pull values by field label
             function get(field){
               const re = new RegExp(`\\|\\s*${field}\\s*\\|([^\\n]+)\\n`);
               const m = issue.body.match(re);
               return m ? m[1].trim().replace(/^:/,'').trim() : '';
             }
-            const title    = get('Event title');
-            const date     = get('Date (YYYY-MM-DD)');
-            const time     = get('Start time \\(24h HH:MM\\) — leave blank for all-day');
+
+            const title    = get('Event Name');
+            const date     = get('Event Date \\(YYYY-MM-DD\\)');
+            const time     = get('Event Time \\(24h HH:MM\\) — leave blank for all-day');
+            const description = get('Event Description');
             const category = get('Category');
-            const location = get('Location \\(optional\\)');
-            const link     = get('Link \\(tickets/info\\) \\(optional\\)');
-            const notes    = get('Details \\(optional\\)');
+            const location = get('Event Location \\(optional\\)');
+            const link     = get('Event Link \\(tickets/info\\) \\(optional\\)');
+            const contactName  = get('Event Contact Name');
+            const contactPhone = get('Event Contact Phone Number');
+            const contactEmail = get('Event Contact Email');
 
             const subject = `[Mako Parents] NEW submission: ${title || '(no title)'} (${date}${time? ' ' + time : ''})`;
             const approveUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/issues/${issue.number}`;
@@ -59,9 +61,11 @@ jobs:
               `Category: ${category}`,
               `Location: ${location || '(none)'}`,
               `Link: ${link || '(none)'}`,
-              `Details: ${notes || '(none)'}`,
+              `Description: ${description || '(none)'}`,
               ``,
-              `Approve by opening this link and adding the "approved" label:`,
+              `Contact: ${contactName || '(n/a)'} | ${contactPhone || '(n/a)'} | ${contactEmail || '(n/a)'}`,
+              ``,
+              `Approve by adding the "approved" label to this issue:`,
               approveUrl
             ].join('\n');
 
