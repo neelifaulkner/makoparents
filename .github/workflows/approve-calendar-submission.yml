@@ -1,0 +1,94 @@
+name: Approve calendar submission
+on:
+  issues:
+    types: [labeled]
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  approve:
+    if: >
+      github.event.label.name == 'approved' &&
+      contains(github.event.issue.labels.*.name, 'calendar-event')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Append to manual.json
+        id: append
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+
+            function get(field){
+              const re = new RegExp(`\\|\\s*${field}\\s*\\|([^\\n]+)\\n`);
+              const m = issue.body.match(re);
+              return m ? m[1].trim().replace(/^:/,'').trim() : '';
+            }
+
+            const title    = get('Event title');
+            const date     = get('Date (YYYY-MM-DD)');
+            const time     = get('Start time \\(24h HH:MM\\) — leave blank for all-day');
+            const category = get('Category');
+            const location = get('Location \\(optional\\)');
+            const link     = get('Link \\(tickets/info\\) \\(optional\\)');
+            const notes    = get('Details \\(optional\\)');
+
+            if (!title || !date) core.setFailed('Missing title or date.');
+
+            const start = time ? `${date}T${time}:00` : `${date}T00:00:00`;
+            const allDay = !time;
+
+            const fs = require('fs');
+            const path = 'calendar/manual.json';
+            let manual = [];
+            if (fs.existsSync(path)) {
+              try { manual = JSON.parse(fs.readFileSync(path, 'utf8')) } catch(e) { manual = [] }
+            }
+
+            manual.push({
+              title,
+              start,
+              end: "",
+              allDay,
+              categories: [category || 'community'],
+              location: location || "",
+              link: link || "",
+              notes: notes || ""
+            });
+
+            manual.sort((a,b) => new Date(a.start) - new Date(b.start));
+            fs.mkdirSync('calendar', { recursive: true });
+            fs.writeFileSync(path, JSON.stringify(manual, null, 2));
+
+            // Commit change
+            const { execSync } = require('child_process');
+            execSync('git config user.name "github-actions[bot]"');
+            execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
+            execSync('git add calendar/manual.json');
+            execSync('git commit -m "chore(calendar): approve and add issue #' + issue.number + '"');
+            execSync('git push');
+
+      - name: Comment & close
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue_number = context.payload.issue.number;
+            await github.rest.issues.createComment({
+              ...context.repo,
+              issue_number,
+              body: "✅ Approved and added to the calendar. Thanks!"
+            });
+            await github.rest.issues.removeLabel({
+              ...context.repo,
+              issue_number,
+              name: 'needs-approval'
+            }).catch(()=>{});
+            await github.rest.issues.update({
+              ...context.repo,
+              issue_number,
+              state: 'closed'
+            });
