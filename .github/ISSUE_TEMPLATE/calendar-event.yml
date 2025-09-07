@@ -1,12 +1,12 @@
 name: Calendar Event Submission
 description: Submit an event for the Mako Parents calendar (goes to approval)
-title: "[Calendar] Your event title"
+title: "[Calendar] Event: <short title>"
 labels: ["calendar-event","needs-approval"]
 body:
   - type: input
     id: title
     attributes:
-      label: Event title
+      label: Event Name
       placeholder: e.g., Football vs. Gulf Shores
     validations:
       required: true
@@ -14,7 +14,7 @@ body:
   - type: input
     id: date
     attributes:
-      label: Date (YYYY-MM-DD)
+      label: Event Date (YYYY-MM-DD)
       placeholder: 2025-09-15
     validations:
       required: true
@@ -22,8 +22,32 @@ body:
   - type: input
     id: time
     attributes:
-      label: Start time (24h HH:MM) — leave blank for all-day
+      label: Event Time (24h HH:MM) — leave blank for all-day
       placeholder: "19:00"
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Event Description
+      placeholder: Key details parents should know…
+    validations:
+      required: false
+
+  - type: input
+    id: location
+    attributes:
+      label: Event Location (optional)
+      placeholder: OBHS Stadium
+    validations:
+      required: false
+
+  - type: input
+    id: link
+    attributes:
+      label: Event Link (tickets/info) (optional)
+      placeholder: https://...
     validations:
       required: false
 
@@ -43,25 +67,25 @@ body:
       required: true
 
   - type: input
-    id: location
+    id: contact_name
     attributes:
-      label: Location (optional)
-      placeholder: OBHS Stadium
+      label: Event Contact Name
+      placeholder: First Last
     validations:
       required: false
 
   - type: input
-    id: link
+    id: contact_phone
     attributes:
-      label: Link (tickets/info) (optional)
-      placeholder: https://...
+      label: Event Contact Phone Number
+      placeholder: 251-555-1234
     validations:
       required: false
 
-  - type: textarea
-    id: notes
+  - type: input
+    id: contact_email
     attributes:
-      label: Details (optional)
-      placeholder: Extra info for parents
+      label: Event Contact Email
+      placeholder: name@example.com
     validations:
       required: false
