@@ -16,7 +16,6 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Append to manual.json
-        id: append
         uses: actions/github-script@v7
         with:
           script: |
@@ -28,13 +27,16 @@ jobs:
               return m ? m[1].trim().replace(/^:/,'').trim() : '';
             }
 
-            const title    = get('Event title');
-            const date     = get('Date (YYYY-MM-DD)');
-            const time     = get('Start time \\(24h HH:MM\\) — leave blank for all-day');
+            const title    = get('Event Name');
+            const date     = get('Event Date \\(YYYY-MM-DD\\)');
+            const time     = get('Event Time \\(24h HH:MM\\) — leave blank for all-day');
+            const description = get('Event Description');
             const category = get('Category');
-            const location = get('Location \\(optional\\)');
-            const link     = get('Link \\(tickets/info\\) \\(optional\\)');
-            const notes    = get('Details \\(optional\\)');
+            const location = get('Event Location \\(optional\\)');
+            const link     = get('Event Link \\(tickets/info\\) \\(optional\\)');
+            const contactName  = get('Event Contact Name');
+            const contactPhone = get('Event Contact Phone Number');
+            const contactEmail = get('Event Contact Email');
 
             if (!title || !date) core.setFailed('Missing title or date.');
 
@@ -56,19 +58,21 @@ jobs:
               categories: [category || 'community'],
               location: location || "",
               link: link || "",
-              notes: notes || ""
+              notes: description || "",
+              contactName: contactName || "",
+              contactPhone: contactPhone || "",
+              contactEmail: contactEmail || ""
             });
 
             manual.sort((a,b) => new Date(a.start) - new Date(b.start));
             fs.mkdirSync('calendar', { recursive: true });
             fs.writeFileSync(path, JSON.stringify(manual, null, 2));
 
-            // Commit change
             const { execSync } = require('child_process');
             execSync('git config user.name "github-actions[bot]"');
             execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
             execSync('git add calendar/manual.json');
-            execSync('git commit -m "chore(calendar): approve and add issue #' + issue.number + '"');
+            execSync('git commit -m "chore(calendar): approved and added issue #' + issue.number + '"');
             execSync('git push');
 
       - name: Comment & close
