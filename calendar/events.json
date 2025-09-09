@@ -1380,6 +1380,19 @@
     "notes": ""
   },
   {
+    "title": "Fido Fest",
+    "start": "2025-11-09T14:00:00.000Z",
+    "end": "2025-11-09T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7560"
+  },
+  {
     "title": "Veterans Day Holiday",
     "start": "2025-11-11T00:00:00.000Z",
     "end": "",
