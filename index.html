@@ -4,7 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Mako Parents • Orange Beach</title>
-  <meta name="description" content="Parent-powered hub for Orange Beach City Schools—clear, timely, and accessible info for families." />
+  <meta name="description" content="Parent-powered hub for Orange Beach families—clear, timely, and accessible info about our schools and community." />
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/makoparentslogo.png">
+
   <style>
     :root { --ink:#0b1220; --bg:#f6f7fb; --brand:#002D72; --accent:#F04E23; }
     * { box-sizing: border-box; }
@@ -36,24 +40,19 @@
   </style>
 </head>
 <body>
-  <!-- Simple site-wide nav -->
-<nav style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; padding:12px 20px; background:#fff; border-bottom:1px solid #e9ecf2;">
-  <a href="/">Home</a>
-  <a href="/about.html">About</a>
-  <a href="/calendar/">Calendar</a>
-  <a href="/resources/">Resources</a>
-  <a href="/special-education/">Special Education</a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCdmEL8KCawjkK05T6vpdKlg4p2_87zukAvVlM4yNcg7XYvw/viewform" 
-     target="_blank" rel="noopener" 
-     style="margin-left:auto; background:#F04E23; color:#fff; padding:8px 14px; border-radius:8px; font-weight:700; text-decoration:none;">
-    Suggest Info
-  </a>
-</nav>
-
+  <!-- Nav -->
+  <nav>
+    <a class="brand" href="/">Mako Parents</a>
+    <a href="/about.html">About</a>
+    <a href="/calendar/">Calendar</a>
+    <a href="/resources/">Resources</a>
+    <a href="/special-education/">Special Education</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCdmEL8KCawjkK05T6vpdKlg4p2_87zukAvVlM4yNcg7XYvw/viewform" target="_blank" rel="noopener">Suggest Info</a>
+  </nav>
 
   <!-- Hero -->
   <header class="hero">
-    <img src="/makoparentslogo.png" alt="Mako Parents logo">
+    <img src="/makoparents.png" alt="Mako Parents logo">
     <h1>Mako Parents</h1>
     <p>Parent-powered updates for Orange Beach City Schools</p>
   </header>
@@ -64,7 +63,7 @@
       <span class="pill">Why we exist</span>
       <h2 style="margin:8px 0 8px;">Parents should always feel informed, not overwhelmed</h2>
       <p>Every family deserves clear, timely, and accessible information about what’s happening in our schools and community. Mako Parents was created to bring that information together in one place, so parents can spend less time searching and more time supporting their kids.</p>
-      <a class="cta" href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank">Submit a tip or link</a>
+      <a class="cta" href="https://docs.google.com/forms/d/e/1FAIpQLSdCdmEL8KCawjkK05T6vpdKlg4p2_87zukAvVlM4yNcg7XYvw/viewform" target="_blank" rel="noopener">Suggest Info</a>
     </section>
 
     <!-- Feature grid -->
@@ -73,12 +72,6 @@
         <h3 style="margin-top:0;">School Board & Policy</h3>
         <p>Meeting dates, agendas, and board information.</p>
         <a href="https://www.orangebeachboe.org/school-board" target="_blank" rel="noopener">Visit the Board Site →</a>
-      </article>
-
-      <article class="card">
-        <h3 style="margin-top:0;">Minutes</h3>
-        <p>Detailed, parent-friendly notes from board meetings. Summaries you can actually use.</p>
-        <a href="/minutes/">View all minutes →</a>
       </article>
 
       <article class="card">
@@ -100,9 +93,15 @@
       </article>
 
       <article class="card">
+        <h3 style="margin-top:0;">Meeting Minutes</h3>
+        <p>Detailed parent-friendly notes from board meetings.</p>
+        <a href="/minutes/">View minutes →</a>
+      </article>
+
+      <article class="card">
         <h3 style="margin-top:0;">Support & Services</h3>
-        <p>Local programs, after-school activities, tutoring, and mental health resources for families.</p>
-        <a href="/support/">Explore support →</a>
+        <p>Local programs, nonprofits, and resources for families.</p>
+        <a href="/support/">Find support →</a>
       </article>
     </section>
   </main>
