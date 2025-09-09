@@ -20,10 +20,10 @@
     .cta { display:inline-block; background:#F04E23; color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; text-decoration:none; }
     @media print { nav { display:none } .card { box-shadow:none; border:1px solid #ddd } }
 
-    /* Badge fix */
+    /* Badge */
     .badge {
       display: inline-block;
-      vertical-align: middle;   /* correct hyphen */
+      vertical-align: middle;
       background: rgba(240,78,35,.12);
       color: #F04E23;
       padding: 4px 8px;
@@ -31,11 +31,33 @@
       font-size: 12px;
       font-weight: 700;
       margin-left: 6px;
-      white-space: nowrap;      /* keep short badges on same line */
+      white-space: nowrap;
+    }
+    li > a { display: inline; }
+
+    /* Two-column layout inside a card (stacks on mobile) */
+    .card-two-col {
+      display: grid;
+      grid-template-columns: 1fr 320px;
+      gap: 16px;
+    }
+    @media (max-width: 760px){
+      .card-two-col { grid-template-columns: 1fr; }
     }
 
-    /* Ensure links in list items don't force a new line */
-    li > a { display: inline; }
+    /* Did You Know box */
+    .dyk {
+      background: var(--accent);
+      color: #fff;
+      border-radius: 12px;
+      padding: 14px;
+    }
+    .dyk h3 {
+      margin: 0 0 6px;
+      font-size: 16px;
+      letter-spacing: .2px;
+    }
+    .dyk p { margin: 0; font-size: 14px; line-height: 1.4; }
   </style>
 </head>
 <body>
@@ -58,6 +80,35 @@
       <p class="meta">Guides, rights, and support for families navigating IEPs, 504 plans, and special services.</p>
     </header>
 
+    <!-- PARENT RIGHTS (moved to top) -->
+    <section class="card card-two-col">
+      <div>
+        <h2>Parent Rights</h2>
+        <p>A plain-language overview of IDEA and Section 504. These are your baseline rights—use them.</p>
+        <ul>
+          <li>
+            <a href="#">Parent Rights Handbook (PDF)</a>
+            <span class="badge">Coming soon</span>
+          </li>
+          <li>
+            <a href="#">Dispute Resolution & Mediation</a>
+            <span class="badge">Coming soon</span>
+          </li>
+          <li>
+            <a href="#">Requesting Independent Educational Evaluations (IEE)</a>
+            <span class="badge">Coming soon</span>
+          </li>
+        </ul>
+        <p class="meta" style="margin-top:10px;">This page is general information for Alabama families and not legal advice.</p>
+      </div>
+
+      <aside class="dyk">
+        <h3>Did you know?</h3>
+        <p><strong>Alabama is a one-party consent state.</strong> Parents may record conversations with school staff — in person or by phone — as long as <em>one party to the conversation (you)</em> consents to the recording.</p>
+      </aside>
+    </section>
+
+    <!-- GUIDES -->
     <section class="card">
       <h2>Guides & Checklists</h2>
       <ul>
@@ -74,11 +125,12 @@
       </ul>
     </section>
 
+    <!-- KEY CONTACTS (email updated) -->
     <section class="card">
       <h2>Key Contacts</h2>
       <ul>
         <li>
-          District Special Education Coordinator — <a href="mailto: kylie.burleson@obschools.org">Kylie Burleson</a>
+          District Special Education Coordinator — <a href="mailto:kylie.burleson@obcityschools.org">Kylie Burleson</a>
         </li>
         <li>
           School-based Case Managers — <a href="#">directory</a>
@@ -91,25 +143,7 @@
       <p class="meta">Know a better contact? Send updates via the <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">Submit form</a>.</p>
     </section>
 
-    <section class="card">
-      <h2>Parent Rights</h2>
-      <p>A plain-language overview of IDEA and Section 504. These are your baseline rights—use them.</p>
-      <ul>
-        <li>
-          <a href="#">Parent Rights Handbook (PDF)</a>
-          <span class="badge">Coming soon</span>
-        </li>
-        <li>
-          <a href="#">Dispute Resolution & Mediation</a>
-          <span class="badge">Coming soon</span>
-        </li>
-        <li>
-          <a href="#">Requesting Independent Educational Evaluations (IEE)</a>
-          <span class="badge">Coming soon</span>
-        </li>
-      </ul>
-    </section>
-
+    <!-- LOCAL SUPPORT -->
     <section class="card">
       <h2>Local Support</h2>
       <ul>
@@ -128,6 +162,7 @@
       </ul>
     </section>
 
+    <!-- FAQS -->
     <section class="card">
       <h2>FAQs</h2>
       <ul>
@@ -146,6 +181,7 @@
       </ul>
     </section>
 
+    <!-- TEMPLATES -->
     <section class="card">
       <h2>Template Letters</h2>
       <ul>
@@ -165,6 +201,7 @@
       <p class="meta">We’ll convert these to downloadable docs soon. Send suggestions <a href="https://forms.gle/mMqRVYrP2c8tSvNY9" target="_blank" rel="noopener">here</a>.</p>
     </section>
 
+    <!-- NEED SOMETHING ELSE -->
     <section class="card">
       <h2>Need Something Else?</h2>
       <p>Tell us what you’re looking for and we’ll track it down.</p>
