@@ -1,98 +1,76 @@
 name: Approve calendar submission
+
 on:
   issues:
-    types: [labeled]
+    types: [labeled, edited, reopened]
+  workflow_dispatch:
+
 permissions:
   contents: write
-  issues: write
+  issues: read
 
 jobs:
   approve:
-    if: >
-      github.event.label.name == 'approved' &&
-      contains(github.event.issue.labels.*.name, 'calendar-event')
+    # Only run when the issue has the label Approved (case-sensitive to your label name)
+    if: contains(github.event.issue.labels.*.name, 'Approved')
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Append to manual.json
-        uses: actions/github-script@v7
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          script: |
-            const issue = context.payload.issue;
+          fetch-depth: 0
 
-            function get(field){
-              const re = new RegExp(`\\|\\s*${field}\\s*\\|([^\\n]+)\\n`);
-              const m = issue.body.match(re);
-              return m ? m[1].trim().replace(/^:/,'').trim() : '';
-            }
+      - name: Ensure data file exists
+        run: |
+          mkdir -p data
+          if [ ! -f data/events.json ]; then
+            echo '[]' > data/events.json
+          fi
 
-            const title    = get('Event Name');
-            const date     = get('Event Date \\(YYYY-MM-DD\\)');
-            const time     = get('Event Time \\(24h HH:MM\\) — leave blank for all-day');
-            const description = get('Event Description');
-            const category = get('Category');
-            const location = get('Event Location \\(optional\\)');
-            const link     = get('Event Link \\(tickets/info\\) \\(optional\\)');
-            const contactName  = get('Event Contact Name');
-            const contactPhone = get('Event Contact Phone Number');
-            const contactEmail = get('Event Contact Email');
+      - name: Append event to events.json
+        run: |
+          node -e "
+          const fs = require('fs');
+          const path = 'data/events.json';
+          const events = JSON.parse(fs.readFileSync(path,'utf8'));
+          const body = process.env.ISSUE_BODY || '';
+          const title = process.env.ISSUE_TITLE || 'Untitled';
 
-            if (!title || !date) core.setFailed('Missing title or date.');
+          const get = (label) => {
+            const m = body.match(new RegExp(label+':\\s*(.+)','i'));
+            return m ? m[1].trim() : '';
+          };
 
-            const start = time ? `${date}T${time}:00` : `${date}T00:00:00`;
-            const allDay = !time;
+          const event = {
+            title: get('Event Name') || title,
+            date:  get('Event Date'),
+            time:  get('Event Time'),
+            description: get('Event Description'),
+            contact: get('Event Contact'),
+            phone: get('Event Contact Phone Number') || get('Phone'),
+            email: get('Event Contact Email') || get('Email'),
+            sourceIssue: process.env.ISSUE_URL
+          };
 
-            const fs = require('fs');
-            const path = 'calendar/manual.json';
-            let manual = [];
-            if (fs.existsSync(path)) {
-              try { manual = JSON.parse(fs.readFileSync(path, 'utf8')) } catch(e) { manual = [] }
-            }
+          if (!event.title || !event.date) {
+            console.error('Missing title or date; refusing to append.');
+            process.exit(1);
+          }
 
-            manual.push({
-              title,
-              start,
-              end: "",
-              allDay,
-              categories: [category || 'community'],
-              location: location || "",
-              link: link || "",
-              notes: description || "",
-              contactName: contactName || "",
-              contactPhone: contactPhone || "",
-              contactEmail: contactEmail || ""
-            });
+          events.push(event);
+          fs.writeFileSync(path, JSON.stringify(events, null, 2));
+          console.log('Appended', event);
+          "
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
 
-            manual.sort((a,b) => new Date(a.start) - new Date(b.start));
-            fs.mkdirSync('calendar', { recursive: true });
-            fs.writeFileSync(path, JSON.stringify(manual, null, 2));
-
-            const { execSync } = require('child_process');
-            execSync('git config user.name "github-actions[bot]"');
-            execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
-            execSync('git add calendar/manual.json');
-            execSync('git commit -m "chore(calendar): approved and added issue #' + issue.number + '"');
-            execSync('git push');
-
-      - name: Comment & close
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const issue_number = context.payload.issue.number;
-            await github.rest.issues.createComment({
-              ...context.repo,
-              issue_number,
-              body: "✅ Approved and added to the calendar. Thanks!"
-            });
-            await github.rest.issues.removeLabel({
-              ...context.repo,
-              issue_number,
-              name: 'needs-approval'
-            }).catch(()=>{});
-            await github.rest.issues.update({
-              ...context.repo,
-              issue_number,
-              state: 'closed'
-            });
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          git commit -m "chore(calendar): approve issue #${{ github.event.issue.number }}" || echo "No changes"
+          git push
