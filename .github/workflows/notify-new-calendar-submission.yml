@@ -3,15 +3,31 @@ name: Notify on new calendar submission
 on:
   issues:
     types: [opened, edited, reopened, labeled]
-  workflow_dispatch:  # manual trigger for testing
+  workflow_dispatch:
 
 jobs:
   notify:
-    # Don't over-filter at the job level; keep it simple
     runs-on: ubuntu-latest
 
     steps:
-      - name: Send email
+      - name: Validate secrets are present
+        run: |
+          set -e
+          miss=0
+          for v in SMTP_SERVER SMTP_PORT SMTP_USERNAME SMTP_PASSWORD TO_EMAIL; do
+            if [ -z "${{ secrets[$v] }}" ]; then
+              echo "::error::Missing required secret: $v"
+              miss=1
+            fi
+          done
+          if [ "$miss" -eq 1 ]; then
+            exit 1
+          fi
+
+      # Gmail: try 465 (SSL)
+      - name: Send email via 465 (SSL)
+        id: send465
+        continue-on-error: true
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
@@ -22,6 +38,26 @@ jobs:
           to: ${{ secrets.TO_EMAIL }}
           from: "Mako Parents <${{ secrets.SMTP_USERNAME }}>"
           secure: true
+          charset: utf-8
+          html_body: |
+            <p>A new calendar event was submitted:</p>
+            <p><a href='${{ github.event.issue.html_url }}'>View Issue #${{ github.event.issue.number }}</a></p>
+            <pre>${{ github.event.issue.body }}</pre>
+
+      # Fallback: if first attempt failed AND you're actually using 587, try TLS
+      - name: Fallback via 587 (STARTTLS)
+        if: steps.send465.outcome == 'failure'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: 587
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "New Calendar Submission: ${{ github.event.issue.title }}"
+          to: ${{ secrets.TO_EMAIL }}
+          from: "Mako Parents <${{ secrets.SMTP_USERNAME }}>"
+          secure: false
+          starttls: true
           charset: utf-8
           html_body: |
             <p>A new calendar event was submitted:</p>
