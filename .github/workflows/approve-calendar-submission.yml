@@ -1,76 +1,74 @@
-name: Approve calendar submission
-
-on:
-  issues:
-    types: [labeled, edited, reopened]
-  workflow_dispatch:
-
-permissions:
-  contents: write
-  issues: read
-
-jobs:
-  approve:
-    # Only run when the issue has the label Approved (case-sensitive to your label name)
-    if: contains(github.event.issue.labels.*.name, 'Approved')
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Ensure data file exists
-        run: |
-          mkdir -p data
-          if [ ! -f data/events.json ]; then
-            echo '[]' > data/events.json
-          fi
-
       - name: Append event to events.json
         run: |
           node -e "
           const fs = require('fs');
-          const path = 'data/events.json';
-          const events = JSON.parse(fs.readFileSync(path,'utf8'));
           const body = process.env.ISSUE_BODY || '';
-          const title = process.env.ISSUE_TITLE || 'Untitled';
+          const titleRaw = process.env.ISSUE_TITLE || 'Untitled';
+          const path = 'data/events.json';
+          if (!fs.existsSync('data')) fs.mkdirSync('data');
+          if (!fs.existsSync(path)) fs.writeFileSync(path, '[]');
 
-          const get = (label) => {
-            const m = body.match(new RegExp(label+':\\s*(.+)','i'));
+          // helper to capture 'Label: value' style
+          const getKV = (label) => {
+            const m = body.match(new RegExp('^\\s*' + label + '\\s*:\\s*(.+)$','im'));
             return m ? m[1].trim() : '';
           };
 
-          const event = {
-            title: get('Event Name') || title,
-            date:  get('Event Date'),
-            time:  get('Event Time'),
-            description: get('Event Description'),
-            contact: get('Event Contact'),
-            phone: get('Event Contact Phone Number') || get('Phone'),
-            email: get('Event Contact Email') || get('Email'),
-            sourceIssue: process.env.ISSUE_URL
-          };
+          // Title strategies:
+          // 1) Event Name: ...
+          // 2) From title after 'Event:' or angle brackets <>
+          // 3) Fall back to entire issue title
+          let title = getKV('Event Name');
+          if (!title) {
+            // [Calendar] Event: <ASVAB Test Administration>
+            const m1 = titleRaw.match(/Event:\\s*<?([^>]+)>?/i);
+            title = m1 ? m1[1].trim() : '';
+          }
+          if (!title) {
+            // strip brackets if present
+            const m2 = titleRaw.match(/<([^>]+)>/);
+            title = m2 ? m2[1].trim() : titleRaw.trim();
+          }
 
-          if (!event.title || !event.date) {
+          // Date strategies:
+          // 1) Event Date:
+          // 2) Date: or When: lines
+          // 3) Any ISO-like YYYY-MM-DD anywhere in body
+          let date = getKV('Event Date') || getKV('Date') || getKV('When');
+          if (!date) {
+            const iso = body.match(/\\b(20\\d{2}-\\d{2}-\\d{2})\\b/);
+            if (iso) date = iso[1];
+          }
+          // normalize common US formats MM/DD/YYYY -> YYYY-MM-DD
+          if (date && /\\d{1,2}\\/\\d{1,2}\\/\\d{4}/.test(date)) {
+            const [mm, dd, yyyy] = date.match(/(\\d{1,2})\\/(\\d{1,2})\\/(\\d{4})/).slice(1);
+            const pad = s => s.toString().padStart(2,'0');
+            date = `${yyyy}-${pad(mm)}-${pad(dd)}`;
+          }
+
+          // Optional fields
+          const time = getKV('Event Time') || getKV('Time');
+          const description = getKV('Event Description') || getKV('Description') || '';
+          const contact = getKV('Event Contact') || getKV('Contact') || '';
+          const phone = getKV('Event Contact Phone Number') || getKV('Phone') || '';
+          const email = getKV('Event Contact Email') || getKV('Email') || '';
+
+          if (!title || !date) {
             console.error('Missing title or date; refusing to append.');
+            console.error('Parsed title=', title, 'date=', date);
             process.exit(1);
           }
 
-          events.push(event);
+          const events = JSON.parse(fs.readFileSync(path, 'utf8'));
+          const ev = {
+            title, date, time, description, contact, phone, email,
+            sourceIssue: process.env.ISSUE_URL
+          };
+          events.push(ev);
           fs.writeFileSync(path, JSON.stringify(events, null, 2));
-          console.log('Appended', event);
+          console.log('Appended event:', ev);
           "
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_URL: ${{ github.event.issue.html_url }}
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/events.json
-          git commit -m "chore(calendar): approve issue #${{ github.event.issue.number }}" || echo "No changes"
-          git push
