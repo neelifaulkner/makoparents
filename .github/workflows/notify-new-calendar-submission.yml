@@ -4,62 +4,73 @@ on:
   issues:
     types: [opened, edited, reopened, labeled]
   workflow_dispatch:
+    inputs:
+      test_subject:
+        description: 'Test email subject'
+        required: false
+      test_body:
+        description: 'Test email body'
+        required: false
 
 jobs:
   notify:
     runs-on: ubuntu-latest
 
+    # Map secrets to environment variables (this is the correct way)
+    env:
+      SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      TO_EMAIL: ${{ secrets.TO_EMAIL }}
+      SUBJECT: ${{ github.event.issue.title || inputs.test_subject || 'Test submission' }}
+      BODY: ${{ github.event.issue.body  || inputs.test_body  || 'This is a test body.' }}
+
     steps:
-      - name: Validate secrets are present
+      - name: Validate required secrets
         run: |
-          set -e
-          miss=0
+          missing=0
           for v in SMTP_SERVER SMTP_PORT SMTP_USERNAME SMTP_PASSWORD TO_EMAIL; do
-            if [ -z "${{ secrets[$v] }}" ]; then
+            eval "val=\${$v}"
+            if [ -z "$val" ]; then
               echo "::error::Missing required secret: $v"
-              miss=1
+              missing=1
             fi
           done
-          if [ "$miss" -eq 1 ]; then
+          if [ "$missing" -ne 0 ]; then
             exit 1
           fi
 
-      # Gmail: try 465 (SSL)
+      # First attempt: SSL on 465 (works for Gmail app passwords)
       - name: Send email via 465 (SSL)
         id: send465
         continue-on-error: true
         uses: dawidd6/action-send-mail@v3
         with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "New Calendar Submission: ${{ github.event.issue.title }}"
-          to: ${{ secrets.TO_EMAIL }}
-          from: "Mako Parents <${{ secrets.SMTP_USERNAME }}>"
+          server_address: ${{ env.SMTP_SERVER }}
+          server_port: ${{ env.SMTP_PORT }}
+          username: ${{ env.SMTP_USERNAME }}
+          password: ${{ env.SMTP_PASSWORD }}
+          subject: ${{ env.SUBJECT }}
+          to: ${{ env.TO_EMAIL }}
+          from: "Mako Parents <${{ env.SMTP_USERNAME }}>"
           secure: true
           charset: utf-8
-          html_body: |
-            <p>A new calendar event was submitted:</p>
-            <p><a href='${{ github.event.issue.html_url }}'>View Issue #${{ github.event.issue.number }}</a></p>
-            <pre>${{ github.event.issue.body }}</pre>
+          html_body: ${{ env.BODY }}
 
-      # Fallback: if first attempt failed AND you're actually using 587, try TLS
+      # Fallback: STARTTLS on 587 if the first step failed
       - name: Fallback via 587 (STARTTLS)
         if: steps.send465.outcome == 'failure'
         uses: dawidd6/action-send-mail@v3
         with:
-          server_address: ${{ secrets.SMTP_SERVER }}
+          server_address: ${{ env.SMTP_SERVER }}
           server_port: 587
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "New Calendar Submission: ${{ github.event.issue.title }}"
-          to: ${{ secrets.TO_EMAIL }}
-          from: "Mako Parents <${{ secrets.SMTP_USERNAME }}>"
+          username: ${{ env.SMTP_USERNAME }}
+          password: ${{ env.SMTP_PASSWORD }}
+          subject: ${{ env.SUBJECT }}
+          to: ${{ env.TO_EMAIL }}
+          from: "Mako Parents <${{ env.SMTP_USERNAME }}>"
           secure: false
           starttls: true
           charset: utf-8
-          html_body: |
-            <p>A new calendar event was submitted:</p>
-            <p><a href='${{ github.event.issue.html_url }}'>View Issue #${{ github.event.issue.number }}</a></p>
-            <pre>${{ github.event.issue.body }}</pre>
+          html_body: ${{ env.BODY }}
