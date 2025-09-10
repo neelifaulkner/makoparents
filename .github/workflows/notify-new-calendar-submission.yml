@@ -1,86 +1,29 @@
-name: Notify new calendar submission
+name: Notify on new calendar submission
+
 on:
   issues:
-    types: [opened, edited]
-permissions:
-  contents: read
-  issues: write
+    types: [opened, edited, reopened, labeled]
+  workflow_dispatch:  # manual trigger for testing
 
 jobs:
   notify:
-    if: contains(github.event.issue.labels.*.name, 'calendar-event')
+    # Don't over-filter at the job level; keep it simple
     runs-on: ubuntu-latest
+
     steps:
-      - name: Ensure labels exist & keep "needs-approval"
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const {owner, repo} = context.repo;
-            for (const {name,color,description} of [
-              {name:'needs-approval', color:'f0ad4e', description:'Pending review'},
-              {name:'approved', color:'28a745', description:'Approved for calendar'}
-            ]) {
-              try { await github.rest.issues.getLabel({owner, repo, name}) }
-              catch { await github.rest.issues.createLabel({owner, repo, name, color, description}) }
-            }
-            await github.rest.issues.addLabels({
-              owner, repo, issue_number: context.payload.issue.number, labels: ['needs-approval']
-            });
-
-      - name: Build email content from Issue Form
-        id: build
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const issue = context.payload.issue;
-            function get(field){
-              const re = new RegExp(`\\|\\s*${field}\\s*\\|([^\\n]+)\\n`);
-              const m = issue.body.match(re);
-              return m ? m[1].trim().replace(/^:/,'').trim() : '';
-            }
-
-            const title    = get('Event Name');
-            const date     = get('Event Date \\(YYYY-MM-DD\\)');
-            const time     = get('Event Time \\(24h HH:MM\\) — leave blank for all-day');
-            const description = get('Event Description');
-            const category = get('Category');
-            const location = get('Event Location \\(optional\\)');
-            const link     = get('Event Link \\(tickets/info\\) \\(optional\\)');
-            const contactName  = get('Event Contact Name');
-            const contactPhone = get('Event Contact Phone Number');
-            const contactEmail = get('Event Contact Email');
-
-            const subject = `[Mako Parents] NEW submission: ${title || '(no title)'} (${date}${time? ' ' + time : ''})`;
-            const approveUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/issues/${issue.number}`;
-            const body = [
-              `New calendar submission awaiting approval:`,
-              ``,
-              `Title: ${title}`,
-              `Date: ${date}`,
-              `Time: ${time || '(all-day)'}`,
-              `Category: ${category}`,
-              `Location: ${location || '(none)'}`,
-              `Link: ${link || '(none)'}`,
-              `Description: ${description || '(none)'}`,
-              ``,
-              `Contact: ${contactName || '(n/a)'} | ${contactPhone || '(n/a)'} | ${contactEmail || '(n/a)'}`,
-              ``,
-              `Approve by adding the "approved" label to this issue:`,
-              approveUrl
-            ].join('\n');
-
-            core.setOutput('subject', subject);
-            core.setOutput('body', body);
-
       - name: Send email
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
           server_port: ${{ secrets.SMTP_PORT }}
-          secure: true
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: ${{ steps.build.outputs.subject }}
-          to: ${{ secrets.NOTIFY_TO }}
-          from: "${{ secrets.FROM_NAME || 'Mako Parents' }} <${{ secrets.SMTP_USERNAME }}>"
-          body: ${{ steps.build.outputs.body }}
+          subject: "New Calendar Submission: ${{ github.event.issue.title }}"
+          to: ${{ secrets.TO_EMAIL }}
+          from: "Mako Parents <${{ secrets.SMTP_USERNAME }}>"
+          secure: true
+          charset: utf-8
+          html_body: |
+            <p>A new calendar event was submitted:</p>
+            <p><a href='${{ github.event.issue.html_url }}'>View Issue #${{ github.event.issue.number }}</a></p>
+            <pre>${{ github.event.issue.body }}</pre>
