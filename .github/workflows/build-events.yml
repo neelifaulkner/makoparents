@@ -1,8 +1,9 @@
 name: Build calendar events
+
 on:
   schedule:
-    - cron: "17 2 * * *"   # nightly ~2:17am UTC
-  workflow_dispatch: {}     # manual run
+    - cron: "17 2 * * *"  # nightly ~2:17am UTC
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,13 +12,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      # Install deps WITHOUT creating package.json / lockfile
       - name: Install deps (no-save)
         run: |
           npm install ical node-fetch@2 --no-save
@@ -25,16 +27,15 @@ jobs:
       - name: Build events.json
         run: node tools/build-events.mjs
 
-      # Only stage the file we actually update; ignore untracked junk
       - name: Commit calendar changes (if any)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage ONLY your events file
+          # Only stage the file we actually update
           git add calendar/events.json
 
-          # If nothing staged, exit successfully
+          # If nothing is staged, exit successfully (ignores untracked node_modules/)
           if git diff --cached --quiet; then
             echo "No calendar changes to commit."
             exit 0
