@@ -804,6 +804,30 @@
     "notes": ""
   },
   {
+    "title": "School Custodian Day",
+    "start": "2025-10-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Custodian Day",
+    "start": "2025-10-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Football @ Bayside",
     "start": "2025-10-02T18:00:00.000Z",
     "end": "2025-10-02T20:00:00.000Z",
@@ -1162,6 +1186,18 @@
     "location": "Montgomery, AL, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Arts Afire Fall Fest at Coastal Art Center",
+    "start": "2025-10-23T17:00:00.000Z",
+    "end": "2025-10-23T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Coastal Arts Center</p> - 26389 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7774"
   },
   {
     "title": "Terrific Kid",
@@ -1671,6 +1707,30 @@
   {
     "title": "Thanksgiving Break",
     "start": "2025-11-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Program",
+    "start": "2025-12-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Program",
+    "start": "2025-12-10T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
