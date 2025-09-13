@@ -624,18 +624,6 @@
     "notes": "Tri-Match: Fairhope, Spanish Fort"
   },
   {
-    "title": "Volleyball (JV, V) vs MGM",
-    "start": "2025-09-18T16:30:00.000Z",
-    "end": "2025-09-18T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Football vs Satsuma",
     "start": "2025-09-18T19:00:00.000Z",
     "end": "2025-09-18T21:30:00.000Z",
@@ -1188,7 +1176,7 @@
     "notes": ""
   },
   {
-    "title": "Arts Afire Fall Fest at Coastal Art Center",
+    "title": "Arts Afire Fall Fest at Coastal Arts Center",
     "start": "2025-10-23T17:00:00.000Z",
     "end": "2025-10-23T19:00:00.000Z",
     "allDay": false,
@@ -1733,6 +1721,54 @@
     "start": "2025-12-10T00:00:00.000Z",
     "end": "",
     "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Grandparents Day",
+    "start": "2025-12-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Grandparents Day",
+    "start": "2025-12-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Band Concert at PAC",
+    "start": "2025-12-11T18:00:00.000Z",
+    "end": "2025-12-11T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Band Concert at PAC",
+    "start": "2025-12-11T18:00:00.000Z",
+    "end": "2025-12-11T19:00:00.000Z",
+    "allDay": false,
     "categories": [
       "school"
     ],
