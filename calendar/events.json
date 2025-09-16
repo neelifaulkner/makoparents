@@ -1,17 +1,5 @@
 [
   {
-    "title": "Football vs Maclay, FL (Jamboree)",
-    "start": "2025-08-15T18:00:00.000Z",
-    "end": "2025-08-15T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Parent Night (1st, 3rd, 5th)",
     "start": "2025-08-18T00:00:00.000Z",
     "end": "",
@@ -1080,6 +1068,30 @@
     "notes": ""
   },
   {
+    "title": "homecoming: jersey day",
+    "start": "2025-10-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: jersey day",
+    "start": "2025-10-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Volleyball Area Tournament",
     "start": "2025-10-14T00:00:00.000Z",
     "end": "",
@@ -1088,6 +1100,54 @@
       "school"
     ],
     "location": "TBD",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: Mako Spirit",
+    "start": "2025-10-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: Mako Spirit",
+    "start": "2025-10-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: country vs. country club",
+    "start": "2025-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: country vs. country club",
+    "start": "2025-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -1124,6 +1184,30 @@
       "school"
     ],
     "location": "Elberta High School",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: disco day",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "homecoming: disco day",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
