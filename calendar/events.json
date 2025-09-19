@@ -1,29 +1,5 @@
 [
   {
-    "title": "Parent Night (1st, 3rd, 5th)",
-    "start": "2025-08-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "1st Grade - 5:30 pm  \n3rd Grade - 6:00 pm  \n5th Grade - 6:30 pm"
-  },
-  {
-    "title": "Parent Night (1st, 3rd, 5th)",
-    "start": "2025-08-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "1st Grade - 5:30 pm  \n3rd Grade - 6:00 pm  \n5th Grade - 6:30 pm"
-  },
-  {
     "title": "Parent Night (K, 2nd, 4th, 6th)",
     "start": "2025-08-19T00:00:00.000Z",
     "end": "",
@@ -622,6 +598,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Alabama Public Television Game of the Week (AHSAA)"
+  },
+  {
+    "title": "Volleyball Practice",
+    "start": "2025-09-19T14:30:00.000Z",
+    "end": "2025-09-19T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "MS Volleyball @ Gulf Shores Tournament",
