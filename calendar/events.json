@@ -1,29 +1,5 @@
 [
   {
-    "title": "Parent Night (K, 2nd, 4th, 6th)",
-    "start": "2025-08-19T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Kinder- 5:00 pm \n2nd Grade -5:30 pm  \n4th Grade - 6:00 pm  \n6th Grade - 6:30 pm"
-  },
-  {
-    "title": "Parent Night (K, 2nd, 4th, 6th)",
-    "start": "2025-08-19T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Kinder- 5:00 pm \n2nd Grade -5:30 pm  \n4th Grade - 6:00 pm  \n6th Grade - 6:30 pm"
-  },
-  {
     "title": "Volleyball @ Curry",
     "start": "2025-08-21T16:30:00.000Z",
     "end": "2025-08-21T17:30:00.000Z",
@@ -600,18 +576,6 @@
     "notes": "Alabama Public Television Game of the Week (AHSAA)"
   },
   {
-    "title": "Volleyball Practice",
-    "start": "2025-09-19T14:30:00.000Z",
-    "end": "2025-09-19T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "MS Volleyball @ Gulf Shores Tournament",
     "start": "2025-09-20T00:00:00.000Z",
     "end": "",
@@ -853,8 +817,8 @@
   },
   {
     "title": "​Disney's Lion King JR.",
-    "start": "2025-10-04T14:00:00.000Z",
-    "end": "2025-10-04T15:00:00.000Z",
+    "start": "2025-10-04T19:00:00.000Z",
+    "end": "2025-10-04T20:00:00.000Z",
     "allDay": false,
     "categories": [
       "arts"
@@ -865,8 +829,8 @@
   },
   {
     "title": "​Disney's Lion King JR.",
-    "start": "2025-10-05T19:00:00.000Z",
-    "end": "2025-10-05T20:00:00.000Z",
+    "start": "2025-10-05T14:00:00.000Z",
+    "end": "2025-10-05T15:00:00.000Z",
     "allDay": false,
     "categories": [
       "arts"
@@ -1851,6 +1815,30 @@
   {
     "title": "Kona Ice",
     "start": "2025-12-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-12-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2025-12-18T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
