@@ -1,41 +1,5 @@
 [
   {
-    "title": "Volleyball @ Curry",
-    "start": "2025-08-21T16:30:00.000Z",
-    "end": "2025-08-21T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Curry High School",
-    "link": "",
-    "notes": "Curry & Winston County"
-  },
-  {
-    "title": "MS Football vs Bayside",
-    "start": "2025-08-21T18:00:00.000Z",
-    "end": "2025-08-21T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "X-Country @ Bayside",
-    "start": "2025-08-21T19:30:00.000Z",
-    "end": "2025-08-21T20:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
-    "link": "",
-    "notes": "Bayside Twilight Admiral, Daphne\n7:30 Girls 3K\n7:55 Boys 3K"
-  },
-  {
     "title": "Volleyball @ Curry Invitational Tournament",
     "start": "2025-08-22T00:00:00.000Z",
     "end": "",
