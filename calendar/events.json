@@ -1847,5 +1847,29 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   }
 ]
