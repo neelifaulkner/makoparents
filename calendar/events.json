@@ -1,29 +1,5 @@
 [
   {
-    "title": "JV Football @ Elberta",
-    "start": "2025-08-25T17:00:00.000Z",
-    "end": "2025-08-25T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Elberta High School",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Volleyball @ Elberta",
-    "start": "2025-08-25T17:00:00.000Z",
-    "end": "2025-08-25T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Elberta High School",
-    "link": "",
-    "notes": "7th- 5:00, 8th- 6:00"
-  },
-  {
     "title": "Volleyball (JV, V) @ Baldwin County",
     "start": "2025-08-26T16:30:00.000Z",
     "end": "2025-08-26T17:30:00.000Z",
@@ -600,6 +576,19 @@
     "notes": ""
   },
   {
+    "title": "Blood Drive at Adult Fitness Center",
+    "start": "2025-09-26T13:00:00.000Z",
+    "end": "2025-09-26T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Adult Fitness Center</p> - 4847 Wilson Blvd  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7771"
+  },
+  {
     "title": "Football @ Robertsdale",
     "start": "2025-09-26T19:00:00.000Z",
     "end": "2025-09-26T21:30:00.000Z",
@@ -652,6 +641,18 @@
     "start": "2025-10-01T14:30:00.000Z",
     "end": "2025-10-01T16:30:00.000Z",
     "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Custodian Day",
+    "start": "2025-10-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
     "categories": [
       "school"
     ],
@@ -768,6 +769,54 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7557"
   },
   {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Volleyball @ Gulf Shores",
     "start": "2025-10-07T17:30:00.000Z",
     "end": "2025-10-07T18:30:00.000Z",
@@ -778,6 +827,30 @@
     "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
     "link": "",
     "notes": "Tri-Match: Gulf Shores, Madison Co."
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Walk and Roll to School Day",
@@ -817,6 +890,30 @@
   },
   {
     "title": "End of 1st Quarter",
+    "start": "2025-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-09T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -876,6 +973,30 @@
     "notes": ""
   },
   {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Fall Break",
     "start": "2025-10-11T00:00:00.000Z",
     "end": "",
@@ -889,6 +1010,30 @@
   },
   {
     "title": "Fall Break",
+    "start": "2025-10-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-11T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -913,6 +1058,30 @@
   },
   {
     "title": "Fall Break",
+    "start": "2025-10-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-12T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -937,6 +1106,30 @@
   },
   {
     "title": "Fall Break",
+    "start": "2025-10-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-13T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -961,6 +1154,30 @@
   },
   {
     "title": "homecoming: jersey day",
+    "start": "2025-10-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-14T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1008,6 +1225,30 @@
     "notes": ""
   },
   {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "homecoming: country vs. country club",
     "start": "2025-10-16T00:00:00.000Z",
     "end": "",
@@ -1021,6 +1262,30 @@
   },
   {
     "title": "homecoming: country vs. country club",
+    "start": "2025-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-16T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1081,6 +1346,30 @@
   },
   {
     "title": "homecoming: disco day",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-17T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1200,6 +1489,42 @@
     "notes": "Life is a puzzle, live drug free"
   },
   {
+    "title": "First Responders Appreciation Day",
+    "start": "2025-10-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "First Responders Appreciation Day",
+    "start": "2025-10-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "First Responders Appreciation Day",
+    "start": "2025-10-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Red Ribbon Week: Life is a puzzle, live drug free",
     "start": "2025-10-28T00:00:00.000Z",
     "end": "",
@@ -1306,6 +1631,19 @@
     "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "3rd Annual Spooky Scramble Glow Golf Tournament",
+    "start": "2025-10-30T18:30:00.000Z",
+    "end": "2025-10-30T20:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7775"
   },
   {
     "title": "Red Ribbon Week: Life is a puzzle, live drug free",
@@ -1863,6 +2201,30 @@
   {
     "title": "Christmas Break",
     "start": "2025-12-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-24T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
