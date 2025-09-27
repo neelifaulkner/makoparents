@@ -1,17 +1,5 @@
 [
   {
-    "title": "Volleyball (JV, V) @ Baldwin County",
-    "start": "2025-08-26T16:30:00.000Z",
-    "end": "2025-08-26T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Baldwin high county school, 1 Tiger Dr, Bay Minette, AL 36507, USA",
-    "link": "",
-    "notes": "JV & Varsity: Baldwin County & TR Miller"
-  },
-  {
     "title": "MS Volleyball vs Gulf Shores",
     "start": "2025-08-27T16:30:00.000Z",
     "end": "2025-08-27T17:30:00.000Z",
@@ -574,19 +562,6 @@
     "location": "",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Blood Drive at Adult Fitness Center",
-    "start": "2025-09-26T13:00:00.000Z",
-    "end": "2025-09-26T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Adult Fitness Center</p> - 4847 Wilson Blvd  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7771"
   },
   {
     "title": "Football @ Robertsdale",
@@ -2225,6 +2200,30 @@
   {
     "title": "Christmas Break",
     "start": "2025-12-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-25T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
