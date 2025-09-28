@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Volleyball vs Gulf Shores",
-    "start": "2025-08-27T16:30:00.000Z",
-    "end": "2025-08-27T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "7th- 4:30, 8th- 5:30"
-  },
-  {
     "title": "Volleyball (9th, JV, V) vs Elberta",
     "start": "2025-08-28T16:30:00.000Z",
     "end": "2025-08-28T17:30:00.000Z",
@@ -2224,6 +2212,30 @@
   {
     "title": "Christmas Break",
     "start": "2025-12-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-26T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-26T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
