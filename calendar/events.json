@@ -1,17 +1,5 @@
 [
   {
-    "title": "Volleyball (9th, JV, V) vs Elberta",
-    "start": "2025-08-28T16:30:00.000Z",
-    "end": "2025-08-28T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "9th- 4:30, JV- 5:30, V- 6:30"
-  },
-  {
     "title": "Kona Ice",
     "start": "2025-08-29T00:00:00.000Z",
     "end": "",
@@ -648,6 +636,30 @@
     "notes": ""
   },
   {
+    "title": "Cross-Country Orange Beach Invitational",
+    "start": "2025-10-02T16:30:00.000Z",
+    "end": "2025-10-02T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Orange Beach Invitational\n4:30- Girls\n5:00- Boys"
+  },
+  {
+    "title": "Swimming @ Fairhope",
+    "start": "2025-10-02T16:30:00.000Z",
+    "end": "2025-10-02T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Football @ Bayside",
     "start": "2025-10-02T18:00:00.000Z",
     "end": "2025-10-02T20:00:00.000Z",
@@ -656,6 +668,18 @@
       "school"
     ],
     "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JV Volleyball @ Daphne Tournament",
+    "start": "2025-10-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Daphne High School Baseball, 300 Lawson Rd, Daphne, AL 36526, USA",
     "link": "",
     "notes": ""
   },
@@ -706,6 +730,30 @@
     "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7556"
+  },
+  {
+    "title": "JV Volleyball @ Daphne Tournament",
+    "start": "2025-10-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Daphne High School Baseball, 300 Lawson Rd, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Volleyball @ St. Paul's Tournament",
+    "start": "2025-10-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "​Disney's Lion King JR.",
@@ -1524,6 +1572,18 @@
     "notes": ""
   },
   {
+    "title": "Bowling vs Elberta",
+    "start": "2025-10-28T15:30:00.000Z",
+    "end": "2025-10-28T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Red Ribbon Week: Life is a puzzle, live drug free",
     "start": "2025-10-29T00:00:00.000Z",
     "end": "",
@@ -1633,6 +1693,66 @@
     "notes": "Life is a puzzle, live drug free"
   },
   {
+    "title": "MS Basketball @ St. Michael",
+    "start": "2025-11-03T16:30:00.000Z",
+    "end": "2025-11-03T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": "7th- 4:30\nMSG- 5:30\n8th- 6:30"
+  },
+  {
+    "title": "Bowling vs Gulf Shores",
+    "start": "2025-11-04T15:30:00.000Z",
+    "end": "2025-11-04T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Basketball @ Saraland",
+    "start": "2025-11-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Saraland High School, 1115 Industrial Pkwy, Saraland, AL 36571, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Bowling vs St. Michael",
+    "start": "2025-11-06T15:30:00.000Z",
+    "end": "2025-11-06T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Home Match"
+  },
+  {
+    "title": "MS Basketball @ St. Paul's",
+    "start": "2025-11-06T16:00:00.000Z",
+    "end": "2025-11-06T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
+  },
+  {
     "title": "STEAM Day",
     "start": "2025-11-07T00:00:00.000Z",
     "end": "",
@@ -1670,6 +1790,30 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7560"
   },
   {
+    "title": "Bowling @ Bayshore Academy",
+    "start": "2025-11-10T15:30:00.000Z",
+    "end": "2025-11-10T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Eastern Shore Lanes, 10460 Eastern Shore Blvd, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JVB, VG, VB Basketball vs St. Paul's",
+    "start": "2025-11-10T16:30:00.000Z",
+    "end": "2025-11-10T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB- 4:30\nVG- 6:00\nVB-7:30"
+  },
+  {
     "title": "Veterans Day Holiday",
     "start": "2025-11-11T00:00:00.000Z",
     "end": "",
@@ -1692,6 +1836,42 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "VB Basketball vs Saraland",
+    "start": "2025-11-11T17:30:00.000Z",
+    "end": "2025-11-11T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Coastal Community College",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Basketball vs Bayside Academy",
+    "start": "2025-11-11T18:00:00.000Z",
+    "end": "2025-11-11T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Basketball @ Faith Academy",
+    "start": "2025-11-12T16:30:00.000Z",
+    "end": "2025-11-12T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "\n7th- 4:30\nMSG- 5:30\n8th- 6:30"
   },
   {
     "title": "Progress Reports",
@@ -1718,6 +1898,30 @@
     "notes": ""
   },
   {
+    "title": "Bowling @ Houston Academy, Slocomb",
+    "start": "2025-11-13T13:00:00.000Z",
+    "end": "2025-11-13T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Patricia Lanes, 2208 Ross Clark Cir, Dothan, AL 36301, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Basketball vs McGill-Toolen",
+    "start": "2025-11-13T17:30:00.000Z",
+    "end": "2025-11-13T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7B- 5:30\n8B- 6:30"
+  },
+  {
     "title": "Spelling Bee",
     "start": "2025-11-14T08:30:00.000Z",
     "end": "2025-11-14T09:30:00.000Z",
@@ -1740,6 +1944,18 @@
     "location": "",
     "link": "",
     "notes": "Join with Google Meet: https://meet.google.com/gwo-yjhd-phk\nOr dial: (US) +1 812-228-1507 PIN: 436088434#\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720"
+  },
+  {
+    "title": "VG Basketball @ Escambia County",
+    "start": "2025-11-17T18:00:00.000Z",
+    "end": "2025-11-17T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Escambia County High School, 1215 S Presley St, Atmore, AL 36502, USA",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Holiday Picture day/Make-up yearbook",
@@ -1762,6 +1978,42 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Bowling vs Houston Academy, Slocomb",
+    "start": "2025-11-18T14:00:00.000Z",
+    "end": "2025-11-18T16:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Basketball vs UMS-Wright",
+    "start": "2025-11-18T16:00:00.000Z",
+    "end": "2025-11-18T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
+  },
+  {
+    "title": "JVB, VB Basketball vs Elberta",
+    "start": "2025-11-18T17:00:00.000Z",
+    "end": "2025-11-18T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
   },
@@ -1814,6 +2066,54 @@
     "notes": ""
   },
   {
+    "title": "Wrestling @ Bayshore Christian",
+    "start": "2025-11-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayshore Christian School, 316 Presbyterian Dr, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": "vs Bayshore, Houston Academy"
+  },
+  {
+    "title": "MS Basketball @ Bayside Academy",
+    "start": "2025-11-20T16:00:00.000Z",
+    "end": "2025-11-20T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
+  },
+  {
+    "title": "JVB, VB Basketball vs Foley",
+    "start": "2025-11-20T16:30:00.000Z",
+    "end": "2025-11-20T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB- 4:30\nVB- 6:00\nVG- 7:30 vs Fairhope"
+  },
+  {
+    "title": "VG Basketball vs Fairhope",
+    "start": "2025-11-20T19:30:00.000Z",
+    "end": "2025-11-20T20:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Terrific Kid",
     "start": "2025-11-21T00:00:00.000Z",
     "end": "",
@@ -1836,6 +2136,78 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Wrestling @ Gulf Coast Clash",
+    "start": "2025-11-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Mobile Convention Center, 1 S Water St, Mobile, AL 36602, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JVB, VB Basketball vs Northview, FL",
+    "start": "2025-11-21T17:00:00.000Z",
+    "end": "2025-11-21T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB- 5:00\nVB- 6:30"
+  },
+  {
+    "title": "JVB, VB Basketball Mako Classic Tournament",
+    "start": "2025-11-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Mako Classic Basketball Tournament"
+  },
+  {
+    "title": "VG Basketball @ Pelham Tournament",
+    "start": "2025-11-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Pelham High School, 2500 Panther Cir, Pelham, AL 35124, USA",
+    "link": "",
+    "notes": "VG Basketball Tournament"
+  },
+  {
+    "title": "Wrestling @ Gulf Coast Clash",
+    "start": "2025-11-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Mobile Convention Center, 1 S Water St, Mobile, AL 36602, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JVB, VB Basketball Mako Classic Tournament",
+    "start": "2025-11-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB, VB Basketball Tournament"
   },
   {
     "title": "Thanksgiving Break",
@@ -1862,6 +2234,30 @@
     "notes": ""
   },
   {
+    "title": "VG Basketball @ Pelham Tournament",
+    "start": "2025-11-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Pelham High School, 2500 Panther Cir, Pelham, AL 35124, USA",
+    "link": "",
+    "notes": "Pelham Basketball Tournament"
+  },
+  {
+    "title": "JVB, VB Basketball Mako Classic Tournament",
+    "start": "2025-11-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB, VB Basketball Tournament"
+  },
+  {
     "title": "Thanksgiving Break",
     "start": "2025-11-25T00:00:00.000Z",
     "end": "",
@@ -1884,6 +2280,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "VG Basketball @ Pelham Tournament",
+    "start": "2025-11-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Pelham High School, 2500 Panther Cir, Pelham, AL 35124, USA",
+    "link": "",
+    "notes": "Pelham Basketball Tournament"
   },
   {
     "title": "Thanksgiving Break",
@@ -1958,6 +2366,162 @@
     "notes": ""
   },
   {
+    "title": "MS Basketball @ Saraland",
+    "start": "2025-12-01T16:30:00.000Z",
+    "end": "2025-12-01T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Saraland Middle School, 401 Baldwin Rd, Saraland, AL 36571, USA",
+    "link": "",
+    "notes": "\n7th- 4:30\nMSG- 5:30\n8th- 6:30"
+  },
+  {
+    "title": "Wrestling vs Elberta, Bayshore",
+    "start": "2025-12-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Basketball @ McGill-Toolen",
+    "start": "2025-12-02T18:00:00.000Z",
+    "end": "2025-12-02T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "McGill-Toolen High School",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Basketball vs Foley",
+    "start": "2025-12-03T16:30:00.000Z",
+    "end": "2025-12-03T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "\n7th- 4:30\nMSG- 5:30\n8th- 6:30"
+  },
+  {
+    "title": "Wrestling @ Satsuma",
+    "start": "2025-12-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
+    "link": "",
+    "notes": "vs Satsuma, Thomasville"
+  },
+  {
+    "title": "JVB, VG, VB Basketball @ Foley",
+    "start": "2025-12-04T16:00:00.000Z",
+    "end": "2025-12-04T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "JVB- 4:00\nVG- 5:30\nVB- 7:00"
+  },
+  {
+    "title": "MS Basketball vs St. Michael",
+    "start": "2025-12-04T16:00:00.000Z",
+    "end": "2025-12-04T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
+  },
+  {
+    "title": "Wrestling @ Welborn Tournament",
+    "start": "2025-12-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Walter Wellborn High School, 135 Pinson Rd, Anniston, AL 36201, USA",
+    "link": "",
+    "notes": "Lamar Wade Memorial Tournament"
+  },
+  {
+    "title": "MS Basketball vs St. Paul's",
+    "start": "2025-12-08T16:00:00.000Z",
+    "end": "2025-12-08T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
+  },
+  {
+    "title": "VG Basketball vs Baker",
+    "start": "2025-12-08T18:00:00.000Z",
+    "end": "2025-12-08T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Basketball"
+  },
+  {
+    "title": "Wrestling @ TR Miller",
+    "start": "2025-12-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "T.R. Miller High School, 1835 Douglas Ave, Brewton, AL 36426, USA",
+    "link": "",
+    "notes": "vs TR Miller, JU Blackshear"
+  },
+  {
+    "title": "Bowling @ St. Michael",
+    "start": "2025-12-09T15:30:00.000Z",
+    "end": "2025-12-09T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Eastern Shore Lanes, 10460 Eastern Shore Blvd, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JVB, VG, VB Basketball vs UMS-Wright",
+    "start": "2025-12-09T16:00:00.000Z",
+    "end": "2025-12-09T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB- 4:00\nVG- 5:30\nVB- 7:00"
+  },
+  {
     "title": "Christmas Program",
     "start": "2025-12-10T00:00:00.000Z",
     "end": "",
@@ -1980,6 +2544,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "MS Basketball vs Gulf Shores",
+    "start": "2025-12-10T16:00:00.000Z",
+    "end": "2025-12-10T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
   },
   {
     "title": "Grandparents Day",
@@ -2006,6 +2582,30 @@
     "notes": ""
   },
   {
+    "title": "Wrestling @ Robertsdale",
+    "start": "2025-12-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Robertsdale High School, 1 Golden Bear Dr, Robertsdale, AL 36567, USA",
+    "link": "",
+    "notes": "vs Robertsdale, Spanish Fort, Vancleave, MS"
+  },
+  {
+    "title": "MS Basketball vs Faith Academy",
+    "start": "2025-12-11T17:00:00.000Z",
+    "end": "2025-12-11T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "\n7th- 5:00\nMSG- 6:00\n8th- 7:00"
+  },
+  {
     "title": "Band Concert at PAC",
     "start": "2025-12-11T18:00:00.000Z",
     "end": "2025-12-11T19:00:00.000Z",
@@ -2028,6 +2628,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "JVB, VB Basketball @ Elberta",
+    "start": "2025-12-11T18:00:00.000Z",
+    "end": "2025-12-11T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Elberta High School",
+    "link": "",
+    "notes": "JVB- 6:00\nVb- 7:30"
   },
   {
     "title": "Kona Ice",
@@ -2054,6 +2666,102 @@
     "notes": ""
   },
   {
+    "title": "Wrestling @ Satsuma Tournament",
+    "start": "2025-12-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
+    "link": "",
+    "notes": "Gator Duals tournament"
+  },
+  {
+    "title": "VG Basketball vs Escambia County",
+    "start": "2025-12-12T16:30:00.000Z",
+    "end": "2025-12-12T17:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Basketball vs Bayshore Academy",
+    "start": "2025-12-12T17:00:00.000Z",
+    "end": "2025-12-12T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "8B- 5:00\nMSG- 6:00"
+  },
+  {
+    "title": "JVB, VB Basketball vs Bayshore Academy",
+    "start": "2025-12-12T18:00:00.000Z",
+    "end": "2025-12-12T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "4:30- VG vs Escambia Co\n6:00- JVB vs Bayshore\n7:30- VB vs Bayshore"
+  },
+  {
+    "title": "Wrestling @ Satsuma Tournament",
+    "start": "2025-12-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
+    "link": "",
+    "notes": "Gator Duals tournament"
+  },
+  {
+    "title": "JVB, VB Basketball @ Gulf Shores",
+    "start": "2025-12-15T17:30:00.000Z",
+    "end": "2025-12-15T20:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores High School, 600 E 15th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Wrestling @ Foley",
+    "start": "2025-12-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "vs Foley, Elberta"
+  },
+  {
+    "title": "VG Basketball vs Saraland",
+    "start": "2025-12-16T18:00:00.000Z",
+    "end": "2025-12-16T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Terrific Kid",
     "start": "2025-12-18T00:00:00.000Z",
     "end": "",
@@ -2076,6 +2784,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Wrestling vs Bayside, Escambia Co.",
+    "start": "2025-12-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "vs. Bayside, Escambia Co."
   },
   {
     "title": "End of 1st semester",
@@ -2126,6 +2846,30 @@
     "notes": ""
   },
   {
+    "title": "VG, VB Basketball Tournament",
+    "start": "2025-12-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Battle for the Board Tournament"
+  },
+  {
+    "title": "VG, VB Basketball Tournament",
+    "start": "2025-12-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Battle for the Board Tournament"
+  },
+  {
     "title": "Christmas Break",
     "start": "2025-12-22T00:00:00.000Z",
     "end": "",
@@ -2148,6 +2892,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "VG, VB Basketball Tournament",
+    "start": "2025-12-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Battle for the Board Tournament"
   },
   {
     "title": "Christmas Break",
@@ -2244,5 +3000,53 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Basketball Tournament @ Birmingham",
+    "start": "2025-12-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Metro Basketball Tournament"
+  },
+  {
+    "title": "VG Basketball Tournament @ Gulf Shores",
+    "start": "2025-12-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores High School, 600 E 15th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "Gulf Shores Tournament"
   }
 ]
