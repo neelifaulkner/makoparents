@@ -3113,6 +3113,54 @@
     "notes": "Gulf Shores Tournament"
   },
   {
+    "title": "Christmas Break",
+    "start": "2025-12-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2025-12-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Basketball Tournament @ Birmingham",
+    "start": "2025-12-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Metro Birmingham Tournament"
+  },
+  {
+    "title": "VG Basketball Tournament @ Gulf Shores",
+    "start": "2025-12-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores High School, 600 E 15th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "Gulf Shores Tournament"
+  },
+  {
     "title": "Monthly Skins Tournament at Golf Center",
     "start": "2026-01-04T13:00:00.000Z",
     "end": "2026-01-04T15:00:00.000Z",
