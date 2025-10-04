@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Volleyball vs Fairhope",
-    "start": "2025-09-02T17:00:00.000Z",
-    "end": "2025-09-02T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "7th- 5:00, 8th- 6:00"
-  },
-  {
     "title": "Volleyball (9th) @ Fairhope",
     "start": "2025-09-04T17:30:00.000Z",
     "end": "2025-09-04T18:30:00.000Z",
@@ -610,18 +598,6 @@
     "location": "Escambia County High School, 1215 S Presley St, Atmore, AL 36502, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "​Disney's Lion King JR.",
-    "start": "2025-10-03T19:00:00.000Z",
-    "end": "2025-10-03T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7556"
   },
   {
     "title": "JV Volleyball @ Daphne Tournament",
@@ -3151,6 +3127,30 @@
   {
     "title": "Christmas Break",
     "start": "2025-12-31T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-01T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-01T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
