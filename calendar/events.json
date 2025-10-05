@@ -624,18 +624,6 @@
     "notes": ""
   },
   {
-    "title": "​Disney's Lion King JR.",
-    "start": "2025-10-04T19:00:00.000Z",
-    "end": "2025-10-04T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7558"
-  },
-  {
     "title": "Monthly Skins Tournament at Golf Center",
     "start": "2025-10-05T13:00:00.000Z",
     "end": "2025-10-05T15:00:00.000Z",
@@ -3159,6 +3147,42 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Wrestling- Makos Mayhem Invitational",
+    "start": "2026-01-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Makos Mayhem Invitational Wrestling Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
