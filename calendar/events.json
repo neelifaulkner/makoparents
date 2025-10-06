@@ -1,41 +1,5 @@
 [
   {
-    "title": "Volleyball (9th) @ Fairhope",
-    "start": "2025-09-04T17:30:00.000Z",
-    "end": "2025-09-04T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": "Tri-Match: Fairhope, MGM"
-  },
-  {
-    "title": "Volleyball (JV, V) @ Gulf Shores",
-    "start": "2025-09-04T17:30:00.000Z",
-    "end": "2025-09-04T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": "Tri-Match: Gulf Shores, UMS-Wright"
-  },
-  {
-    "title": "MS Football @ St. Michael",
-    "start": "2025-09-04T18:00:00.000Z",
-    "end": "2025-09-04T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "PALMS t-shirt order deadline (MySchoolBucks)",
     "start": "2025-09-05T00:00:00.000Z",
     "end": "",
@@ -622,31 +586,6 @@
     "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Monthly Skins Tournament at Golf Center",
-    "start": "2025-10-05T13:00:00.000Z",
-    "end": "2025-10-05T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7776"
-  },
-  {
-    "title": "​Disney's Lion King JR.",
-    "start": "2025-10-05T14:00:00.000Z",
-    "end": "2025-10-05T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7557"
   },
   {
     "title": "NEHS Ronald McDonald House Service Project",
@@ -3175,6 +3114,54 @@
   {
     "title": "Wrestling- Makos Mayhem Invitational",
     "start": "2026-01-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Makos Mayhem Invitational Wrestling Tournament"
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Basketball vs Plainview",
+    "start": "2026-01-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Wrestling- Makos Mayhem Invitational",
+    "start": "2026-01-03T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
