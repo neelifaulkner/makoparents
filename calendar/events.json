@@ -1,41 +1,5 @@
 [
   {
-    "title": "PALMS t-shirt order deadline (MySchoolBucks)",
-    "start": "2025-09-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "PALMS t-shirt order deadline (MySchoolBucks)",
-    "start": "2025-09-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Football vs Bayside",
-    "start": "2025-09-05T19:00:00.000Z",
-    "end": "2025-09-05T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "JV Football @ Satsuma",
     "start": "2025-09-08T17:30:00.000Z",
     "end": "2025-09-08T19:30:00.000Z",
@@ -636,6 +600,18 @@
     "notes": ""
   },
   {
+    "title": "Swim Meet @ Orange Beach",
+    "start": "2025-10-07T17:30:00.000Z",
+    "end": "2025-10-07T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Aquatics Center, 4853 S Wilson Blvd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Volleyball @ Gulf Shores",
     "start": "2025-10-07T17:30:00.000Z",
     "end": "2025-10-07T18:30:00.000Z",
@@ -1066,6 +1042,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Volleyball Area Tournament",
+    "start": "2025-10-15T16:30:00.000Z",
+    "end": "2025-10-15T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "4A Area 1 Volleyball Tournament\n4:30 Satsuma vs St. Michael\n6:30 Orange Beach vs Game 1 Winner"
   },
   {
     "title": "homecoming: country vs. country club",
@@ -3170,6 +3158,30 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Makos Mayhem Invitational Wrestling Tournament"
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
