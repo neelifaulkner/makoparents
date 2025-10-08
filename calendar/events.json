@@ -3197,6 +3197,54 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7779"
   },
   {
+    "title": "Christmas Break",
+    "start": "2026-01-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Christmas Break",
+    "start": "2026-01-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Basketball vs Foley",
+    "start": "2026-01-05T16:00:00.000Z",
+    "end": "2026-01-05T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JVB, VB Basketball vs Flomaton",
+    "start": "2026-01-05T17:30:00.000Z",
+    "end": "2026-01-05T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "VG- 4:00 vs Foley\nJVB- 5:30 vs Flomaton\nVB- 7:00 vs Flomaton"
+  },
+  {
     "title": "Monthly Skins Tournament at Golf Center",
     "start": "2026-02-01T13:00:00.000Z",
     "end": "2026-02-01T15:00:00.000Z",
