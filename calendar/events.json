@@ -1,17 +1,5 @@
 [
   {
-    "title": "JV Football @ Satsuma",
-    "start": "2025-09-08T17:30:00.000Z",
-    "end": "2025-09-08T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Progress Reports",
     "start": "2025-09-09T00:00:00.000Z",
     "end": "",
@@ -3567,6 +3555,18 @@
     "location": "McGill-Toolen High School",
     "link": "",
     "notes": "7B- 5:30\n8B- 6:30"
+  },
+  {
+    "title": "Wrestling @ Bayside Academy (Region Duals)",
+    "start": "2026-01-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "Regiona Duals"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
