@@ -1,41 +1,5 @@
 [
   {
-    "title": "Progress Reports",
-    "start": "2025-09-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Progress Reports",
-    "start": "2025-09-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Volleyball (9th, JV, V) @ Robertsdale",
-    "start": "2025-09-09T16:30:00.000Z",
-    "end": "2025-09-09T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Robertsdale High School, 1 Golden Bear Dr, Robertsdale, AL 36567, USA",
-    "link": "",
-    "notes": "9th- 4:30, JV- 5:30, V- 6:30"
-  },
-  {
     "title": "MS Volleyball vs Elberta",
     "start": "2025-09-10T17:00:00.000Z",
     "end": "2025-09-10T18:00:00.000Z",
@@ -3567,6 +3531,78 @@
     "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
     "link": "",
     "notes": "Regiona Duals"
+  },
+  {
+    "title": "Report Cards",
+    "start": "2026-01-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Report Cards",
+    "start": "2026-01-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Board Appreciation Day",
+    "start": "2026-01-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Board Appreciation Day",
+    "start": "2026-01-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Board Appreciation Day",
+    "start": "2026-01-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MS Basketball @ UMS-Wright",
+    "start": "2026-01-08T17:00:00.000Z",
+    "end": "2026-01-08T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "UMS-Wright Preparatory School, 65 Mobile St N, Mobile, AL 36607, USA",
+    "link": "",
+    "notes": "MSG- 5:00\n8B- 6:00"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
