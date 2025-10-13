@@ -1,29 +1,5 @@
 [
   {
-    "title": "Volleyball vs DAR, Curry, Central-Florence",
-    "start": "2025-09-11T15:30:00.000Z",
-    "end": "2025-09-11T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Tri-Match: DAR, Curry, Central-Florence"
-  },
-  {
-    "title": "MS Volleyball @ St. Pauls",
-    "start": "2025-09-11T17:00:00.000Z",
-    "end": "2025-09-11T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
-    "link": "",
-    "notes": "7th- , 8th-"
-  },
-  {
     "title": "MS Volleyball @ Spanish Fort Tournament",
     "start": "2025-09-12T00:00:00.000Z",
     "end": "",
@@ -3651,6 +3627,30 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "JVB- 4:30\nVG- 6:00\nVB- 7:30"
+  },
+  {
+    "title": "MS Basketball- 7th Tournament",
+    "start": "2026-01-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Wrestling @ Spanish Fort Tournament",
+    "start": "2026-01-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Spanish Fort High School, 1 Plaza De Toros Dr, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "Baldwin Co. Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
