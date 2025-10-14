@@ -1,42 +1,6 @@
 [
   {
     "title": "MS Volleyball @ Spanish Fort Tournament",
-    "start": "2025-09-12T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Spanish Fort High School, 1 Plaza De Toros Dr, Spanish Fort, AL 36527, USA",
-    "link": "",
-    "notes": "8th Grade Tournament"
-  },
-  {
-    "title": "Volleyball vs Mako's Battle for the Board",
-    "start": "2025-09-12T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Volleyball Tournament @ Orange Beach"
-  },
-  {
-    "title": "Football @ WS Neal",
-    "start": "2025-09-12T19:00:00.000Z",
-    "end": "2025-09-12T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "W S Neal High School, 801 Andrew Jackson St, East Brewton, AL 36426, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Volleyball @ Spanish Fort Tournament",
     "start": "2025-09-13T00:00:00.000Z",
     "end": "",
     "allDay": true,
