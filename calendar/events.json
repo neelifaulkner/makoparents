@@ -1,41 +1,5 @@
 [
   {
-    "title": "MS Volleyball @ Spanish Fort (Tri-Match)",
-    "start": "2025-09-15T16:30:00.000Z",
-    "end": "2025-09-15T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Spanish Fort Middle School, Unnamed Road, Spanish Fort, AL 36527, USA",
-    "link": "",
-    "notes": "Tri-Match: Spanish Fort, Central Baldwin"
-  },
-  {
-    "title": "Volleyball (9th) @ Saraland",
-    "start": "2025-09-15T16:30:00.000Z",
-    "end": "2025-09-15T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Saraland High School, 1115 Industrial Pkwy, Saraland, AL 36571, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV Football vs Robertsdale",
-    "start": "2025-09-15T17:30:00.000Z",
-    "end": "2025-09-15T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Volleyball (JV, V) @ Satsuma",
     "start": "2025-09-16T16:30:00.000Z",
     "end": "2025-09-16T17:30:00.000Z",
@@ -3639,6 +3603,18 @@
     "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
     "link": "",
     "notes": "JVB- 4:30\nVG- 6:00\nVB- 7:30"
+  },
+  {
+    "title": "MS Basketball @ Gulf Shores",
+    "start": "2026-01-14T16:30:00.000Z",
+    "end": "2026-01-14T19:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores Middle School, 450 E 15th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "\n7th- 4:30\nMSG- 5:30\n8th- 6:30"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
