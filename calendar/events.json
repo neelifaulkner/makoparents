@@ -1,53 +1,5 @@
 [
   {
-    "title": "Fall Picture Day",
-    "start": "2025-09-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Students may wear their school appropriate fall best. Closed toe shoes are required."
-  },
-  {
-    "title": "Fall Picture Day",
-    "start": "2025-09-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Students may wear their school appropriate fall best. Closed toe shoes are required."
-  },
-  {
-    "title": "MS Volleyball @ Gulf Shores",
-    "start": "2025-09-17T16:30:00.000Z",
-    "end": "2025-09-17T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": "7th- 4:30, 8th- 5:30"
-  },
-  {
-    "title": "Volleyball (JV, V) @ Fairhope",
-    "start": "2025-09-17T17:30:00.000Z",
-    "end": "2025-09-17T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": "Tri-Match: Fairhope, Spanish Fort"
-  },
-  {
     "title": "Football vs Satsuma",
     "start": "2025-09-18T19:00:00.000Z",
     "end": "2025-09-18T21:30:00.000Z",
@@ -4203,6 +4155,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "\n7th- 4:30\nMSG- 5:30\n8th- 6:30"
+  },
+  {
+    "title": "JVB, VG, VB Basketball vs Mobile Christian",
+    "start": "2026-01-16T16:00:00.000Z",
+    "end": "2026-01-16T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB- 4:00\nVG- 5:30\nVB- 7:00"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
