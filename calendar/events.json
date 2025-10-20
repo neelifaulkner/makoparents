@@ -1,17 +1,5 @@
 [
   {
-    "title": "Football vs Satsuma",
-    "start": "2025-09-18T19:00:00.000Z",
-    "end": "2025-09-18T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Alabama Public Television Game of the Week (AHSAA)"
-  },
-  {
     "title": "MS Volleyball @ Gulf Shores Tournament",
     "start": "2025-09-20T00:00:00.000Z",
     "end": "",
@@ -4167,6 +4155,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "JVB- 4:00\nVG- 5:30\nVB- 7:00"
+  },
+  {
+    "title": "MS Basketball- 8th Tournament",
+    "start": "2026-01-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
