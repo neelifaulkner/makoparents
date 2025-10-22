@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Volleyball @ Gulf Shores Tournament",
-    "start": "2025-09-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": "7th & 8th Tournament"
-  },
-  {
     "title": "MS Volleyball @ Satsuma",
     "start": "2025-09-22T16:30:00.000Z",
     "end": "2025-09-22T17:30:00.000Z",
@@ -1464,30 +1452,6 @@
     "notes": ""
   },
   {
-    "title": "First Responders Appreciation Day",
-    "start": "2025-10-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "First Responders Appreciation Day",
-    "start": "2025-10-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Red Ribbon Week: Life is a puzzle, live drug free",
     "start": "2025-10-28T00:00:00.000Z",
     "end": "",
@@ -1520,6 +1484,30 @@
       "school"
     ],
     "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "First Responders Appreciation Day",
+    "start": "2025-10-28T11:30:00.000Z",
+    "end": "2025-10-28T12:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "First Responders Appreciation Day",
+    "start": "2025-10-28T11:30:00.000Z",
+    "end": "2025-10-28T12:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -2415,30 +2403,6 @@
     "notes": ""
   },
   {
-    "title": "Gifted Cardboard Arcade",
-    "start": "2025-11-21T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Gifted Cardboard Arcade",
-    "start": "2025-11-21T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Terrific Kid",
     "start": "2025-11-21T00:00:00.000Z",
     "end": "",
@@ -2797,6 +2761,30 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
+  },
+  {
+    "title": "Gifted Cardboard Arcade",
+    "start": "2025-12-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Gifted Cardboard Arcade",
+    "start": "2025-12-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Wrestling @ Welborn Tournament",
@@ -4165,6 +4153,42 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "No School/MLK, Jr. Holiday",
+    "start": "2026-01-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "No School/MLK, Jr. Holiday",
+    "start": "2026-01-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Basketball vs Bozeman, FL",
+    "start": "2026-01-19T16:00:00.000Z",
+    "end": "2026-01-19T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Legacy Arena, 1898 9th Ave N, Birmingham, AL 35203, USA",
     "link": "",
     "notes": ""
   },
