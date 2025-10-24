@@ -1,29 +1,5 @@
 [
   {
-    "title": "MS Volleyball @ Satsuma",
-    "start": "2025-09-22T16:30:00.000Z",
-    "end": "2025-09-22T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
-    "link": "",
-    "notes": "7th- 4:30, 8th- 5:30"
-  },
-  {
-    "title": "JV Football vs Elberta",
-    "start": "2025-09-22T17:00:00.000Z",
-    "end": "2025-09-22T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Volleyball (V, JV) vs Foley",
     "start": "2025-09-23T16:30:00.000Z",
     "end": "2025-09-23T17:30:00.000Z",
@@ -1294,18 +1270,6 @@
     "location": "",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Arts Afire Fall Fest at Coastal Arts Center",
-    "start": "2025-10-23T17:00:00.000Z",
-    "end": "2025-10-23T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Coastal Arts Center</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7774"
   },
   {
     "title": "National School Bus Safety Week",
@@ -4225,6 +4189,30 @@
       "school"
     ],
     "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Class Pictures (school uniform required)",
+    "start": "2026-01-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Class Pictures (school uniform required)",
+    "start": "2026-01-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
