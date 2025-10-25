@@ -1,17 +1,5 @@
 [
   {
-    "title": "Volleyball (V, JV) vs Foley",
-    "start": "2025-09-23T16:30:00.000Z",
-    "end": "2025-09-23T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Senior Night"
-  },
-  {
     "title": "MS Volleyball @ Fairhope (Tri-Match)",
     "start": "2025-09-24T16:30:00.000Z",
     "end": "2025-09-24T17:30:00.000Z",
@@ -2643,6 +2631,19 @@
     "notes": ""
   },
   {
+    "title": "Annual Christmas Tree Lighting",
+    "start": "2025-12-02T17:30:00.000Z",
+    "end": "2025-12-02T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>The Wharf</p> - Main Street   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8155"
+  },
+  {
     "title": "VG Basketball @ McGill-Toolen",
     "start": "2025-12-02T18:00:00.000Z",
     "end": "2025-12-02T19:00:00.000Z",
@@ -2727,6 +2728,18 @@
     "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
   },
   {
+    "title": "Visions of Christmas",
+    "start": "2025-12-04T19:00:00.000Z",
+    "end": "2025-12-04T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8156"
+  },
+  {
     "title": "Gifted Cardboard Arcade",
     "start": "2025-12-05T00:00:00.000Z",
     "end": "",
@@ -2749,6 +2762,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Visions of Christmas",
+    "start": "2025-12-05T19:00:00.000Z",
+    "end": "2025-12-05T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8157"
   },
   {
     "title": "Wrestling @ Welborn Tournament",
@@ -2763,6 +2788,18 @@
     "notes": "Lamar Wade Memorial Tournament"
   },
   {
+    "title": "Visions of Christmas",
+    "start": "2025-12-06T19:00:00.000Z",
+    "end": "2025-12-06T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8158"
+  },
+  {
     "title": "Monthly Skins Tournament at Golf Center",
     "start": "2025-12-07T13:00:00.000Z",
     "end": "2025-12-07T15:00:00.000Z",
@@ -2774,6 +2811,18 @@
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7778"
+  },
+  {
+    "title": "Visions of Christmas",
+    "start": "2025-12-07T14:00:00.000Z",
+    "end": "2025-12-07T16:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8159"
   },
   {
     "title": "MS Basketball vs St. Paul's",
@@ -4215,6 +4264,42 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "100th day of school",
+    "start": "2026-01-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "100th day of school",
+    "start": "2026-01-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Bowling Regional Tournament",
+    "start": "2026-01-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Hoover, AL, USA",
+    "link": "",
+    "notes": "AHSAA Regional Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
