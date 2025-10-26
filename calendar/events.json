@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Volleyball @ Fairhope (Tri-Match)",
-    "start": "2025-09-24T16:30:00.000Z",
-    "end": "2025-09-24T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Fairhope Middle School",
-    "link": "",
-    "notes": "Tri-Match: Fairhope, Bay Minette"
-  },
-  {
     "title": "Volleyball (JV) vs Bayshore",
     "start": "2025-09-25T17:00:00.000Z",
     "end": "2025-09-25T18:00:00.000Z",
@@ -4300,6 +4288,54 @@
     "location": "Hoover, AL, USA",
     "link": "",
     "notes": "AHSAA Regional Tournament"
+  },
+  {
+    "title": "Bowling Regional Tournament",
+    "start": "2026-01-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Hoover, AL, USA",
+    "link": "",
+    "notes": "AHSAA Regional Tournament"
+  },
+  {
+    "title": "Yearbook order deadline ($35 on MSB, cash or check)",
+    "start": "2026-01-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "* Each yearbook costs $35. Parents can pay on My School Bucks or by sending in cash/check.\n* The final deadline to purchase is 1/23/26\n"
+  },
+  {
+    "title": "Yearbook order deadline ($35 on MSB, cash or check)",
+    "start": "2026-01-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "* Each yearbook costs $35. Parents can pay on My School Bucks or by sending in cash/check.\n* The final deadline to purchase is 1/23/26\n"
+  },
+  {
+    "title": "JVB, VG, VB Basketball vs Satsuma",
+    "start": "2026-01-23T16:30:00.000Z",
+    "end": "2026-01-23T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "JVB- 4:30\nVG- 6:00\nVB- 7:30"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
