@@ -1,17 +1,5 @@
 [
   {
-    "title": "Volleyball (JV) vs Bayshore",
-    "start": "2025-09-25T17:00:00.000Z",
-    "end": "2025-09-25T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Terrific Kid",
     "start": "2025-09-26T00:00:00.000Z",
     "end": "",
@@ -4336,6 +4324,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "JVB- 4:30\nVG- 6:00\nVB- 7:30"
+  },
+  {
+    "title": "Wrestling @ Piedmont Tournament",
+    "start": "2026-01-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Piedmont High School",
+    "link": "",
+    "notes": "Piedmont Dogfight Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
