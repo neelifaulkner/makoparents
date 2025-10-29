@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Volleyball @ Daphne Jubilee Jam Tournament",
-    "start": "2025-09-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Daphne High School",
-    "link": "",
-    "notes": "7th & 8th Tournament"
-  },
-  {
     "title": "JV Football @ St. Michael",
     "start": "2025-09-29T17:30:00.000Z",
     "end": "2025-09-29T19:30:00.000Z",
@@ -1474,6 +1462,19 @@
     "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Chili Cook-Off at Senior Center",
+    "start": "2025-10-29T16:00:00.000Z",
+    "end": "2025-10-29T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Senior Center</p> - 26251 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8160"
   },
   {
     "title": "Pre-K Closed",
@@ -4300,6 +4301,18 @@
     "location": "Piedmont High School",
     "link": "",
     "notes": "Piedmont Dogfight Tournament"
+  },
+  {
+    "title": "JVB, VG, VB Basketball vs Gulf Shores",
+    "start": "2026-01-26T16:30:00.000Z",
+    "end": "2026-01-26T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
