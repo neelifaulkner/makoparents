@@ -1464,19 +1464,6 @@
     "notes": ""
   },
   {
-    "title": "Chili Cook-Off at Senior Center",
-    "start": "2025-10-29T16:00:00.000Z",
-    "end": "2025-10-29T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Senior Center</p> - 26251 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8160"
-  },
-  {
     "title": "Pre-K Closed",
     "start": "2025-10-30T00:00:00.000Z",
     "end": "",
@@ -2032,6 +2019,30 @@
     "notes": ""
   },
   {
+    "title": "Crane Book Fair",
+    "start": "2025-11-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
     "start": "2025-11-17T00:00:00.000Z",
     "end": "",
@@ -2064,6 +2075,30 @@
       "school"
     ],
     "location": "Escambia County High School, 1215 S Presley St, Atmore, AL 36502, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -2152,6 +2187,30 @@
     "notes": ""
   },
   {
+    "title": "Crane Book Fair",
+    "start": "2025-11-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
     "start": "2025-11-19T00:00:00.000Z",
     "end": "",
@@ -2198,6 +2257,30 @@
     "location": "",
     "link": "",
     "notes": "\n11/19 Pre-K 10:20-11:00 2nd Grade 11:10-11:50 4th grade 12:00-12:40 6th Grade 12:50-1:30 \n11/20 Kindergarten 10:20-11:00 1st Grade 11:10-11:50 3rd Grade 12:00-12:40 5th Grade 12:50-1:30"
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
@@ -2292,6 +2375,30 @@
       "school"
     ],
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Crane Book Fair",
+    "start": "2025-11-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -4311,6 +4418,18 @@
       "school"
     ],
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG, VB Basketball @ Mobile Christian",
+    "start": "2026-01-27T17:30:00.000Z",
+    "end": "2026-01-27T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Mobile Christian School, 5900 Cottage Hill Rd, Mobile, AL 36609, USA",
     "link": "",
     "notes": ""
   },
