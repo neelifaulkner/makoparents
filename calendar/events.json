@@ -1,17 +1,5 @@
 [
   {
-    "title": "JV Football @ St. Michael",
-    "start": "2025-09-29T17:30:00.000Z",
-    "end": "2025-09-29T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Volleyball (JV, V) vs St. Michael",
     "start": "2025-09-30T16:30:00.000Z",
     "end": "2025-09-30T17:30:00.000Z",
@@ -1522,19 +1510,6 @@
     "location": "Birmingham CrossPlex, 2340 Crossplex Blvd, Birmingham, AL 35208, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "3rd Annual Spooky Scramble Glow Golf Tournament",
-    "start": "2025-10-30T18:30:00.000Z",
-    "end": "2025-10-30T20:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7775"
   },
   {
     "title": "5th Grade Wax Museum",
