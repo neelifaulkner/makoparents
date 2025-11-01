@@ -1,17 +1,5 @@
 [
   {
-    "title": "Volleyball (JV, V) vs St. Michael",
-    "start": "2025-09-30T16:30:00.000Z",
-    "end": "2025-09-30T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "PureGame Winter Sports",
     "start": "2025-10-01T14:30:00.000Z",
     "end": "2025-10-01T16:30:00.000Z",
@@ -4407,6 +4395,18 @@
     "location": "Mobile Christian School, 5900 Cottage Hill Rd, Mobile, AL 36609, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Bowling State Tournament",
+    "start": "2026-01-29T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Bowlero Mobile, 125 Schillinger Rd N, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "AHSAA State Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
