@@ -1,17 +1,5 @@
 [
   {
-    "title": "PureGame Winter Sports",
-    "start": "2025-10-01T14:30:00.000Z",
-    "end": "2025-10-01T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "School Custodian Day",
     "start": "2025-10-02T00:00:00.000Z",
     "end": "",
@@ -4407,6 +4395,54 @@
     "location": "Bowlero Mobile, 125 Schillinger Rd N, Mobile, AL 36608, USA",
     "link": "",
     "notes": "AHSAA State Tournament"
+  },
+  {
+    "title": "Bowling State Tournament",
+    "start": "2026-01-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Bowlero Mobile, 125 Schillinger Rd N, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "AHSAA State Tournament"
+  },
+  {
+    "title": "JVB, VG, VB @ St. Michael",
+    "start": "2026-01-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2026-01-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2026-01-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
