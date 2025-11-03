@@ -1,77 +1,5 @@
 [
   {
-    "title": "School Custodian Day",
-    "start": "2025-10-02T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Custodian Day",
-    "start": "2025-10-02T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Custodian Day",
-    "start": "2025-10-02T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Cross-Country Orange Beach Invitational",
-    "start": "2025-10-02T16:30:00.000Z",
-    "end": "2025-10-02T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Orange Beach Invitational\n4:30- Girls\n5:00- Boys"
-  },
-  {
-    "title": "Swimming @ Fairhope",
-    "start": "2025-10-02T16:30:00.000Z",
-    "end": "2025-10-02T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Football @ Bayside",
-    "start": "2025-10-02T18:00:00.000Z",
-    "end": "2025-10-02T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "JV Volleyball @ Daphne Tournament",
     "start": "2025-10-03T00:00:00.000Z",
     "end": "",
@@ -1534,19 +1462,6 @@
     "location": "",
     "link": "",
     "notes": "Life is a puzzle, live drug free"
-  },
-  {
-    "title": "Monthly Skins Tournament at Golf Center",
-    "start": "2025-11-02T13:00:00.000Z",
-    "end": "2025-11-02T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7777"
   },
   {
     "title": "MS Basketball @ St. Michael",
