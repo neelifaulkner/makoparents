@@ -1,54 +1,6 @@
 [
   {
     "title": "JV Volleyball @ Daphne Tournament",
-    "start": "2025-10-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Daphne High School Baseball, 300 Lawson Rd, Daphne, AL 36526, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Kona Ice",
-    "start": "2025-10-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Kona Ice",
-    "start": "2025-10-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Football @ Escambia County",
-    "start": "2025-10-03T19:00:00.000Z",
-    "end": "2025-10-03T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Escambia County High School, 1215 S Presley St, Atmore, AL 36502, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV Volleyball @ Daphne Tournament",
     "start": "2025-10-04T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1464,6 +1416,30 @@
     "notes": "Life is a puzzle, live drug free"
   },
   {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-03T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Basketball @ St. Michael",
     "start": "2025-11-03T16:30:00.000Z",
     "end": "2025-11-03T19:30:00.000Z",
@@ -1476,6 +1452,30 @@
     "notes": "7th- 4:30\nMSG- 5:30\n8th- 6:30"
   },
   {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Bowling vs Gulf Shores",
     "start": "2025-11-04T15:30:00.000Z",
     "end": "2025-11-04T16:30:00.000Z",
@@ -1484,6 +1484,30 @@
       "school"
     ],
     "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -1504,6 +1528,30 @@
     "start": "2025-11-05T14:45:00.000Z",
     "end": "2025-11-05T15:25:00.000Z",
     "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
     "categories": [
       "school"
     ],
@@ -1548,6 +1596,30 @@
     "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
   },
   {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "STEAM Day",
     "start": "2025-11-07T00:00:00.000Z",
     "end": "",
@@ -1562,6 +1634,54 @@
   {
     "title": "STEAM Day",
     "start": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-09T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
@@ -1583,6 +1703,30 @@
     "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7560"
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Bowling @ Bayshore Academy",
@@ -1607,6 +1751,30 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "JVB- 4:30\nVG- 6:00\nVB-7:30"
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-11T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Veterans Day Holiday",
@@ -1693,6 +1861,30 @@
     "notes": ""
   },
   {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Basketball @ Faith Academy",
     "start": "2025-11-12T16:30:00.000Z",
     "end": "2025-11-12T19:30:00.000Z",
@@ -1718,6 +1910,30 @@
   },
   {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
+    "start": "2025-11-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
     "start": "2025-11-13T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1790,6 +2006,30 @@
   },
   {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
+    "start": "2025-11-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
+    "start": "2025-11-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Peer helper poinsettia fundraiser",
     "start": "2025-11-14T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -2138,30 +2378,6 @@
   },
   {
     "title": "Crane Book Fair",
-    "start": "2025-11-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
     "start": "2025-11-20T00:00:00.000Z",
     "end": "",
     "allDay": true,
