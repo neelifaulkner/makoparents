@@ -1,54 +1,6 @@
 [
   {
     "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-07T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-07T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Swim Meet @ Orange Beach",
-    "start": "2025-10-07T17:30:00.000Z",
-    "end": "2025-10-07T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Aquatics Center, 4853 S Wilson Blvd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Volleyball @ Gulf Shores",
-    "start": "2025-10-07T17:30:00.000Z",
-    "end": "2025-10-07T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": "Tri-Match: Gulf Shores, Madison Co."
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
     "start": "2025-10-08T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -4995,6 +4947,78 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "National Counselor Week",
+    "start": "2026-02-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "National Counselor Week",
+    "start": "2026-02-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "National Counselor Week",
+    "start": "2026-02-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Progress Reports",
+    "start": "2026-02-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Progress Reports",
+    "start": "2026-02-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Wrestling Sectional Tournament",
+    "start": "2026-02-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Montgomery, AL, USA",
+    "link": "",
+    "notes": "AHSAA Sectional Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
