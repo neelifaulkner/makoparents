@@ -1,77 +1,5 @@
 [
   {
-    "title": "End of 1st Quarter",
-    "start": "2025-10-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "End of 1st Quarter",
-    "start": "2025-10-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Volleyball vs Baldwin Co, Buckhorn",
-    "start": "2025-10-09T16:30:00.000Z",
-    "end": "2025-10-09T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Tri-Match: Baldwin Co, Buckhorn"
-  },
-  {
-    "title": "Football @ Jackson",
-    "start": "2025-10-09T19:00:00.000Z",
-    "end": "2025-10-09T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Jackson High School, 321 Stanley Dr, Jackson, AL 36545, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Fall Break",
     "start": "2025-10-10T00:00:00.000Z",
     "end": "",
@@ -1570,19 +1498,6 @@
     "location": "",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Fido Fest",
-    "start": "2025-11-09T14:00:00.000Z",
-    "end": "2025-11-09T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7560"
   },
   {
     "title": "Expect Excellence closed (communicate transportation changes with teacher)",
@@ -5019,6 +4934,18 @@
     "location": "Montgomery, AL, USA",
     "link": "",
     "notes": "AHSAA Sectional Tournament"
+  },
+  {
+    "title": "VG Basketball Area Tournament",
+    "start": "2026-02-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
