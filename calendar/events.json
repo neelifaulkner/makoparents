@@ -1,54 +1,6 @@
 [
   {
     "title": "Fall Break",
-    "start": "2025-10-11T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Fall Break",
-    "start": "2025-10-11T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-11T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-11T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Fall Break",
     "start": "2025-10-12T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1642,18 +1594,6 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "​Frank Brown Songwriters’ Fest to honor veterans on Nov. 11 at Coastal Arts Center",
-    "start": "2025-11-11T18:00:00.000Z",
-    "end": "2025-11-11T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7838"
   },
   {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
@@ -4890,6 +4830,18 @@
   {
     "title": "VG Basketball Area Tournament",
     "start": "2026-02-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Basketball Area Tournament",
+    "start": "2026-02-09T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
