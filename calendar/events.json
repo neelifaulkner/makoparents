@@ -1,54 +1,6 @@
 [
   {
     "title": "Fall Break",
-    "start": "2025-10-12T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Fall Break",
-    "start": "2025-10-12T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-12T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-12T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Fall Break",
     "start": "2025-10-13T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -4842,6 +4794,18 @@
   {
     "title": "VB Basketball Area Tournament",
     "start": "2026-02-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Basketball Area Tournament",
+    "start": "2026-02-10T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
