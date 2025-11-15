@@ -1,89 +1,5 @@
 [
   {
-    "title": "homecoming: jersey day",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "homecoming: jersey day",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Red Ribbon Fire Station Supply Drive",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Red Ribbon Fire Station Supply Drive",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Volleyball Area Tournament",
-    "start": "2025-10-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "TBD",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "homecoming: Mako Spirit",
     "start": "2025-10-15T00:00:00.000Z",
     "end": "",
@@ -4778,6 +4694,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Wrestling State Tournament",
+    "start": "2026-02-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Huntsville, AL, USA",
+    "link": "",
+    "notes": "AHSAA State Tournament"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
