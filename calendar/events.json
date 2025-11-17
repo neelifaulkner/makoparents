@@ -1,113 +1,5 @@
 [
   {
-    "title": "homecoming: country vs. country club",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "homecoming: country vs. country club",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS Ronald McDonald House Service Project",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Red Ribbon Fire Station Supply Drive",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Red Ribbon Fire Station Supply Drive",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Report Cards",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Report Cards",
-    "start": "2025-10-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Football @ Elberta",
-    "start": "2025-10-16T18:00:00.000Z",
-    "end": "2025-10-16T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Elberta High School",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "homecoming: disco day",
     "start": "2025-10-17T00:00:00.000Z",
     "end": "",
@@ -4686,6 +4578,30 @@
   {
     "title": "Wrestling State Tournament",
     "start": "2026-02-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Huntsville, AL, USA",
+    "link": "",
+    "notes": "AHSAA State Tournament"
+  },
+  {
+    "title": "VB Basketball Sub-Regional Game",
+    "start": "2026-02-14T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Wrestling State Tournament",
+    "start": "2026-02-14T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
