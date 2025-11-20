@@ -1,29 +1,5 @@
 [
   {
-    "title": "Red Ribbon Fire Station Supply Drive",
-    "start": "2025-10-19T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Red Ribbon Fire Station Supply Drive",
-    "start": "2025-10-19T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "National School Bus Safety Week",
     "start": "2025-10-20T00:00:00.000Z",
     "end": "",
@@ -4544,6 +4520,30 @@
   {
     "title": "Mardi Gras Break",
     "start": "2026-02-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Mardi Gras Break",
+    "start": "2026-02-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Mardi Gras Break",
+    "start": "2026-02-17T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
