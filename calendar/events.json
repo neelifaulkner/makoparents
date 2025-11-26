@@ -1608,19 +1608,6 @@
     "notes": "Pelham Basketball Tournament"
   },
   {
-    "title": "Thanksgiving Bingo by the Bay",
-    "start": "2025-11-25T17:30:00.000Z",
-    "end": "2025-11-25T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Behind the Coastal Arts Center of Orange Beach, outside in covered area</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8222"
-  },
-  {
     "title": "Thanksgiving Break",
     "start": "2025-11-26T00:00:00.000Z",
     "end": "",
