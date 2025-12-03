@@ -1404,19 +1404,6 @@
     "notes": ""
   },
   {
-    "title": "Annual Christmas Tree Lighting",
-    "start": "2025-12-02T17:30:00.000Z",
-    "end": "2025-12-02T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>The Wharf</p> - Main Street   Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8155"
-  },
-  {
     "title": "VG Basketball @ McGill-Toolen",
     "start": "2025-12-02T18:00:00.000Z",
     "end": "2025-12-02T19:00:00.000Z",
@@ -1995,30 +1982,6 @@
     "notes": "4:30- VG vs Escambia Co\n6:00- JVB vs Bayshore\n7:30- VB vs Bayshore"
   },
   {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-13T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-13T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Wrestling @ Satsuma Tournament",
     "start": "2025-12-13T00:00:00.000Z",
     "end": "",
@@ -2031,54 +1994,6 @@
     "notes": "Gator Duals tournament"
   },
   {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-15T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-15T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "JVB, VB Basketball @ Gulf Shores",
     "start": "2025-12-15T17:30:00.000Z",
     "end": "2025-12-15T20:30:00.000Z",
@@ -2087,30 +2002,6 @@
       "school"
     ],
     "location": "Gulf Shores High School, 600 E 15th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Practice Test",
-    "start": "2025-12-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
     "link": "",
     "notes": ""
   },
@@ -4085,6 +3976,30 @@
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=7781"
+  },
+  {
+    "title": "Read Across America/Dr. Seuss Day",
+    "start": "2026-03-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Read Across America/Dr. Seuss Day",
+    "start": "2026-03-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
