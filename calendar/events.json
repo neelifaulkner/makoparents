@@ -1,42 +1,6 @@
 [
   {
     "title": "Peer helper poinsettia fundraiser",
-    "start": "2025-11-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Peer helper poinsettia fundraiser",
-    "start": "2025-11-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Basketball @ St. Michael",
-    "start": "2025-11-03T16:30:00.000Z",
-    "end": "2025-11-03T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": "7th- 4:30\nMSG- 5:30\n8th- 6:30"
-  },
-  {
-    "title": "Peer helper poinsettia fundraiser",
     "start": "2025-11-04T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1486,18 +1450,6 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
-  },
-  {
-    "title": "Visions of Christmas",
-    "start": "2025-12-04T19:00:00.000Z",
-    "end": "2025-12-04T21:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8156"
   },
   {
     "title": "Gifted Cardboard Arcade",
@@ -4012,6 +3964,30 @@
     "location": "Birmingham, AL, USA",
     "link": "",
     "notes": "Final Four\nVG- 3:00\nVB- 4:30"
+  },
+  {
+    "title": "NEHS meeting",
+    "start": "2026-03-04T14:45:00.000Z",
+    "end": "2026-03-04T15:25:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "NEHS meeting",
+    "start": "2026-03-04T14:45:00.000Z",
+    "end": "2026-03-04T15:25:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
