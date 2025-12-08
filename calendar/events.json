@@ -1,65 +1,5 @@
 [
   {
-    "title": "Peer helper poinsettia fundraiser",
-    "start": "2025-11-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Peer helper poinsettia fundraiser",
-    "start": "2025-11-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Basketball @ Saraland",
-    "start": "2025-11-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Saraland High School, 1115 Industrial Pkwy, Saraland, AL 36571, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Bowling vs St. Michael",
-    "start": "2025-11-06T15:30:00.000Z",
-    "end": "2025-11-06T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
-    "link": "",
-    "notes": "Home Match"
-  },
-  {
-    "title": "MS Basketball @ St. Paul's",
-    "start": "2025-11-06T16:00:00.000Z",
-    "end": "2025-11-06T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
-    "link": "",
-    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
-  },
-  {
     "title": "Expect Excellence closed (communicate transportation changes with teacher)",
     "start": "2025-11-07T00:00:00.000Z",
     "end": "",
@@ -1402,31 +1342,6 @@
     "location": "Walter Wellborn High School, 135 Pinson Rd, Anniston, AL 36201, USA",
     "link": "",
     "notes": "Lamar Wade Memorial Tournament"
-  },
-  {
-    "title": "Monthly Skins Tournament at Golf Center",
-    "start": "2025-12-07T13:00:00.000Z",
-    "end": "2025-12-07T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7778"
-  },
-  {
-    "title": "Visions of Christmas",
-    "start": "2025-12-07T14:00:00.000Z",
-    "end": "2025-12-07T16:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8159"
   },
   {
     "title": "ACAP Practice Test",
