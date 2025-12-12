@@ -1,101 +1,5 @@
 [
   {
-    "title": "Expect Excellence closed (communicate transportation changes with teacher)",
-    "start": "2025-11-10T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Expect Excellence closed (communicate transportation changes with teacher)",
-    "start": "2025-11-10T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Peer helper poinsettia fundraiser",
-    "start": "2025-11-10T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Peer helper poinsettia fundraiser",
-    "start": "2025-11-10T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Veterans Day Program",
-    "start": "2025-11-10T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Veterans Day Program",
-    "start": "2025-11-10T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Bowling @ Bayshore Academy",
-    "start": "2025-11-10T15:30:00.000Z",
-    "end": "2025-11-10T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Eastern Shore Lanes, 10460 Eastern Shore Blvd, Spanish Fort, AL 36527, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JVB, VG, VB Basketball vs St. Paul's",
-    "start": "2025-11-10T16:30:00.000Z",
-    "end": "2025-11-10T21:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "JVB- 4:30\nVG- 6:00\nVB-7:30"
-  },
-  {
     "title": "Parents' Day RSVP deadline ($6 per meal, 2 guests per student)",
     "start": "2025-11-11T00:00:00.000Z",
     "end": "",
@@ -1486,18 +1390,6 @@
     "location": "",
     "link": "",
     "notes": "Students should be seated in their chairs by 5:30 PM. Thank you!"
-  },
-  {
-    "title": "Annual Light Up the Arts",
-    "start": "2025-12-11T17:30:00.000Z",
-    "end": "2025-12-11T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7836"
   },
   {
     "title": "JVB, VB Basketball @ Elberta",
