@@ -1,30 +1,6 @@
 [
   {
     "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-15T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-15T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
     "start": "2025-11-16T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1210,19 +1186,6 @@
     "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
     "link": "",
     "notes": "vs Foley, Elberta"
-  },
-  {
-    "title": "Christmas Carols at the Museum",
-    "start": "2025-12-16T17:30:00.000Z",
-    "end": "2025-12-16T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach History Museum</p> - 25805 John Snook Drive  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8228"
   },
   {
     "title": "VG Basketball vs Saraland",
