@@ -1,66 +1,6 @@
 [
   {
     "title": "Crane Book Fair",
-    "start": "2025-11-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Crane Book Fair",
-    "start": "2025-11-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Basketball @ Escambia County",
-    "start": "2025-11-17T18:00:00.000Z",
-    "end": "2025-11-17T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Escambia County High School, 1215 S Presley St, Atmore, AL 36502, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Crane Book Fair",
     "start": "2025-11-18T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -3221,6 +3161,30 @@
   {
     "title": "End of 3rd Quarter",
     "start": "2026-03-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Spring Picture Day",
+    "start": "2026-03-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Spring Picture Day",
+    "start": "2026-03-18T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
