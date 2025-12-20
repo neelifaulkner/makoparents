@@ -1,114 +1,6 @@
 [
   {
     "title": "Crane Book Fair",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Crane Book Fair",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Holiday Picture day/Make-up yearbook",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Holiday Picture day/Make-up yearbook",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Iron Bowl Canned Food Drive (proceeds to Turkey Takeout)",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Bowling vs Houston Academy, Slocomb",
-    "start": "2025-11-18T14:00:00.000Z",
-    "end": "2025-11-18T16:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Basketball vs UMS-Wright",
-    "start": "2025-11-18T16:00:00.000Z",
-    "end": "2025-11-18T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
-  },
-  {
-    "title": "JVB, VB Basketball vs Elberta",
-    "start": "2025-11-18T17:00:00.000Z",
-    "end": "2025-11-18T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Crane Book Fair",
     "start": "2025-11-19T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -3185,6 +3077,30 @@
   {
     "title": "Spring Picture Day",
     "start": "2026-03-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Report Cards",
+    "start": "2026-03-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Report Cards",
+    "start": "2026-03-19T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
