@@ -4215,6 +4215,66 @@
     "notes": ""
   },
   {
+    "title": "VG, VB Tennis @ Vigor",
+    "start": "2026-03-31T15:30:00.000Z",
+    "end": "2026-03-31T16:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Mobile Tennis Center, 851 Gaillard Dr, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JV, V Softball vs Northview, FL",
+    "start": "2026-03-31T16:00:00.000Z",
+    "end": "2026-03-31T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "JV Baseball vs St. Michael",
+    "start": "2026-03-31T17:00:00.000Z",
+    "end": "2026-03-31T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Baseball @ St. Michael",
+    "start": "2026-03-31T17:00:00.000Z",
+    "end": "2026-03-31T18:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Michael Catholic High School, 11732 St Michael Way, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG, VB Soccer vs Satsuma",
+    "start": "2026-03-31T17:30:00.000Z",
+    "end": "2026-03-31T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Monthly Skins Tournament at Golf Center",
     "start": "2026-04-05T13:00:00.000Z",
     "end": "2026-04-05T15:00:00.000Z",
