@@ -1,29 +1,5 @@
 [
   {
-    "title": "Gifted Cardboard Arcade",
-    "start": "2025-12-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Gifted Cardboard Arcade",
-    "start": "2025-12-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Wrestling @ Welborn Tournament",
     "start": "2025-12-06T00:00:00.000Z",
     "end": "",
@@ -2125,6 +2101,18 @@
     "notes": ""
   },
   {
+    "title": "VB Golf @ Fairhope",
+    "start": "2026-02-09T08:00:00.000Z",
+    "end": "2026-02-09T09:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Rock Creek Golf Club, 140 Clubhouse Dr, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "VG Basketball Area Tournament",
     "start": "2026-02-10T00:00:00.000Z",
     "end": "",
@@ -2509,6 +2497,18 @@
     "notes": "Sweet 16 Game"
   },
   {
+    "title": "VB Golf @ Elberta",
+    "start": "2026-02-19T13:00:00.000Z",
+    "end": "2026-02-19T14:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Soldiers Creek Golf Course, 28341 Preserve Trl, Elberta, AL 36530, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "JVG, VG Tennis vs Cottage Hill",
     "start": "2026-02-19T15:30:00.000Z",
     "end": "2026-02-19T16:30:00.000Z",
@@ -2581,6 +2581,30 @@
     "notes": ""
   },
   {
+    "title": "VB Golf @ Mako Invitational Tournament",
+    "start": "2026-02-23T08:00:00.000Z",
+    "end": "2026-02-23T09:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Glenlakes Golf Club, 9530 Clubhouse Dr, Foley, AL 36535, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf vs Oak Mountain",
+    "start": "2026-02-23T14:30:00.000Z",
+    "end": "2026-02-23T15:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Golf Center, 4700 Easy St, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Baseball vs St. Michael",
     "start": "2026-02-23T17:00:00.000Z",
     "end": "2026-02-23T20:30:00.000Z",
@@ -2603,6 +2627,18 @@
     "location": "Montgomery, AL, USA",
     "link": "",
     "notes": "Elite 8 Game"
+  },
+  {
+    "title": "VB Golf @ Gulf Shores",
+    "start": "2026-02-24T08:00:00.000Z",
+    "end": "2026-02-24T09:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores Golf Club, 520 Clubhouse Dr, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "VG, VB Tennis @ St. Michael",
@@ -2918,6 +2954,18 @@
     "notes": ""
   },
   {
+    "title": "VB Golf @ Gulf Shores",
+    "start": "2026-03-02T14:30:00.000Z",
+    "end": "2026-03-02T15:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Peninsula Golf & Racquet Club, 20 Peninsula Blvd, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "V Baseball @ Gulf Breeze",
     "start": "2026-03-02T18:30:00.000Z",
     "end": "2026-03-02T19:30:00.000Z",
@@ -3182,6 +3230,18 @@
     "notes": ""
   },
   {
+    "title": "VB Golf @ Chelsea",
+    "start": "2026-03-09T14:00:00.000Z",
+    "end": "2026-03-09T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Meadows Golf Course at Harpersville, 1 Water Oak Wy, Harpersville, AL 35078, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Baseball vs St. Michael",
     "start": "2026-03-09T17:00:00.000Z",
     "end": "2026-03-09T18:00:00.000Z",
@@ -3202,6 +3262,18 @@
       "school"
     ],
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ Fayetteville",
+    "start": "2026-03-10T14:00:00.000Z",
+    "end": "2026-03-10T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Pursell Farms, 386 Talladega Springs Rd, Sylacauga, AL 35151, USA",
     "link": "",
     "notes": ""
   },
@@ -3478,6 +3550,18 @@
       "school"
     ],
     "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ Andalusia",
+    "start": "2026-03-16T07:00:00.000Z",
+    "end": "2026-03-16T08:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "RTJ Golf Trail at Cambrian Ridge, 101 Sunbelt Pkwy, Greenville, AL 36037, USA",
     "link": "",
     "notes": ""
   },
@@ -3902,6 +3986,18 @@
     "notes": ""
   },
   {
+    "title": "VB Golf @ Mobile (Azalea City Invitational)",
+    "start": "2026-03-23T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "9th Baseball vs Robertsdale",
     "start": "2026-03-23T16:30:00.000Z",
     "end": "2026-03-23T17:30:00.000Z",
@@ -3922,6 +4018,18 @@
       "school"
     ],
     "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ Mobile (Azalea City Invitational)",
+    "start": "2026-03-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -4118,6 +4226,18 @@
     "notes": ""
   },
   {
+    "title": "VB Golf @ Fairhope",
+    "start": "2026-03-30T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Rock Creek Golf Club, 140 Clubhouse Dr, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "MS Baseball @ Gulf Shores",
     "start": "2026-03-30T17:30:00.000Z",
     "end": "2026-03-30T18:30:00.000Z",
@@ -4126,6 +4246,18 @@
       "school"
     ],
     "location": "Gulf Shores Sports Complex, 19025 Oak Rd W, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ Fairhope",
+    "start": "2026-03-31T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Rock Creek Golf Club, 140 Clubhouse Dr, Fairhope, AL 36532, USA",
     "link": "",
     "notes": ""
   },
@@ -4414,6 +4546,30 @@
       "school"
     ],
     "location": "Gulf Shores Sports Complex, 19025 Oak Rd W, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "ACAP Testing Dates",
+    "start": "2026-04-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "ACAP Testing Dates",
+    "start": "2026-04-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
