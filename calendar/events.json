@@ -4741,5 +4741,41 @@
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Spring Break",
+    "start": "2026-04-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Spring Break",
+    "start": "2026-04-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Softball @ Hoover Tournament",
+    "start": "2026-04-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Hoover Metropolitan Complex, 5508 Stadium Trace Pkwy, Hoover, AL 35244, USA",
+    "link": "",
+    "notes": ""
   }
 ]
