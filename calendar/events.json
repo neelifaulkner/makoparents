@@ -1,17 +1,5 @@
 [
   {
-    "title": "VG, VB Basketball Tournament",
-    "start": "2025-12-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Battle for the Board Tournament"
-  },
-  {
     "title": "Christmas Break",
     "start": "2025-12-22T00:00:00.000Z",
     "end": "",
@@ -4691,6 +4679,18 @@
       "school"
     ],
     "location": "Hoover Metropolitan Complex, 5508 Stadium Trace Pkwy, Hoover, AL 35244, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG, VB Tennis- State Tournament",
+    "start": "2026-04-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Mobile Tennis Center, 851 Gaillard Dr, Mobile, AL 36608, USA",
     "link": "",
     "notes": ""
   }
