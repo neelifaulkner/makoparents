@@ -1,30 +1,6 @@
 [
   {
     "title": "Christmas Break",
-    "start": "2025-12-25T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
-    "start": "2025-12-25T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
     "start": "2025-12-26T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -4765,6 +4741,18 @@
       "school"
     ],
     "location": "Mobile Tennis Center, 851 Gaillard Dr, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Baseball- Round 1 State",
+    "start": "2026-04-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   }
