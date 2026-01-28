@@ -1,54 +1,6 @@
 [
   {
     "title": "Christmas Break",
-    "start": "2025-12-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
-    "start": "2025-12-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VB Basketball Tournament @ Birmingham",
-    "start": "2025-12-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Metro Basketball Tournament"
-  },
-  {
-    "title": "VG Basketball Tournament @ Gulf Shores",
-    "start": "2025-12-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores High School, 600 E 15th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": "Gulf Shores Tournament"
-  },
-  {
-    "title": "Christmas Break",
     "start": "2025-12-28T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1321,7 +1273,7 @@
     "notes": "MSG- 4:30\nMSB- 6:00"
   },
   {
-    "title": "Safety online parent presentation/Kristi Bush",
+    "title": "Digital Safety Parent Conference with Kristi Bush",
     "start": "2026-02-05T17:30:00.000Z",
     "end": "2026-02-05T18:30:00.000Z",
     "allDay": false,
@@ -1333,7 +1285,7 @@
     "notes": ""
   },
   {
-    "title": "Safety online parent presentation/Kristi Bush",
+    "title": "Digital Safety Parent Conference with Kristi Bush",
     "start": "2026-02-05T17:30:00.000Z",
     "end": "2026-02-05T18:30:00.000Z",
     "allDay": false,
@@ -1838,6 +1790,30 @@
     "notes": ""
   },
   {
+    "title": "Staff PD/Work Day",
+    "start": "2026-02-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Social Studies curriculum training"
+  },
+  {
+    "title": "Staff PD/Work Day",
+    "start": "2026-02-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Social Studies curriculum training"
+  },
+  {
     "title": "VG, VB Basketball Regional Playoffs",
     "start": "2026-02-18T00:00:00.000Z",
     "end": "",
@@ -2250,6 +2226,30 @@
     "start": "2026-02-28T00:00:00.000Z",
     "end": "",
     "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Seafood Festival",
+    "start": "2026-02-28T10:00:00.000Z",
+    "end": "2026-02-28T16:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Seafood Festival",
+    "start": "2026-02-28T10:00:00.000Z",
+    "end": "2026-02-28T16:00:00.000Z",
+    "allDay": false,
     "categories": [
       "school"
     ],
@@ -2736,6 +2736,30 @@
       "school"
     ],
     "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Frozen Production (4th-6th)",
+    "start": "2026-03-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Frozen Production (4th-6th)",
+    "start": "2026-03-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   },
@@ -4729,6 +4753,18 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ AHSAA Sectional",
+    "start": "2026-04-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Troy Country Club, 1 Club Rd, Troy, AL 36079, USA",
     "link": "",
     "notes": ""
   }
