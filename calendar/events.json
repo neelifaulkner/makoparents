@@ -1,54 +1,6 @@
 [
   {
     "title": "Christmas Break",
-    "start": "2026-01-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
-    "start": "2026-01-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Basketball vs Plainview",
-    "start": "2026-01-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Wrestling- Makos Mayhem Invitational",
-    "start": "2026-01-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Makos Mayhem Invitational Wrestling Tournament"
-  },
-  {
-    "title": "Christmas Break",
     "start": "2026-01-04T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -5293,6 +5245,54 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ AHSAA Sub-State",
+    "start": "2026-05-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "The Pines of Chatom Golf Course, 16461 St Stephens Ave, Chatom, AL 36518, USA",
     "link": "",
     "notes": ""
   }
