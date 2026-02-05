@@ -1,30 +1,6 @@
 [
   {
     "title": "Christmas Break",
-    "start": "2026-01-04T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
-    "start": "2026-01-04T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
     "start": "2026-01-05T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -5293,6 +5269,78 @@
       "school"
     ],
     "location": "The Pines of Chatom Golf Course, 16461 St Stephens Ave, Chatom, AL 36518, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Golf @ AHSAA Sub-State",
+    "start": "2026-05-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "The Pines of Chatom Golf Course, 16461 St Stephens Ave, Chatom, AL 36518, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Band Concert at PAC",
+    "start": "2026-05-05T18:00:00.000Z",
+    "end": "2026-05-05T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Band Concert at PAC",
+    "start": "2026-05-05T18:00:00.000Z",
+    "end": "2026-05-05T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   }
