@@ -1,53 +1,5 @@
 [
   {
-    "title": "Christmas Break",
-    "start": "2026-01-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Christmas Break",
-    "start": "2026-01-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Basketball vs Foley",
-    "start": "2026-01-05T16:00:00.000Z",
-    "end": "2026-01-05T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JVB, VB Basketball vs Flomaton",
-    "start": "2026-01-05T17:30:00.000Z",
-    "end": "2026-01-05T21:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "VG- 4:00 vs Foley\nJVB- 5:30 vs Flomaton\nVB- 7:00 vs Flomaton"
-  },
-  {
     "title": "2nd semester begins",
     "start": "2026-01-06T00:00:00.000Z",
     "end": "",
@@ -1006,18 +958,6 @@
     "location": "",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Acoustic Arts Series - Della Grigsby",
-    "start": "2026-02-05T18:00:00.000Z",
-    "end": "2026-02-05T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Coastal Arts Center of Orange Beach&nbsp;</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8396"
   },
   {
     "title": "National Counselor Week",
@@ -5341,6 +5281,102 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Nurse Day",
+    "start": "2026-05-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Nurse Day",
+    "start": "2026-05-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "School Nurse Day",
+    "start": "2026-05-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-06T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Soccer- State Semi-Finals",
+    "start": "2026-05-06T09:00:00.000Z",
+    "end": "2026-05-06T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Huntsville, AL, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Soccer State Semi-Finals",
+    "start": "2026-05-06T11:00:00.000Z",
+    "end": "2026-05-06T12:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Huntsville, AL, USA",
     "link": "",
     "notes": ""
   }
