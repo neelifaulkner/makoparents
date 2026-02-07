@@ -1,89 +1,5 @@
 [
   {
-    "title": "2nd semester begins",
-    "start": "2026-01-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "2nd semester begins",
-    "start": "2026-01-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Students return",
-    "start": "2026-01-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Students return",
-    "start": "2026-01-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Wrestling vs TR Miller, Satsuma",
-    "start": "2026-01-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "vs TR Miller, Satsuma"
-  },
-  {
-    "title": "Bowling vs Bayshore Academy",
-    "start": "2026-01-06T15:30:00.000Z",
-    "end": "2026-01-06T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Basketball @ McGill-Toolen",
-    "start": "2026-01-06T17:30:00.000Z",
-    "end": "2026-01-06T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "McGill-Toolen High School",
-    "link": "",
-    "notes": "7B- 5:30\n8B- 6:30"
-  },
-  {
     "title": "Wrestling @ Bayside Academy (Region Duals)",
     "start": "2026-01-07T00:00:00.000Z",
     "end": "",
@@ -5377,6 +5293,42 @@
       "school"
     ],
     "location": "Huntsville, AL, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-07T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   }
