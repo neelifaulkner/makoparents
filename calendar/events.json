@@ -1,41 +1,5 @@
 [
   {
-    "title": "Wrestling @ Bayside Academy (Region Duals)",
-    "start": "2026-01-07T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
-    "link": "",
-    "notes": "Regiona Duals"
-  },
-  {
-    "title": "NEHS meeting",
-    "start": "2026-01-07T14:45:00.000Z",
-    "end": "2026-01-07T15:25:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS meeting",
-    "start": "2026-01-07T14:45:00.000Z",
-    "end": "2026-01-07T15:25:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Report Cards",
     "start": "2026-01-08T00:00:00.000Z",
     "end": "",
@@ -5329,6 +5293,102 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "make-up field day (Kona Ice)",
+    "start": "2026-05-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "make-up field day (Kona Ice)",
+    "start": "2026-05-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Staff Appreciation Week",
+    "start": "2026-05-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Baseball- Round 3 State",
+    "start": "2026-05-08T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VG Soccer- State Championship",
+    "start": "2026-05-08T09:00:00.000Z",
+    "end": "2026-05-08T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Huntsville, AL, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "VB Soccer -State Championship",
+    "start": "2026-05-08T11:30:00.000Z",
+    "end": "2026-05-08T12:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Huntsville, AL, USA",
     "link": "",
     "notes": ""
   }
