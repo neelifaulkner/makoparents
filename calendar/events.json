@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Basketball vs Bayside Academy",
-    "start": "2026-01-12T16:00:00.000Z",
-    "end": "2026-01-12T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "\n7th- 4:00\nMSG- 5:00\n8th- 6:00"
-  },
-  {
     "title": "Wrestling vs Fairhope, Gulf Shores",
     "start": "2026-01-13T00:00:00.000Z",
     "end": "",
@@ -5292,6 +5280,30 @@
       "school"
     ],
     "location": "Gulf Shores Sports Complex, 19025 Oak Rd W, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Kindergarten and 6th grade graduation",
+    "start": "2026-05-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Kindergarten and 6th grade graduation",
+    "start": "2026-05-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   }
