@@ -1,41 +1,5 @@
 [
   {
-    "title": "Wrestling vs Fairhope, Gulf Shores",
-    "start": "2026-01-13T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "vs Fairhope, Gulf Shores"
-  },
-  {
-    "title": "Bowling vs Elberta",
-    "start": "2026-01-13T15:30:00.000Z",
-    "end": "2026-01-13T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "The Gulf Bowl Bowling Alley & Captain's Choice Seafood Restaurant, 2881 S Juniper St, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JVB, VG, VB Basketball @ Satsuma",
-    "start": "2026-01-13T16:30:00.000Z",
-    "end": "2026-01-13T21:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Satsuma High School, 1 Gator Cir, Satsuma, AL 36572, USA",
-    "link": "",
-    "notes": "JVB- 4:30\nVG- 6:00\nVB- 7:30"
-  },
-  {
     "title": "MS Basketball @ Gulf Shores",
     "start": "2026-01-14T16:30:00.000Z",
     "end": "2026-01-14T19:30:00.000Z",
@@ -994,18 +958,6 @@
     "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
     "link": "",
     "notes": "Southern Shootout"
-  },
-  {
-    "title": "Acoustic Arts Series - Four A Change - SOLD OUT",
-    "start": "2026-02-13T18:00:00.000Z",
-    "end": "2026-02-13T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Coastal Arts Center of Orange Beach&nbsp;</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8397"
   },
   {
     "title": "VB Basketball Sub-Regional Game",
