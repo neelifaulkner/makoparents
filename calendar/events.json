@@ -1,17 +1,5 @@
 [
   {
-    "title": "MS Basketball @ Gulf Shores",
-    "start": "2026-01-14T16:30:00.000Z",
-    "end": "2026-01-14T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores Middle School, 450 E 15th Ave, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": "\n7th- 4:30\nMSG- 5:30\n8th- 6:30"
-  },
-  {
     "title": "Wrestling @ Spanish Fort",
     "start": "2026-01-15T00:00:00.000Z",
     "end": "",
@@ -5250,6 +5238,42 @@
   {
     "title": "Kindergarten and 6th grade graduation",
     "start": "2026-05-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2026-05-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Terrific Kid",
+    "start": "2026-05-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Baseball- State Semi-Finals",
+    "start": "2026-05-15T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
