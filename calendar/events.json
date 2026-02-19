@@ -5281,5 +5281,41 @@
     "location": "Choccolocco Park, 954 Leon Smith Pkwy, Oxford, AL 36203, USA",
     "link": "",
     "notes": "Signature Park"
+  },
+  {
+    "title": "Softball State Tournament",
+    "start": "2026-05-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Baseball- State Championship Game 1",
+    "start": "2026-05-19T11:00:00.000Z",
+    "end": "2026-05-19T12:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Choccolocco Park, 954 Leon Smith Pkwy, Oxford, AL 36203, USA",
+    "link": "",
+    "notes": "Game 1"
+  },
+  {
+    "title": "V Softball- State Championship",
+    "start": "2026-05-19T13:30:00.000Z",
+    "end": "2026-05-19T14:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Choccolocco Park, 954 Leon Smith Pkwy, Oxford, AL 36203, USA",
+    "link": "",
+    "notes": "Signature Field"
   }
 ]
