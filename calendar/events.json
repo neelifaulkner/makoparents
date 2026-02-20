@@ -1,41 +1,5 @@
 [
   {
-    "title": "No School/MLK, Jr. Holiday",
-    "start": "2026-01-19T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "No School/MLK, Jr. Holiday",
-    "start": "2026-01-19T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VB Basketball vs Bozeman, FL",
-    "start": "2026-01-19T16:00:00.000Z",
-    "end": "2026-01-19T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Legacy Arena, 1898 9th Ave N, Birmingham, AL 35203, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Wrestling vs Flomaton, WS Neal",
     "start": "2026-01-20T00:00:00.000Z",
     "end": "",
@@ -4371,6 +4335,30 @@
     "notes": ""
   },
   {
+    "title": "Walk and Roll to School Day",
+    "start": "2026-04-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Walk and Roll to School Day",
+    "start": "2026-04-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "VG, VB Tennis- State Tournament",
     "start": "2026-04-23T00:00:00.000Z",
     "end": "",
@@ -5235,6 +5223,30 @@
     "notes": ""
   },
   {
+    "title": "1st-5th Awards Day",
+    "start": "2026-05-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "1st-5th Awards Day",
+    "start": "2026-05-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "Softball State Tournament",
     "start": "2026-05-18T00:00:00.000Z",
     "end": "",
@@ -5317,5 +5329,65 @@
     "location": "Choccolocco Park, 954 Leon Smith Pkwy, Oxford, AL 36203, USA",
     "link": "",
     "notes": "Signature Field"
+  },
+  {
+    "title": "Academic Pep Rally/Run the Halls",
+    "start": "2026-05-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Academic Pep Rally/Run the Halls",
+    "start": "2026-05-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Talent Show",
+    "start": "2026-05-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Talent Show",
+    "start": "2026-05-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Baseball- State Championship Game 2",
+    "start": "2026-05-20T10:00:00.000Z",
+    "end": "2026-05-20T11:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Jacksonville State University, 700 Pelham Rd N, Jacksonville, AL 36265, USA",
+    "link": "",
+    "notes": "Game 2"
   }
 ]
