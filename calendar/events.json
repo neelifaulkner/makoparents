@@ -1,41 +1,5 @@
 [
   {
-    "title": "Wrestling vs Flomaton, WS Neal",
-    "start": "2026-01-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "vs Flomaton, WS Neal"
-  },
-  {
-    "title": "JVB, VB Basketball @ Flomaton",
-    "start": "2026-01-20T17:30:00.000Z",
-    "end": "2026-01-20T20:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Flomaton High School, 21200 US-31, Flomaton, AL 36441, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Basketball @ Bayside Academy",
-    "start": "2026-01-20T18:00:00.000Z",
-    "end": "2026-01-20T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Class Pictures (school uniform required)",
     "start": "2026-01-21T00:00:00.000Z",
     "end": "",
@@ -1364,30 +1328,6 @@
       "school"
     ],
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "3rd grade Market Day",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "3rd grade Market Day",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
     "link": "",
     "notes": ""
   },
@@ -5389,5 +5329,29 @@
     "location": "Jacksonville State University, 700 Pelham Rd N, Jacksonville, AL 36265, USA",
     "link": "",
     "notes": "Game 2"
+  },
+  {
+    "title": "Last day of school (student early dismissal)",
+    "start": "2026-05-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Last day of school (student early dismissal)",
+    "start": "2026-05-21T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   }
 ]
