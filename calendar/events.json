@@ -1,41 +1,5 @@
 [
   {
-    "title": "100th day of school",
-    "start": "2026-01-22T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "100th day of school",
-    "start": "2026-01-22T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Bowling Regional Tournament",
-    "start": "2026-01-22T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Hoover, AL, USA",
-    "link": "",
-    "notes": "AHSAA Regional Tournament"
-  },
-  {
     "title": "Bowling Regional Tournament",
     "start": "2026-01-23T00:00:00.000Z",
     "end": "",
