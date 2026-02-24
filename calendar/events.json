@@ -1,53 +1,5 @@
 [
   {
-    "title": "Bowling Regional Tournament",
-    "start": "2026-01-23T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Hoover, AL, USA",
-    "link": "",
-    "notes": "AHSAA Regional Tournament"
-  },
-  {
-    "title": "Yearbook order deadline ($35 on MSB, cash or check)",
-    "start": "2026-01-23T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "* Each yearbook costs $35. Parents can pay on My School Bucks or by sending in cash/check.\n* The final deadline to purchase is 1/23/26\n"
-  },
-  {
-    "title": "Yearbook order deadline ($35 on MSB, cash or check)",
-    "start": "2026-01-23T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "* Each yearbook costs $35. Parents can pay on My School Bucks or by sending in cash/check.\n* The final deadline to purchase is 1/23/26\n"
-  },
-  {
-    "title": "JVB, VG, VB Basketball vs Satsuma",
-    "start": "2026-01-23T16:30:00.000Z",
-    "end": "2026-01-23T21:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "JVB- 4:30\nVG- 6:00\nVB- 7:30"
-  },
-  {
     "title": "Wrestling @ Piedmont Tournament",
     "start": "2026-01-24T00:00:00.000Z",
     "end": "",
@@ -1403,6 +1355,18 @@
     "location": "<p>The Wharf</p> - Main Street   Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=8456"
+  },
+  {
+    "title": "Seafood Festival",
+    "start": "2026-02-28T12:45:00.000Z",
+    "end": "2026-02-28T14:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Wharf, 23101 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "https://www.orangebeachal.gov/428/Seafood-Fest \n\nAll donations go to the MAAAC to fund OBMHS athletics. Can't wait to see you there!\n\nJoin with Google Meet: https://meet.google.com/hbm-ityr-wqc\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720"
   },
   {
     "title": "V Baseball vs Russellville",
@@ -4131,6 +4095,30 @@
     "notes": ""
   },
   {
+    "title": "Talent Show forms due",
+    "start": "2026-04-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Talent Show forms due",
+    "start": "2026-04-20T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "VG, VB Tennis- State Tournament",
     "start": "2026-04-20T00:00:00.000Z",
     "end": "",
@@ -4323,6 +4311,30 @@
     "notes": ""
   },
   {
+    "title": "Talent Show auditions",
+    "start": "2026-04-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Flyer with more details will be sent home."
+  },
+  {
+    "title": "Talent Show auditions",
+    "start": "2026-04-27T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Flyer with more details will be sent home."
+  },
+  {
     "title": "VB Golf @ AHSAA Sectional",
     "start": "2026-04-27T00:00:00.000Z",
     "end": "",
@@ -4369,6 +4381,30 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Talent Show auditions",
+    "start": "2026-04-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Flyer with more details will be sent home."
+  },
+  {
+    "title": "Talent Show auditions",
+    "start": "2026-04-28T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Flyer with more details will be sent home."
   },
   {
     "title": "VB Golf @ AHSAA Sectional",
