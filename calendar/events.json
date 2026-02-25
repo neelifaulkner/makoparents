@@ -1,17 +1,5 @@
 [
   {
-    "title": "Wrestling @ Piedmont Tournament",
-    "start": "2026-01-24T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Piedmont High School",
-    "link": "",
-    "notes": "Piedmont Dogfight Tournament"
-  },
-  {
     "title": "JVB, VG, VB Basketball vs Gulf Shores",
     "start": "2026-01-26T16:30:00.000Z",
     "end": "2026-01-26T21:00:00.000Z",
@@ -2088,6 +2076,19 @@
     "location": "Dothan, AL, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Blood Drive planned March 13 at Fitness Center",
+    "start": "2026-03-13T13:00:00.000Z",
+    "end": "2026-03-13T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Adult Fitness Center&nbsp;</p> - 4847 Wilson Blvd.  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8672"
   },
   {
     "title": "9th Baseball vs Foley",
@@ -5345,6 +5346,30 @@
   {
     "title": "Staff PD/ Work Day",
     "start": "2026-05-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Memorial Day Holiday",
+    "start": "2026-05-25T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Memorial Day Holiday",
+    "start": "2026-05-25T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
