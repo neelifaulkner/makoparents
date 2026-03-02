@@ -1,18 +1,6 @@
 [
   {
     "title": "Bowling State Tournament",
-    "start": "2026-01-29T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Bowlero Mobile, 125 Schillinger Rd N, Mobile, AL 36608, USA",
-    "link": "",
-    "notes": "AHSAA State Tournament"
-  },
-  {
-    "title": "Bowling State Tournament",
     "start": "2026-01-30T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1318,19 +1306,6 @@
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "PBR Southern Shootout"
-  },
-  {
-    "title": "Monthly Skins Tournament at Golf Center",
-    "start": "2026-03-01T13:00:00.000Z",
-    "end": "2026-03-01T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7781"
   },
   {
     "title": "Read Across America/Dr. Seuss Day",
