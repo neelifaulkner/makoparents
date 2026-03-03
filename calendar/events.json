@@ -1,53 +1,5 @@
 [
   {
-    "title": "Bowling State Tournament",
-    "start": "2026-01-30T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Bowlero Mobile, 125 Schillinger Rd N, Mobile, AL 36608, USA",
-    "link": "",
-    "notes": "AHSAA State Tournament"
-  },
-  {
-    "title": "JVB, VG, VB @ St. Michael",
-    "start": "2026-01-30T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Michael Catholic School, 11732 St Michael Way, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Terrific Kid",
-    "start": "2026-01-30T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Terrific Kid",
-    "start": "2026-01-30T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "National Counselor Week",
     "start": "2026-02-02T00:00:00.000Z",
     "end": "",
