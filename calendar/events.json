@@ -1,66 +1,6 @@
 [
   {
     "title": "National Counselor Week",
-    "start": "2026-02-04T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "National Counselor Week",
-    "start": "2026-02-04T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "National Counselor Week",
-    "start": "2026-02-04T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS meeting",
-    "start": "2026-02-04T14:45:00.000Z",
-    "end": "2026-02-04T15:25:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "NEHS meeting",
-    "start": "2026-02-04T14:45:00.000Z",
-    "end": "2026-02-04T15:25:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "National Counselor Week",
     "start": "2026-02-05T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1500,19 +1440,6 @@
     "notes": ""
   },
   {
-    "title": "Community Bike Day",
-    "start": "2026-03-07T09:30:00.000Z",
-    "end": "2026-03-07T10:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Waterfront Park&nbsp;</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8679"
-  },
-  {
     "title": "V Baseball @ Bishop Moore",
     "start": "2026-03-07T14:00:00.000Z",
     "end": "2026-03-07T15:00:00.000Z",
@@ -1523,18 +1450,6 @@
     "location": "Orlando, FL, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Disney’s Frozen: The Broadway Musical",
-    "start": "2026-03-07T19:00:00.000Z",
-    "end": "2026-03-07T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8674"
   },
   {
     "title": "Disney’s Frozen: The Broadway Musical",
