@@ -1693,6 +1693,18 @@
     "notes": ""
   },
   {
+    "title": "52nd Annual Orange Beach Festival of Art",
+    "start": "2026-03-14T10:00:00.000Z",
+    "end": "2026-03-14T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8680"
+  },
+  {
     "title": "MS Baseball @ Faith Academy",
     "start": "2026-03-14T12:00:00.000Z",
     "end": "2026-03-14T13:00:00.000Z",
@@ -1715,6 +1727,18 @@
     "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=8677"
+  },
+  {
+    "title": "52nd Annual Orange Beach Festival of Art",
+    "start": "2026-03-15T10:00:00.000Z",
+    "end": "2026-03-15T16:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8681"
   },
   {
     "title": "Disney’s Frozen: The Broadway Musical",
@@ -1933,6 +1957,18 @@
     "notes": ""
   },
   {
+    "title": "Baldwin Pops John Allen Memorial Scholarship Concert",
+    "start": "2026-03-18T19:00:00.000Z",
+    "end": "2026-03-18T20:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8684"
+  },
+  {
     "title": "JVB Golf @ Foley",
     "start": "2026-03-19T00:00:00.000Z",
     "end": "",
@@ -2039,6 +2075,19 @@
     "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Live! At Waterfront - Jellyfish Cowboys",
+    "start": "2026-03-19T18:00:00.000Z",
+    "end": "2026-03-19T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8682"
   },
   {
     "title": "Academic Pep Rally/Run the Halls",
@@ -2459,6 +2508,19 @@
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Live! At Waterfront - Jellyfish Cowboys",
+    "start": "2026-03-26T18:00:00.000Z",
+    "end": "2026-03-26T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8683"
   },
   {
     "title": "VB Soccer vs Alma Bryant",
