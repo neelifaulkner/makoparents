@@ -1,41 +1,5 @@
 [
   {
-    "title": "VB Basketball Area Tournament",
-    "start": "2026-02-09T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VB Golf @ Fairhope",
-    "start": "2026-02-09T08:00:00.000Z",
-    "end": "2026-02-09T09:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Rock Creek Golf Club, 140 Clubhouse Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Golf @ Daphne Tournament",
-    "start": "2026-02-09T08:00:00.000Z",
-    "end": "2026-02-09T09:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Rock Creek Golf Club, 140 Clubhouse Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "VG Basketball Area Tournament",
     "start": "2026-02-10T00:00:00.000Z",
     "end": "",
