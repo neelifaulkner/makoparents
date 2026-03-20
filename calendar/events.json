@@ -1,42 +1,6 @@
 [
   {
     "title": "Mardi Gras Break",
-    "start": "2026-02-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Mardi Gras Break",
-    "start": "2026-02-17T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS, JVB Golf vs Robertsdale",
-    "start": "2026-02-17T15:00:00.000Z",
-    "end": "2026-02-17T15:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Golf Center, 4700 Easy St, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Mardi Gras Break",
     "start": "2026-02-18T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1618,19 +1582,6 @@
     "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Live! At Waterfront - Jellyfish Cowboys",
-    "start": "2026-03-19T18:00:00.000Z",
-    "end": "2026-03-19T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8682"
   },
   {
     "title": "Academic Pep Rally/Run the Halls",
