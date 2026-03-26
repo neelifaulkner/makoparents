@@ -1,41 +1,5 @@
 [
   {
-    "title": "JVB, VB Golf @ Mako Invitational Tournament",
-    "start": "2026-02-23T08:00:00.000Z",
-    "end": "2026-02-23T09:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Glenlakes Golf Club, 9530 Clubhouse Dr, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VB Golf vs Oak Mountain",
-    "start": "2026-02-23T14:30:00.000Z",
-    "end": "2026-02-23T15:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Golf Center, 4700 Easy St, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Baseball vs St. Michael",
-    "start": "2026-02-23T17:00:00.000Z",
-    "end": "2026-02-23T20:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "VG, VB Basketball Regional Playoffs",
     "start": "2026-02-24T00:00:00.000Z",
     "end": "",
