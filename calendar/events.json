@@ -1,101 +1,5 @@
 [
   {
-    "title": "VG, VB Basketball Regional Playoffs",
-    "start": "2026-02-24T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Montgomery, AL, USA",
-    "link": "",
-    "notes": "Elite 8 Game"
-  },
-  {
-    "title": "VB Golf @ Gulf Shores",
-    "start": "2026-02-24T08:00:00.000Z",
-    "end": "2026-02-24T09:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores Golf Club, 520 Clubhouse Dr, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MSB Golf vs Elberta, Gulf Shores",
-    "start": "2026-02-24T14:30:00.000Z",
-    "end": "2026-02-24T15:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Golf Center, 4700 Easy St, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG, VB Tennis @ St. Michael",
-    "start": "2026-02-24T15:30:00.000Z",
-    "end": "2026-02-24T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "9th Baseball vs Elberta",
-    "start": "2026-02-24T17:00:00.000Z",
-    "end": "2026-02-24T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV Baseball vs Elberta",
-    "start": "2026-02-24T17:00:00.000Z",
-    "end": "2026-02-24T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG, VB Soccer @ Saraland",
-    "start": "2026-02-24T17:00:00.000Z",
-    "end": "2026-02-24T20:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Saraland High School, 1115 Industrial Pkwy, Saraland, AL 36571, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MSB Soccer @ St. Paul's",
-    "start": "2026-02-24T17:30:00.000Z",
-    "end": "2026-02-24T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "VG Golf @ Daphne Tournament",
     "start": "2026-02-25T09:00:00.000Z",
     "end": "2026-02-25T10:00:00.000Z",
@@ -1822,19 +1726,6 @@
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Live! At Waterfront - Willie Traywick",
-    "start": "2026-03-26T18:00:00.000Z",
-    "end": "2026-03-26T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8683"
   },
   {
     "title": "VB Soccer vs Alma Bryant",
