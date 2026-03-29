@@ -1,53 +1,5 @@
 [
   {
-    "title": "VG Tennis @ Leflore",
-    "start": "2026-02-26T15:30:00.000Z",
-    "end": "2026-02-26T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Lyons Park, Mobile, AL, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Baseball vs Gulf Shores",
-    "start": "2026-02-26T17:00:00.000Z",
-    "end": "2026-02-26T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball vs Dothan",
-    "start": "2026-02-26T19:00:00.000Z",
-    "end": "2026-02-26T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "PBR Southern Shootout"
-  },
-  {
-    "title": "VB Soccer vs Strong Rock Christian, GA",
-    "start": "2026-02-26T19:00:00.000Z",
-    "end": "2026-02-26T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "3rd grade Market Day",
     "start": "2026-02-27T00:00:00.000Z",
     "end": "",
