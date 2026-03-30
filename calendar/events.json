@@ -1,89 +1,5 @@
 [
   {
-    "title": "3rd grade Market Day",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "3rd grade Market Day",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Terrific Kid",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Terrific Kid",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV, V Softball @ Northview, FL",
-    "start": "2026-02-27T16:00:00.000Z",
-    "end": "2026-02-27T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Northview High School, 4100 County Rd 4, Century, FL 32535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball vs Gulf Shores",
-    "start": "2026-02-27T19:00:00.000Z",
-    "end": "2026-02-27T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "PBR Southern Shootout"
-  },
-  {
-    "title": "VG Soccer vs Strong Rock Christian, GA",
-    "start": "2026-02-27T19:00:00.000Z",
-    "end": "2026-02-27T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "VG, VB Tennis @ Wetumpka Tournament",
     "start": "2026-02-28T00:00:00.000Z",
     "end": "",
@@ -1738,19 +1654,6 @@
     "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Monthly Skins Tournament at Golf Center",
-    "start": "2026-03-29T13:00:00.000Z",
-    "end": "2026-03-29T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=7782"
   },
   {
     "title": "VB Golf @ Fairhope",
