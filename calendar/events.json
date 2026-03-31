@@ -1,53 +1,5 @@
 [
   {
-    "title": "VG, VB Tennis @ Wetumpka Tournament",
-    "start": "2026-02-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Seafood Festival",
-    "start": "2026-02-28T10:00:00.000Z",
-    "end": "2026-02-28T16:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Seafood Festival",
-    "start": "2026-02-28T10:00:00.000Z",
-    "end": "2026-02-28T16:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball vs Russellville",
-    "start": "2026-02-28T14:00:00.000Z",
-    "end": "2026-02-28T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "PBR Southern Shootout"
-  },
-  {
     "title": "Read Across America/Dr. Seuss Day",
     "start": "2026-03-02T00:00:00.000Z",
     "end": "",
