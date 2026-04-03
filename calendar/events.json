@@ -1,77 +1,5 @@
 [
   {
-    "title": "VG, VB Basketball Final Four",
-    "start": "2026-03-03T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Birmingham, AL, USA",
-    "link": "",
-    "notes": "Final Four\nVG- 3:00\nVB- 4:30"
-  },
-  {
-    "title": "MSB Golf vs Robertsdale, St. Michael",
-    "start": "2026-03-03T14:30:00.000Z",
-    "end": "2026-03-03T15:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Golf Center, 4700 Easy St, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV Baseball vs Gulf Shores",
-    "start": "2026-03-03T17:00:00.000Z",
-    "end": "2026-03-03T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV, V Softball @ Fairhope",
-    "start": "2026-03-03T17:00:00.000Z",
-    "end": "2026-03-03T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MSG, MSB Soccer vs Foley",
-    "start": "2026-03-03T17:00:00.000Z",
-    "end": "2026-03-03T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball vs Spanish Fort",
-    "start": "2026-03-03T18:30:00.000Z",
-    "end": "2026-03-03T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "NEHS meeting",
     "start": "2026-03-04T14:45:00.000Z",
     "end": "2026-03-04T15:25:00.000Z",
@@ -3370,6 +3298,18 @@
     "location": "Huntsville, AL, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Orange Beach Town Hall meeting",
+    "start": "2026-05-06T17:00:00.000Z",
+    "end": "2026-05-06T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center&nbsp;</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8740"
   },
   {
     "title": "Staff Appreciation Week",
