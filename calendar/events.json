@@ -1,41 +1,5 @@
 [
   {
-    "title": "VG Golf vs Robertsdale",
-    "start": "2026-03-05T15:00:00.000Z",
-    "end": "2026-03-05T16:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Glenlakes Golf Club, 9530 Clubhouse Dr, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JVG, VG, VB Tennis vs UMS-Wright",
-    "start": "2026-03-05T15:30:00.000Z",
-    "end": "2026-03-05T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Recreation Center, 4849 Wilson Blvd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV, V Softball @ Spanish Fort",
-    "start": "2026-03-05T17:00:00.000Z",
-    "end": "2026-03-05T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Spanish Fort High School, 1 Plaza De Toros Dr, Spanish Fort, AL 36527, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Kona Ice",
     "start": "2026-03-06T00:00:00.000Z",
     "end": "",
