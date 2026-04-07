@@ -1,41 +1,5 @@
 [
   {
-    "title": "Track & Field @ Gulf Shores",
-    "start": "2026-03-07T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores Sports Complex, 19025 Oak Rd W, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Softball @ St. James Tournament",
-    "start": "2026-03-07T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Lagoon Park Drive, Lagoon Park Dr, Montgomery, AL 36109, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball @ Bishop Moore",
-    "start": "2026-03-07T14:00:00.000Z",
-    "end": "2026-03-07T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orlando, FL, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "JVB Golf @ Elba",
     "start": "2026-03-09T08:00:00.000Z",
     "end": "2026-03-09T09:00:00.000Z",
@@ -2172,6 +2136,19 @@
     "notes": ""
   },
   {
+    "title": "Namaste by the Bay",
+    "start": "2026-04-11T08:30:00.000Z",
+    "end": "2026-04-11T09:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8744"
+  },
+  {
     "title": "V Baseball @ Satsuma",
     "start": "2026-04-11T12:00:00.000Z",
     "end": "2026-04-11T13:00:00.000Z",
@@ -2374,6 +2351,32 @@
     "location": "Hoover Metropolitan Complex, 5508 Stadium Trace Pkwy, Hoover, AL 35244, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Namaste by the Bay",
+    "start": "2026-04-18T08:30:00.000Z",
+    "end": "2026-04-18T09:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8745"
+  },
+  {
+    "title": "Pop-Up Farmers Market",
+    "start": "2026-04-19T10:00:00.000Z",
+    "end": "2026-04-19T14:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1.4em; font-style: normal; font-weight: 400; color: rgb(34, 34, 34); font-family: Poppins; font-size: 15.2px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" data-pasted=\"true\">Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8741"
   },
   {
     "title": "Talent Show forms due",
@@ -2902,6 +2905,19 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Pop-Up Farmers Market",
+    "start": "2026-05-03T10:00:00.000Z",
+    "end": "2026-05-03T14:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1.4em; font-style: normal; font-weight: 400; color: rgb(34, 34, 34); font-family: Poppins; font-size: 15.2px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" data-pasted=\"true\">Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8742"
   },
   {
     "title": "Staff Appreciation Week",
@@ -3670,5 +3686,18 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Pop-Up Farmers Market",
+    "start": "2026-06-07T10:00:00.000Z",
+    "end": "2026-06-07T14:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1.4em; font-style: normal; font-weight: 400; color: rgb(34, 34, 34); font-family: Poppins; font-size: 15.2px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" data-pasted=\"true\">Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8743"
   }
 ]
