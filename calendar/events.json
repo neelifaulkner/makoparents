@@ -1,41 +1,5 @@
 [
   {
-    "title": "MSB, JVB Golf @ Fairhope",
-    "start": "2026-03-11T13:00:00.000Z",
-    "end": "2026-03-11T14:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Rock Creek Golf Club, 140 Clubhouse Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball vs Baldwyn, MS",
-    "start": "2026-03-11T16:30:00.000Z",
-    "end": "2026-03-11T17:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Gulf Coast Classic I"
-  },
-  {
-    "title": "MSG Soccer @ Foley",
-    "start": "2026-03-11T17:00:00.000Z",
-    "end": "2026-03-11T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Frozen Production (4th-6th)",
     "start": "2026-03-12T00:00:00.000Z",
     "end": "",
