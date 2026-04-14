@@ -1,29 +1,5 @@
 [
   {
-    "title": "V Softball @ Dothan Tournament",
-    "start": "2026-03-14T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Dothan, AL, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Baseball @ Faith Academy",
-    "start": "2026-03-14T12:00:00.000Z",
-    "end": "2026-03-14T13:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "VB Golf @ Andalusia",
     "start": "2026-03-16T07:00:00.000Z",
     "end": "2026-03-16T08:00:00.000Z",
