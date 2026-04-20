@@ -1,89 +1,5 @@
 [
   {
-    "title": "Academic Pep Rally/Run the Halls",
-    "start": "2026-03-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Academic Pep Rally/Run the Halls",
-    "start": "2026-03-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JVG, JVB Tennis @ St. Michael Tournament",
-    "start": "2026-03-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "St. Michael Catholic High School, 11732 St Michael Way, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Softball vs Orange Beach Classic",
-    "start": "2026-03-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Soccer @ Southern Coast Cup",
-    "start": "2026-03-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV, V Baseball @ Mobile Christian",
-    "start": "2026-03-20T16:00:00.000Z",
-    "end": "2026-03-20T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Mobile Christian School, 5900 Cottage Hill Rd, Mobile, AL 36609, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "MS Baseball vs St. Paul's",
-    "start": "2026-03-20T17:00:00.000Z",
-    "end": "2026-03-20T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "JVG, JVB Tennis @ St. Michael Tournament",
     "start": "2026-03-21T00:00:00.000Z",
     "end": "",
@@ -1606,19 +1522,6 @@
     "location": "Hoover Metropolitan Complex, 5508 Stadium Trace Pkwy, Hoover, AL 35244, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Pop-Up Farmers Market",
-    "start": "2026-04-19T10:00:00.000Z",
-    "end": "2026-04-19T14:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1.4em; font-style: normal; font-weight: 400; color: rgb(34, 34, 34); font-family: Poppins; font-size: 15.2px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" data-pasted=\"true\">Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8741"
   },
   {
     "title": "Talent Show forms due",
