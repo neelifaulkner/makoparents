@@ -1,41 +1,5 @@
 [
   {
-    "title": "Track & Field @ Fairhope",
-    "start": "2026-03-25T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": "Pirate Invitational"
-  },
-  {
-    "title": "JV, V Softball vs Fairhope",
-    "start": "2026-03-25T17:00:00.000Z",
-    "end": "2026-03-25T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball vs Corner",
-    "start": "2026-03-25T19:00:00.000Z",
-    "end": "2026-03-25T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": "Gulf Coast Classic III"
-  },
-  {
     "title": "MS Track & Field @ Gulf Shores Meet",
     "start": "2026-03-26T00:00:00.000Z",
     "end": "",
@@ -2089,6 +2053,19 @@
     "notes": ""
   },
   {
+    "title": "Pickleball Complex Grand Opening/Ribbon Cutting",
+    "start": "2026-05-07T10:00:00.000Z",
+    "end": "2026-05-07T11:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Pickleball Complex</p> - 4869 Wilson Blvd.  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8852"
+  },
+  {
     "title": "make-up field day (Kona Ice)",
     "start": "2026-05-08T00:00:00.000Z",
     "end": "",
@@ -2591,6 +2568,19 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Veterans Memorial Ribbon Cutting",
+    "start": "2026-05-25T09:00:00.000Z",
+    "end": "2026-05-25T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Veterans Memorial</p> - 4101 Orange Beach Boulevard  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8853"
   },
   {
     "title": "Pop-Up Farmers Market",
