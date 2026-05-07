@@ -1,102 +1,6 @@
 [
   {
     "title": "ACAP Testing Dates",
-    "start": "2026-04-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Testing Dates",
-    "start": "2026-04-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Librarian Day",
-    "start": "2026-04-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Librarian Day",
-    "start": "2026-04-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Librarian Day",
-    "start": "2026-04-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Track & Field @ Baldwin Co. Championships",
-    "start": "2026-04-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VB Golf @ Calera",
-    "start": "2026-04-06T15:00:00.000Z",
-    "end": "2026-04-06T16:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Timberline Golf Club, 300 Timberline Trail, Calera, AL 35040, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "JV, V Softball vs McCracken, KY",
-    "start": "2026-04-06T17:00:00.000Z",
-    "end": "2026-04-06T18:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Sportsplex, 4385 William Silvers Pkwy, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Testing Dates",
     "start": "2026-04-07T00:00:00.000Z",
     "end": "",
     "allDay": true,
@@ -1414,18 +1318,6 @@
     "location": "Huntsville, AL, USA",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Orange Beach Town Hall meeting",
-    "start": "2026-05-06T17:00:00.000Z",
-    "end": "2026-05-06T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center&nbsp;</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8740"
   },
   {
     "title": "Staff Appreciation Week",
