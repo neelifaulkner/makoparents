@@ -1,54 +1,6 @@
 [
   {
     "title": "ACAP Testing Dates",
-    "start": "2026-04-08T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Testing Dates",
-    "start": "2026-04-08T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Track & Field @ Fairhope",
-    "start": "2026-04-08T15:00:00.000Z",
-    "end": "2026-04-08T15:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
-    "link": "",
-    "notes": "Pirate Invite"
-  },
-  {
-    "title": "JVG Girls Golf @ Gulf Shores",
-    "start": "2026-04-08T15:30:00.000Z",
-    "end": "2026-04-08T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Craft Farms Golf Club, 3840 Cotton Creek Cir, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "ACAP Testing Dates",
     "start": "2026-04-09T00:00:00.000Z",
     "end": "",
     "allDay": true,
