@@ -1,17 +1,5 @@
 [
   {
-    "title": "V Baseball- Round 1 State",
-    "start": "2026-04-25T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Talent Show auditions",
     "start": "2026-04-27T00:00:00.000Z",
     "end": "",
@@ -1078,19 +1066,6 @@
     "location": "",
     "link": "",
     "notes": ""
-  },
-  {
-    "title": "Veterans Memorial Ribbon Cutting",
-    "start": "2026-05-25T09:00:00.000Z",
-    "end": "2026-05-25T10:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Veterans Memorial</p> - 4101 Orange Beach Boulevard  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=8853"
   },
   {
     "title": "Pop-Up Farmers Market",
