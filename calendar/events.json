@@ -1,77 +1,5 @@
 [
   {
-    "title": "Bus Driver Appreciation Day",
-    "start": "2026-04-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Bus Driver Appreciation Day",
-    "start": "2026-04-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Bus Driver Appreciation Day",
-    "start": "2026-04-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Talent Show auditions",
-    "start": "2026-04-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Flyer with more details will be sent home."
-  },
-  {
-    "title": "Talent Show auditions",
-    "start": "2026-04-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "Flyer with more details will be sent home."
-  },
-  {
-    "title": "VB Golf @ AHSAA Sectional",
-    "start": "2026-04-28T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Troy Country Club, 1 Club Rd, Troy, AL 36079, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Special Olympics",
     "start": "2026-04-29T00:00:00.000Z",
     "end": "",
@@ -1044,6 +972,32 @@
     "notes": ""
   },
   {
+    "title": "Great American Mailbox Challenge",
+    "start": "2026-05-25T08:00:00.000Z",
+    "end": "2026-06-14T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": " -   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9121"
+  },
+  {
+    "title": "Patriotic Business Decorating Contest",
+    "start": "2026-05-25T08:00:00.000Z",
+    "end": "2026-06-14T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": " -   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9122"
+  },
+  {
     "title": "Jelly Roll Basketball Game",
     "start": "2026-06-02T14:00:00.000Z",
     "end": "2026-06-02T17:00:00.000Z",
@@ -1091,6 +1045,19 @@
     "location": "",
     "link": "",
     "notes": "https://www.facebook.com/ share/1FS9BcT6zD/"
+  },
+  {
+    "title": "Rock ‘N’ Roll Tie-Day Party",
+    "start": "2026-07-01T17:00:00.000Z",
+    "end": "2026-07-01T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Senior Center&nbsp;</p> - 26251 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9118"
   },
   {
     "title": "AHSAA Summer Conference",
