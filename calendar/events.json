@@ -1,29 +1,5 @@
 [
   {
-    "title": "Special Olympics",
-    "start": "2026-04-29T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Special Olympics",
-    "start": "2026-04-29T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Special Olympics weather make-up day",
     "start": "2026-04-30T00:00:00.000Z",
     "end": "",
@@ -1130,5 +1106,17 @@
     "location": "T.R. Miller High School, 1835 Douglas Ave, Brewton, AL 36426, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Football vs Monroe County",
+    "start": "2026-08-28T19:00:00.000Z",
+    "end": "2026-08-28T22:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Senior Night"
   }
 ]
