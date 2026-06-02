@@ -1,17 +1,5 @@
 [
   {
-    "title": "V Baseball- Round 2 State",
-    "start": "2026-05-02T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Staff Appreciation Week",
     "start": "2026-05-04T00:00:00.000Z",
     "end": "",
@@ -804,18 +792,6 @@
     "location": " -   Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9122"
-  },
-  {
-    "title": "Jelly Roll Basketball Game",
-    "start": "2026-06-02T14:00:00.000Z",
-    "end": "2026-06-02T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
-    "link": "",
-    "notes": ""
   },
   {
     "title": "Pop-Up Farmers Market",
