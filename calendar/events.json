@@ -1,101 +1,5 @@
 [
   {
-    "title": "School Nurse Day",
-    "start": "2026-05-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Nurse Day",
-    "start": "2026-05-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "School Nurse Day",
-    "start": "2026-05-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Staff Appreciation Week",
-    "start": "2026-05-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Staff Appreciation Week",
-    "start": "2026-05-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Staff Appreciation Week",
-    "start": "2026-05-06T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VG Soccer- State Semi-Finals",
-    "start": "2026-05-06T09:00:00.000Z",
-    "end": "2026-05-06T10:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Huntsville, AL, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "VB Soccer State Semi-Finals",
-    "start": "2026-05-06T11:00:00.000Z",
-    "end": "2026-05-06T12:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Huntsville, AL, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Staff Appreciation Week",
     "start": "2026-05-07T00:00:00.000Z",
     "end": "",
@@ -878,5 +782,17 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Senior Night"
+  },
+  {
+    "title": "Football vs Vigor",
+    "start": "2026-09-04T19:00:00.000Z",
+    "end": "2026-09-04T22:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": ""
   }
 ]
