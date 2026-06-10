@@ -757,5 +757,17 @@
     "location": "Foley Event Center, 1001 E Pride Blvd, Foley, AL 36535, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "V Volleyball @ Faith Academy",
+    "start": "2026-09-08T16:30:00.000Z",
+    "end": "2026-09-08T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "Faith Academy, Davidson"
   }
 ]
