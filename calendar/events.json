@@ -1,41 +1,5 @@
 [
   {
-    "title": "VB Golf @ AHSAA State",
-    "start": "2026-05-11T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "Magnolia Grove Golf Course, 7001 Magnolia Grove Pkwy, Mobile, AL 36618, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Softball - Regional Tournament",
-    "start": "2026-05-11T09:00:00.000Z",
-    "end": "2026-05-11T10:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores Sports Complex, 19025 Oak Rd W, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Softball - Regional Tournament",
-    "start": "2026-05-11T13:45:00.000Z",
-    "end": "2026-05-11T14:45:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Gulf Shores Sports Complex, 19025 Oak Rd W, Gulf Shores, AL 36542, USA",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "4th grade Field Trip",
     "start": "2026-05-12T00:00:00.000Z",
     "end": "",
@@ -408,32 +372,6 @@
     "notes": ""
   },
   {
-    "title": "Great American Mailbox Challenge",
-    "start": "2026-05-25T08:00:00.000Z",
-    "end": "2026-06-14T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": " -   Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9121"
-  },
-  {
-    "title": "Patriotic Business Decorating Contest",
-    "start": "2026-05-25T08:00:00.000Z",
-    "end": "2026-06-14T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": " -   Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9122"
-  },
-  {
     "title": "Free Uniform Swap (Cornerstone Church)",
     "start": "2026-06-20T09:00:00.000Z",
     "end": "2026-06-20T11:00:00.000Z",
@@ -456,19 +394,6 @@
     "location": "",
     "link": "",
     "notes": "https://www.facebook.com/ share/1FS9BcT6zD/"
-  },
-  {
-    "title": "Rock ‘N’ Roll Tie-Day Party",
-    "start": "2026-07-01T17:00:00.000Z",
-    "end": "2026-07-01T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Senior Center&nbsp;</p> - 26251 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9118"
   },
   {
     "title": "AHSAA Summer Conference",
@@ -532,7 +457,7 @@
   },
   {
     "title": "Makos on Main",
-    "start": "2026-08-04T00:00:00.000Z",
+    "start": "2026-08-05T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
@@ -544,7 +469,7 @@
   },
   {
     "title": "Makos on Main",
-    "start": "2026-08-04T00:00:00.000Z",
+    "start": "2026-08-05T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
@@ -769,5 +694,17 @@
     "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
     "link": "",
     "notes": "Faith Academy, Davidson"
+  },
+  {
+    "title": "V Volleyball vs Corner, Curry",
+    "start": "2026-09-09T17:00:00.000Z",
+    "end": "2026-09-09T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Competition Gym"
   }
 ]
