@@ -1,17 +1,5 @@
 [
   {
-    "title": "V Baseball- State Semi-Finals",
-    "start": "2026-05-16T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "1st-5th Awards Day",
     "start": "2026-05-18T00:00:00.000Z",
     "end": "",
@@ -287,6 +275,19 @@
     "location": "<p>Orange Beach Senior Center&nbsp;</p> - 26251 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9118"
+  },
+  {
+    "title": "Dive-In Movie",
+    "start": "2026-07-03T19:00:00.000Z",
+    "end": "2026-07-03T21:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Aquatics Center</p> - 4853 South Wilson Blvd.  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9282"
   },
   {
     "title": "AHSAA Summer Conference",
