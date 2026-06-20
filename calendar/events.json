@@ -1,65 +1,5 @@
 [
   {
-    "title": "Academic Pep Rally/Run the Halls",
-    "start": "2026-05-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Academic Pep Rally/Run the Halls",
-    "start": "2026-05-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Talent Show",
-    "start": "2026-05-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Talent Show",
-    "start": "2026-05-20T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "V Baseball- State Championship Game 2",
-    "start": "2026-05-20T10:00:00.000Z",
-    "end": "2026-05-20T11:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "Jacksonville State University, 700 Pelham Rd N, Jacksonville, AL 36265, USA",
-    "link": "",
-    "notes": "Game 2"
-  },
-  {
     "title": "Last day of school (student early dismissal)",
     "start": "2026-05-21T00:00:00.000Z",
     "end": "",
@@ -648,6 +588,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Competition Gym"
+  },
+  {
+    "title": "Football vs BC Rain",
+    "start": "2026-09-18T19:00:00.000Z",
+    "end": "2026-09-18T22:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach High School",
+    "link": "",
+    "notes": ""
   },
   {
     "title": "6th Annual Orange Beach Freedom Fest",
