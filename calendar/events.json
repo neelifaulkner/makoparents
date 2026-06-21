@@ -1,29 +1,5 @@
 [
   {
-    "title": "Last day of school (student early dismissal)",
-    "start": "2026-05-21T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Last day of school (student early dismissal)",
-    "start": "2026-05-21T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Staff PD/ Work Day",
     "start": "2026-05-22T00:00:00.000Z",
     "end": "",
@@ -598,6 +574,18 @@
       "school"
     ],
     "location": "Orange Beach High School",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Freedom Festival Parking",
+    "start": "2026-09-19T08:00:00.000Z",
+    "end": "2026-09-19T16:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "The Wharf Amphitheater, 23101 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": ""
   },
