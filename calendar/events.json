@@ -182,6 +182,30 @@
     "notes": "\nLine up at 6:00 and parade begins at 6:30\n\n *  \n All students planning to walk in the parade should arrive at The Wharf no later than 6:00 PM to line up. \n \n*  \n Students in kindergarten through the second grade will walk in the parade with their teachers and parents as necessary, then stop along the end of the route to watch the remainder of the parade.   \n \n*  \n Students will walk together by grade. Sport uniforms are certainly allowed, but students should walk with their class. \n \n"
   },
   {
+    "title": "Meet the Teacher",
+    "start": "2026-08-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Meet the Teacher",
+    "start": "2026-08-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
     "title": "OBES prayer walk",
     "start": "2026-08-05T13:00:00.000Z",
     "end": "2026-08-05T13:30:00.000Z",
@@ -590,5 +614,17 @@
     "location": "<p>The Wharf</p> - Main Street   Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9281"
+  },
+  {
+    "title": "JV, V Volleyball vs Gulf Shores",
+    "start": "2026-09-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Competition Gym"
   }
 ]
