@@ -1,29 +1,5 @@
 [
   {
-    "title": "Memorial Day Holiday",
-    "start": "2026-05-25T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
-    "title": "Memorial Day Holiday",
-    "start": "2026-05-25T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": ""
-  },
-  {
     "title": "Free Uniform Swap (Cornerstone Church)",
     "start": "2026-06-20T09:00:00.000Z",
     "end": "2026-06-20T11:00:00.000Z",
@@ -70,6 +46,32 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Scavenger Hunt",
+    "start": "2026-07-01T00:00:00.000Z",
+    "end": "2026-07-31T00:00:00.000Z",
+    "allDay": true,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach (Throughout local parks and facilities)</p> -   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9285"
+  },
+  {
+    "title": "Swim for America 250",
+    "start": "2026-07-01T00:00:00.000Z",
+    "end": "2026-07-31T00:00:00.000Z",
+    "allDay": true,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Aquatics Center</p> - 4853 S. Wilson Blvd.  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
     "title": "Rock ‘N’ Roll Tie-Day Party",
@@ -85,6 +87,19 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9118"
   },
   {
+    "title": "Free Range Day at Golf Center",
+    "start": "2026-07-02T14:00:00.000Z",
+    "end": "2026-07-02T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9287"
+  },
+  {
     "title": "Dive-In Movie",
     "start": "2026-07-03T19:00:00.000Z",
     "end": "2026-07-03T21:30:00.000Z",
@@ -96,6 +111,32 @@
     "location": "<p>Orange Beach Aquatics Center</p> - 4853 South Wilson Blvd.  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9282"
+  },
+  {
+    "title": "Pop-Up Park & Block Party",
+    "start": "2026-07-11T17:30:00.000Z",
+    "end": "2026-07-11T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Marjorie Snook Park</p> - 25805 John Snook Drive  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9289"
+  },
+  {
+    "title": "Free Range Day at Golf Center",
+    "start": "2026-07-14T09:00:00.000Z",
+    "end": "2026-07-14T12:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9288"
   },
   {
     "title": "AHSAA Summer Conference",
