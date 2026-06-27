@@ -792,5 +792,17 @@
     "location": "Foley High School, 1 Pride Pl, Foley, AL 36535, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Football vs St. Anne Pacelli, GA",
+    "start": "2026-09-25T19:00:00.000Z",
+    "end": "2026-09-25T22:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach High School",
+    "link": "",
+    "notes": "Homecoming"
   }
 ]
