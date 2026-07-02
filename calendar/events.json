@@ -74,19 +74,6 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
-    "title": "Rock ‘N’ Roll Tie-Day Party",
-    "start": "2026-07-01T17:00:00.000Z",
-    "end": "2026-07-01T19:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Senior Center&nbsp;</p> - 26251 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9118"
-  },
-  {
     "title": "Free Range Day at Golf Center",
     "start": "2026-07-02T14:00:00.000Z",
     "end": "2026-07-02T17:00:00.000Z",
@@ -408,6 +395,31 @@
     "notes": ""
   },
   {
+    "title": "Classics in Wood and Ivory concert",
+    "start": "2026-08-15T18:30:00.000Z",
+    "end": "2026-08-15T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9347"
+  },
+  {
+    "title": "Classics in Wood and Ivory concert",
+    "start": "2026-08-15T18:30:00.000Z",
+    "end": "2026-08-15T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9347"
+  },
+  {
     "title": "V Volleyball @ Curry",
     "start": "2026-08-20T17:30:00.000Z",
     "end": "2026-08-20T19:30:00.000Z",
@@ -420,6 +432,18 @@
     "notes": "Vs Curry, Meek"
   },
   {
+    "title": "Cross-Country @ Bayside",
+    "start": "2026-08-20T19:00:00.000Z",
+    "end": "2026-08-20T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "Bayside Twilight 3k"
+  },
+  {
     "title": "Football @ TR Miller",
     "start": "2026-08-21T19:00:00.000Z",
     "end": "2026-08-21T22:00:00.000Z",
@@ -430,6 +454,18 @@
     "location": "T.R. Miller High School, 1835 Douglas Ave, Brewton, AL 36426, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ Bayside",
+    "start": "2026-08-22T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Bayside Academy, 303 Dryer Ave, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "Bayside Tournament (8th)"
   },
   {
     "title": "V Volleyball @ Smith Lake Invitational",
@@ -454,6 +490,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Competition Gym"
+  },
+  {
+    "title": "MS Volleyball @ Spanish Fort",
+    "start": "2026-08-26T17:00:00.000Z",
+    "end": "2026-08-26T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Spanish Fort Middle School, Unnamed Road, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th- 6:00"
   },
   {
     "title": "V Volleyball @ Hub City Classic",
@@ -504,6 +552,18 @@
     "notes": ""
   },
   {
+    "title": "MS Volleyball @ Gulf Shores",
+    "start": "2026-08-31T17:00:00.000Z",
+    "end": "2026-08-31T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Gulf Shores City Schools, 300 E 16th Ave, Gulf Shores, AL 36542, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th- 6:00"
+  },
+  {
     "title": "JV, V Volleyball vs St. Paul's, Daphne",
     "start": "2026-09-01T17:00:00.000Z",
     "end": "2026-09-01T19:00:00.000Z",
@@ -514,6 +574,18 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Competition Gym"
+  },
+  {
+    "title": "MS Volleyball @ Daphne",
+    "start": "2026-09-02T17:00:00.000Z",
+    "end": "2026-09-02T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Daphne Middle School, 1 Jody Davis Cir, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "7th-5:00, 8th- 6:00"
   },
   {
     "title": "MAAAC Annual Member Meeting (OBES cafeteria)",
@@ -564,6 +636,18 @@
     "notes": ""
   },
   {
+    "title": "MS Volleyball @ Labor Day Classic",
+    "start": "2026-09-04T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Foley/OWA Labor Day Classic"
+  },
+  {
     "title": "Football vs Vigor",
     "start": "2026-09-04T19:00:00.000Z",
     "end": "2026-09-04T22:00:00.000Z",
@@ -586,6 +670,18 @@
     "location": "Foley Event Center, 1001 E Pride Blvd, Foley, AL 36535, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "MS Volleyball @ Labor Day Classic",
+    "start": "2026-09-05T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "OWA Parks & Resort, 101 S Owa Blvd, Foley, AL 36535, USA",
+    "link": "",
+    "notes": "Foley/OWA Labor Day Classic"
   },
   {
     "title": "Labor Day Holiday",
@@ -622,6 +718,18 @@
     "location": "Faith Academy, 8650 Tanner Williams Rd, Mobile, AL 36608, USA",
     "link": "",
     "notes": "Faith Academy, Davidson"
+  },
+  {
+    "title": "MS Volleyball @ Elberta",
+    "start": "2026-09-09T17:00:00.000Z",
+    "end": "2026-09-09T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Elberta Middle School",
+    "link": "",
+    "notes": "7th- 5:00, 8th-6:00"
   },
   {
     "title": "V Volleyball vs Corner, Curry",
@@ -696,6 +804,18 @@
     "notes": ""
   },
   {
+    "title": "MS Volleyball @ Spanish Fort",
+    "start": "2026-09-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Spanish Fort Middle School, Unnamed Road, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "8th-"
+  },
+  {
     "title": "V Volleyball- Battle for the Board Tournament",
     "start": "2026-09-12T00:00:00.000Z",
     "end": "",
@@ -706,6 +826,30 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "Competition Gym & Middle School Gym"
+  },
+  {
+    "title": "Cross-Country @ Fairhope",
+    "start": "2026-09-12T07:30:00.000Z",
+    "end": "2026-09-12T09:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Fairhope High School, 1 Pirate Dr, Fairhope, AL 36532, USA",
+    "link": "",
+    "notes": "Fairhope Pirate Invite"
+  },
+  {
+    "title": "MS Volleyball vs Gulf Shores",
+    "start": "2026-09-14T17:00:00.000Z",
+    "end": "2026-09-14T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th-6:00"
   },
   {
     "title": "JV, V Volleyball vs Fairhope, Spanish Fort",
@@ -732,6 +876,18 @@
     "notes": "Competition Gym"
   },
   {
+    "title": "MS Volleyball @ Bay Minette",
+    "start": "2026-09-16T17:00:00.000Z",
+    "end": "2026-09-16T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Bay Minette Middle School, 1311 W 13th St, Bay Minette, AL 36507, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th- 6:00"
+  },
+  {
     "title": "JV, V Volleyball vs Robertsdale, UMS-Wright",
     "start": "2026-09-17T16:30:00.000Z",
     "end": "2026-09-17T19:30:00.000Z",
@@ -744,6 +900,30 @@
     "notes": "Competition Gym"
   },
   {
+    "title": "MS Volleyball vs Spanish Fort",
+    "start": "2026-09-17T17:00:00.000Z",
+    "end": "2026-09-17T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th- 6:00"
+  },
+  {
+    "title": "MS Volleyball @ Daphne Tournament",
+    "start": "2026-09-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Daphne Middle School, 1 Jody Davis Cir, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "7th & 8th"
+  },
+  {
     "title": "Football vs BC Rain",
     "start": "2026-09-18T19:00:00.000Z",
     "end": "2026-09-18T22:00:00.000Z",
@@ -754,6 +934,30 @@
     "location": "Orange Beach High School",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Cross-Country @ Spanish Fort",
+    "start": "2026-09-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Blakeley State Park, P3RM+5X, Spanish Fort, AL 36527, USA",
+    "link": "",
+    "notes": "Daphne Invitational"
+  },
+  {
+    "title": "MS Volleyball @ Daphne Tournament",
+    "start": "2026-09-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Daphne Middle School, 1 Jody Davis Cir, Daphne, AL 36526, USA",
+    "link": "",
+    "notes": "7th & 8th"
   },
   {
     "title": "Freedom Festival Parking",
@@ -828,5 +1032,29 @@
     "location": "Orange Beach High School",
     "link": "",
     "notes": "Homecoming"
+  },
+  {
+    "title": "Cross-Country @ Gulf Shores",
+    "start": "2026-09-26T07:45:00.000Z",
+    "end": "2026-09-26T09:45:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Dolphin Run"
+  },
+  {
+    "title": "MS Volleyball vs Elberta",
+    "start": "2026-09-28T17:00:00.000Z",
+    "end": "2026-09-28T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "7th- 5:00, 8th-6:00"
   }
 ]
