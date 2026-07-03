@@ -74,19 +74,6 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
-    "title": "Free Range Day at Golf Center",
-    "start": "2026-07-02T14:00:00.000Z",
-    "end": "2026-07-02T17:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9287"
-  },
-  {
     "title": "Dive-In Movie",
     "start": "2026-07-03T19:00:00.000Z",
     "end": "2026-07-03T21:30:00.000Z",
@@ -1056,5 +1043,17 @@
     "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
     "link": "",
     "notes": "7th- 5:00, 8th-6:00"
+  },
+  {
+    "title": "V Volleyball @ BC Rain",
+    "start": "2026-10-01T17:30:00.000Z",
+    "end": "2026-10-01T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "B C Rain High School, 3125 Dauphin Island Pkwy, Mobile, AL 36605, USA",
+    "link": "",
+    "notes": ""
   }
 ]
