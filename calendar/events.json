@@ -74,19 +74,6 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
-    "title": "Dive-In Movie",
-    "start": "2026-07-03T19:00:00.000Z",
-    "end": "2026-07-03T21:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Aquatics Center</p> - 4853 South Wilson Blvd.  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9282"
-  },
-  {
     "title": "Outdoor Pickleball Clinic",
     "start": "2026-07-11T08:00:00.000Z",
     "end": "2026-07-11T09:15:00.000Z",
@@ -1053,6 +1040,30 @@
       "school"
     ],
     "location": "B C Rain High School, 3125 Dauphin Island Pkwy, Mobile, AL 36605, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Volleyball @ St. Paul Tournament",
+    "start": "2026-10-02T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "St. Paul's Episcopal School, 161 Dogwood Ln, Mobile, AL 36608, USA",
+    "link": "",
+    "notes": "Breast Cancer Awareness Tournament"
+  },
+  {
+    "title": "Football @ Williamson",
+    "start": "2026-10-02T19:00:00.000Z",
+    "end": "2026-10-02T22:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Lillie B. Williamson High School, 1567 E Dublin St, Mobile, AL 36605, USA",
     "link": "",
     "notes": ""
   }
