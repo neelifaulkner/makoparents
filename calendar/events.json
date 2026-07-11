@@ -1174,5 +1174,41 @@
     "location": "Orange Beach High School",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Fall Break (student holiday)",
+    "start": "2026-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break (student holiday)",
+    "start": "2026-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Volleyball @ Shrimp Festival Tournament",
+    "start": "2026-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Competition Gym"
   }
 ]
