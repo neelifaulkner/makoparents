@@ -74,32 +74,6 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
-    "title": "Outdoor Pickleball Clinic",
-    "start": "2026-07-11T08:00:00.000Z",
-    "end": "2026-07-11T09:15:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Pickleball Complex</p> - 4869 Wilson Blvd.  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9290"
-  },
-  {
-    "title": "Pop-Up Park & Block Party",
-    "start": "2026-07-11T17:30:00.000Z",
-    "end": "2026-07-11T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Marjorie Snook Park</p> - 25805 John Snook Drive  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9289"
-  },
-  {
     "title": "Free Range Day at Golf Center",
     "start": "2026-07-14T09:00:00.000Z",
     "end": "2026-07-14T12:00:00.000Z",
@@ -1202,6 +1176,42 @@
   {
     "title": "V Volleyball @ Shrimp Festival Tournament",
     "start": "2026-10-09T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "Orange Beach Middle & High School, 23908 Canal Rd, Orange Beach, AL 36561, USA",
+    "link": "",
+    "notes": "Competition Gym"
+  },
+  {
+    "title": "Fall Break (student holiday)",
+    "start": "2026-10-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break (student holiday)",
+    "start": "2026-10-10T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Volleyball @ Shrimp Festival Tournament",
+    "start": "2026-10-10T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
