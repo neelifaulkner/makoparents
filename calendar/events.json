@@ -1244,5 +1244,29 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Fall Break (student holiday)",
+    "start": "2026-10-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Fall Break (student holiday)",
+    "start": "2026-10-12T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
   }
 ]
