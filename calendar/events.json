@@ -74,19 +74,6 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
-    "title": "Free Range Day at Golf Center",
-    "start": "2026-07-14T09:00:00.000Z",
-    "end": "2026-07-14T12:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9288"
-  },
-  {
     "title": "Free Family Tennis Clinic",
     "start": "2026-07-18T09:00:00.000Z",
     "end": "2026-07-18T11:00:00.000Z",
@@ -171,6 +158,19 @@
     "location": "Montgomery, AL, USA",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "Blood Drive at Orange Beach Fitness Center",
+    "start": "2026-07-24T13:00:00.000Z",
+    "end": "2026-07-24T18:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Fitness Center</p> - 4847 Wilson Blvd.   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9348"
   },
   {
     "title": "Fitness Expo",
@@ -1268,5 +1268,17 @@
     "location": "",
     "link": "",
     "notes": ""
+  },
+  {
+    "title": "V Volleyball Area Tournament",
+    "start": "2026-10-13T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "AHSAA Area Tournament"
   }
 ]
