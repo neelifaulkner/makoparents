@@ -160,6 +160,30 @@
     "notes": ""
   },
   {
+    "title": "Bus transportation deadline",
+    "start": "2026-07-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Orange Beach City Schools Bus Registration is NOW OPEN!\n\nIf your student plans to ride the school bus during the 2026-2027 school year, please complete the bus registration form as soon as possible. To ensure your student is assigned to a bus route and eligible for bus transportation on the first day of school, registration must be completed by Friday, July 24.\n\nRegistering by the deadline allows our Transportation Department to finalize routes and prepare for a safe, efficient start to the school year.\n\nThank you for your partnership in helping us ensure a smooth and successful beginning to the 2026-2027 school year!\n\nLink to form:  http://docs.google.com/.../1FAIpQLSeuMlVNSz8051s.../viewform"
+  },
+  {
+    "title": "Bus transportation deadline",
+    "start": "2026-07-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "Orange Beach City Schools Bus Registration is NOW OPEN!\n\nIf your student plans to ride the school bus during the 2026-2027 school year, please complete the bus registration form as soon as possible. To ensure your student is assigned to a bus route and eligible for bus transportation on the first day of school, registration must be completed by Friday, July 24.\n\nRegistering by the deadline allows our Transportation Department to finalize routes and prepare for a safe, efficient start to the school year.\n\nThank you for your partnership in helping us ensure a smooth and successful beginning to the 2026-2027 school year!\n\nLink to form:  http://docs.google.com/.../1FAIpQLSeuMlVNSz8051s.../viewform"
+  },
+  {
     "title": "Blood Drive at Orange Beach Fitness Center",
     "start": "2026-07-24T13:00:00.000Z",
     "end": "2026-07-24T18:30:00.000Z",
@@ -223,10 +247,22 @@
     "notes": "\nLine up at 6:00 and parade begins at 6:30\n\n *  \n All students planning to walk in the parade should arrive at The Wharf no later than 6:00 PM to line up. \n \n*  \n Students in kindergarten through the second grade will walk in the parade with their teachers and parents as necessary, then stop along the end of the route to watch the remainder of the parade.   \n \n*  \n Students will walk together by grade. Sport uniforms are certainly allowed, but students should walk with their class. \n \n"
   },
   {
-    "title": "Meet the Teacher",
-    "start": "2026-08-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
+    "title": "Pre-K Orientation (Parents only)",
+    "start": "2026-08-05T08:30:00.000Z",
+    "end": "2026-08-05T09:30:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Pre-K Orientation (Parents only)",
+    "start": "2026-08-05T08:30:00.000Z",
+    "end": "2026-08-05T09:30:00.000Z",
+    "allDay": false,
     "categories": [
       "school"
     ],
@@ -236,15 +272,27 @@
   },
   {
     "title": "Meet the Teacher",
-    "start": "2026-08-05T00:00:00.000Z",
-    "end": "",
-    "allDay": true,
+    "start": "2026-08-05T10:00:00.000Z",
+    "end": "2026-08-05T12:00:00.000Z",
+    "allDay": false,
     "categories": [
       "school"
     ],
     "location": "",
     "link": "",
-    "notes": ""
+    "notes": "10-11 A-L\n11-12 M-Z"
+  },
+  {
+    "title": "Meet the Teacher",
+    "start": "2026-08-05T10:00:00.000Z",
+    "end": "2026-08-05T12:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": "10-11 A-L\n11-12 M-Z"
   },
   {
     "title": "OBES prayer walk",
@@ -1280,5 +1328,41 @@
     "location": "",
     "link": "",
     "notes": "AHSAA Area Tournament"
+  },
+  {
+    "title": "Report Cards",
+    "start": "2026-10-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Report Cards",
+    "start": "2026-10-15T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Cross-Country @ Baldwin Co. Championship",
+    "start": "2026-10-15T16:00:00.000Z",
+    "end": "2026-10-15T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "TBD",
+    "link": "",
+    "notes": "Baldwin County Championship"
   }
 ]
