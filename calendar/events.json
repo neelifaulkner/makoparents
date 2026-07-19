@@ -74,19 +74,6 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
   },
   {
-    "title": "Free Family Tennis Clinic",
-    "start": "2026-07-18T09:00:00.000Z",
-    "end": "2026-07-18T11:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Tennis Center</p> - 4851 Wilson Blvd.  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9292"
-  },
-  {
     "title": "AHSAA Summer Conference",
     "start": "2026-07-20T00:00:00.000Z",
     "end": "",
@@ -1380,6 +1367,30 @@
   {
     "title": "MAAAC Fall Fishing Rodeo at MBGFC",
     "start": "2026-10-16T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MAAAC Fall Fishing Rodeo at MBGFC",
+    "start": "2026-10-17T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MAAAC Fall Fishing Rodeo at MBGFC",
+    "start": "2026-10-17T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
