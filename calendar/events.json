@@ -1,29 +1,5 @@
 [
   {
-    "title": "Free Uniform Swap (Cornerstone Church)",
-    "start": "2026-06-20T09:00:00.000Z",
-    "end": "2026-06-20T11:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "https://www.facebook.com/ share/1FS9BcT6zD/"
-  },
-  {
-    "title": "Free Uniform Swap (Cornerstone Church)",
-    "start": "2026-06-20T09:00:00.000Z",
-    "end": "2026-06-20T11:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "school"
-    ],
-    "location": "",
-    "link": "",
-    "notes": "https://www.facebook.com/ share/1FS9BcT6zD/"
-  },
-  {
     "title": "Free/reduced lunch applications available",
     "start": "2026-07-01T00:00:00.000Z",
     "end": "",
@@ -1415,6 +1391,18 @@
   {
     "title": "MAAAC Fall Fishing Rodeo at MBGFC",
     "start": "2026-10-18T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Volleyball Sub Regional",
+    "start": "2026-10-19T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
