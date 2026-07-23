@@ -86,19 +86,6 @@
     "notes": ""
   },
   {
-    "title": "Indoor Pickleball Clinic",
-    "start": "2026-07-22T15:15:00.000Z",
-    "end": "2026-07-22T16:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Recreation Center</p> - 4849 Wilson Blvd.  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9291"
-  },
-  {
     "title": "AHSAA Summer Conference",
     "start": "2026-07-23T00:00:00.000Z",
     "end": "",
@@ -1523,6 +1510,18 @@
   {
     "title": "V Volleyball Sub Regional",
     "start": "2026-10-19T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "V Volleyball Super Regionals",
+    "start": "2026-10-21T00:00:00.000Z",
     "end": "",
     "allDay": true,
     "categories": [
