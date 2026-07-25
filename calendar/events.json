@@ -134,19 +134,6 @@
     "notes": "Orange Beach City Schools Bus Registration is NOW OPEN!\n\nIf your student plans to ride the school bus during the 2026-2027 school year, please complete the bus registration form as soon as possible. To ensure your student is assigned to a bus route and eligible for bus transportation on the first day of school, registration must be completed by Friday, July 24.\n\nRegistering by the deadline allows our Transportation Department to finalize routes and prepare for a safe, efficient start to the school year.\n\nThank you for your partnership in helping us ensure a smooth and successful beginning to the 2026-2027 school year!\n\nLink to form:  http://docs.google.com/.../1FAIpQLSeuMlVNSz8051s.../viewform"
   },
   {
-    "title": "Blood Drive at Orange Beach Fitness Center",
-    "start": "2026-07-24T13:00:00.000Z",
-    "end": "2026-07-24T18:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Fitness Center</p> - 4847 Wilson Blvd.   Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9348"
-  },
-  {
     "title": "Fitness Expo",
     "start": "2026-07-25T08:00:00.000Z",
     "end": "2026-07-25T11:30:00.000Z",
@@ -450,6 +437,18 @@
     "notes": "7th- 5:00, 8th- 6:00"
   },
   {
+    "title": "'Dream On - Vol. 4' performance",
+    "start": "2026-08-27T19:00:00.000Z",
+    "end": "2026-08-27T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9350"
+  },
+  {
     "title": "V Volleyball @ Hub City Classic",
     "start": "2026-08-28T00:00:00.000Z",
     "end": "",
@@ -474,6 +473,18 @@
     "notes": "Senior Night"
   },
   {
+    "title": "'Dream On - Vol. 4' performance",
+    "start": "2026-08-28T19:00:00.000Z",
+    "end": "2026-08-28T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9351"
+  },
+  {
     "title": "V Volleyball @ Hub City Classic",
     "start": "2026-08-29T00:00:00.000Z",
     "end": "",
@@ -484,6 +495,18 @@
     "location": "Robertsdale High School, 1 Golden Bear Dr, Robertsdale, AL 36567, USA",
     "link": "",
     "notes": "Hub City Classic"
+  },
+  {
+    "title": "'Dream On - Vol. 4' performance",
+    "start": "2026-08-29T19:00:00.000Z",
+    "end": "2026-08-29T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9352"
   },
   {
     "title": "JV, V Volleyball @ Pensacola Catholic",
@@ -1528,6 +1551,18 @@
       "school"
     ],
     "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "Football @ Citronelle",
+    "start": "2026-10-23T19:00:00.000Z",
+    "end": "2026-10-23T22:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "school"
+    ],
+    "location": "Citronelle High School, 8200 W Lebaron Ave, Citronelle, AL 36522, USA",
     "link": "",
     "notes": ""
   }
