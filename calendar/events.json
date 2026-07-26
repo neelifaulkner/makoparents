@@ -134,19 +134,6 @@
     "notes": "Orange Beach City Schools Bus Registration is NOW OPEN!\n\nIf your student plans to ride the school bus during the 2026-2027 school year, please complete the bus registration form as soon as possible. To ensure your student is assigned to a bus route and eligible for bus transportation on the first day of school, registration must be completed by Friday, July 24.\n\nRegistering by the deadline allows our Transportation Department to finalize routes and prepare for a safe, efficient start to the school year.\n\nThank you for your partnership in helping us ensure a smooth and successful beginning to the 2026-2027 school year!\n\nLink to form:  http://docs.google.com/.../1FAIpQLSeuMlVNSz8051s.../viewform"
   },
   {
-    "title": "Fitness Expo",
-    "start": "2026-07-25T08:00:00.000Z",
-    "end": "2026-07-25T11:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Recreation Center&nbsp;</p> - 4849 Wilson Blvd.  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9293"
-  },
-  {
     "title": "Summer Sendoff",
     "start": "2026-07-31T17:30:00.000Z",
     "end": "2026-07-31T19:30:00.000Z",
@@ -1563,6 +1550,30 @@
       "school"
     ],
     "location": "Citronelle High School, 8200 W Lebaron Ave, Citronelle, AL 36522, USA",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MAAAC 5K Fall Fundraiser at OBMHS Athletic Complex",
+    "start": "2026-10-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "title": "MAAAC 5K Fall Fundraiser at OBMHS Athletic Complex",
+    "start": "2026-10-24T00:00:00.000Z",
+    "end": "",
+    "allDay": true,
+    "categories": [
+      "school"
+    ],
+    "location": "",
     "link": "",
     "notes": ""
   }
