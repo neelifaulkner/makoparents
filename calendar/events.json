@@ -1,44 +1,5 @@
 [
   {
-    "title": "Scavenger Hunt",
-    "start": "2026-07-01T00:00:00.000Z",
-    "end": "2026-07-31T00:00:00.000Z",
-    "allDay": true,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach (Throughout local parks and facilities)</p> -   Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9285"
-  },
-  {
-    "title": "Swim for America 250",
-    "start": "2026-07-01T00:00:00.000Z",
-    "end": "2026-07-31T00:00:00.000Z",
-    "allDay": true,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Aquatics Center</p> - 4853 S. Wilson Blvd.  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9286"
-  },
-  {
-    "title": "Summer Sendoff",
-    "start": "2026-07-31T17:30:00.000Z",
-    "end": "2026-07-31T19:30:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9294"
-  },
-  {
     "title": "Classics in Wood and Ivory concert",
     "start": "2026-08-15T18:30:00.000Z",
     "end": "2026-08-15T20:00:00.000Z",
