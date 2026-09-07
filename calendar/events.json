@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "6th Annual Orange Beach Freedom Fest",
+    "start": "2026-09-19T09:00:00.000Z",
+    "end": "2026-09-19T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>The Wharf</p> - Main Street   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9280"
+  },
+  {
+    "title": "6th Annual Orange Beach Freedom Fest",
+    "start": "2026-09-20T10:00:00.000Z",
+    "end": "2026-09-20T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>The Wharf</p> - Main Street   Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9281"
+  }
+]
