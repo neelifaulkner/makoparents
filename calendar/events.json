@@ -88,6 +88,19 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9627"
   },
   {
+    "title": "2nd Annual Fido Fest",
+    "start": "2026-11-08T14:00:00.000Z",
+    "end": "2026-11-08T17:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9631"
+  },
+  {
     "title": "Songwriters’ concert honoring veterans",
     "start": "2026-11-11T18:00:00.000Z",
     "end": "2026-11-11T20:00:00.000Z",
