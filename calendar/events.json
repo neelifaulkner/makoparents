@@ -51,6 +51,19 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9625"
   },
   {
+    "title": "Fall Pop-Up Farmers Market",
+    "start": "2026-10-04T10:00:00.000Z",
+    "end": "2026-10-04T14:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park&nbsp;</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9632"
+  },
+  {
     "title": "Baldwin Pops concert at Coastal Arts Center",
     "start": "2026-10-11T17:00:00.000Z",
     "end": "2026-10-11T18:30:00.000Z",
