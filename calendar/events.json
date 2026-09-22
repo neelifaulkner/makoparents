@@ -38,6 +38,19 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9632"
   },
   {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2026-10-04T12:00:00.000Z",
+    "end": "2026-10-04T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9633"
+  },
+  {
     "title": "Baldwin Pops concert at Coastal Arts Center",
     "start": "2026-10-11T17:00:00.000Z",
     "end": "2026-10-11T18:30:00.000Z",
@@ -75,6 +88,19 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9627"
   },
   {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2026-11-01T12:00:00.000Z",
+    "end": "2026-11-01T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9634"
+  },
+  {
     "title": "2nd Annual Fido Fest",
     "start": "2026-11-08T14:00:00.000Z",
     "end": "2026-11-08T17:00:00.000Z",
@@ -98,5 +124,70 @@
     "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9629"
+  },
+  {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2026-12-06T12:00:00.000Z",
+    "end": "2026-12-06T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9635"
+  },
+  {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2027-01-03T12:00:00.000Z",
+    "end": "2027-01-03T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9636"
+  },
+  {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2027-02-07T12:00:00.000Z",
+    "end": "2027-02-07T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9637"
+  },
+  {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2027-03-07T12:00:00.000Z",
+    "end": "2027-03-07T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9638"
+  },
+  {
+    "title": "Monthly Skins Tournament at Golf Center",
+    "start": "2027-04-04T12:00:00.000Z",
+    "end": "2027-04-04T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9639"
   }
 ]
