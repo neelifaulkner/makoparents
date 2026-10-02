@@ -1,43 +1,5 @@
 [
   {
-    "title": "An Evening of Smooth Jazz Under the Stars",
-    "start": "2026-10-01T18:00:00.000Z",
-    "end": "2026-10-01T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Coastal Arts Center of Orange Beach&nbsp;</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9625"
-  },
-  {
-    "title": "An Evening of Smooth Jazz Under the Stars",
-    "start": "2026-10-01T18:00:00.000Z",
-    "end": "2026-10-01T20:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Coastal Arts Center of Orange Beach&nbsp;</p> - 26389 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9625"
-  },
-  {
-    "title": "Fall Pop-Up Farmers Market",
-    "start": "2026-10-04T10:00:00.000Z",
-    "end": "2026-10-04T14:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Waterfront Park&nbsp;</p> - 26425 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9632"
-  },
-  {
     "title": "Monthly Skins Tournament at Golf Center",
     "start": "2026-10-04T12:00:00.000Z",
     "end": "2026-10-04T15:00:00.000Z",
@@ -49,6 +11,19 @@
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9633"
+  },
+  {
+    "title": "Fall Pop-Up Farmers Market",
+    "start": "2026-10-11T10:00:00.000Z",
+    "end": "2026-10-11T14:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park&nbsp;</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9632"
   },
   {
     "title": "Baldwin Pops concert at Coastal Arts Center",
