@@ -10,7 +10,7 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9633"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9633"
   },
   {
     "title": "Fall Pop-Up Farmers Market",
@@ -23,7 +23,7 @@
     ],
     "location": "<p>Orange Beach Waterfront Park&nbsp;</p> - 26425 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9632"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9632"
   },
   {
     "title": "Baldwin Pops concert at Coastal Arts Center",
@@ -35,7 +35,7 @@
     ],
     "location": "<p>Coastal Arts Center of Orange Beach&nbsp;</p> -  26389 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9626"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9626"
   },
   {
     "title": "Annual Arts Afire Fall Festival ",
@@ -47,7 +47,7 @@
     ],
     "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9627"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9627"
   },
   {
     "title": "Annual Arts Afire Fall Festival ",
@@ -60,7 +60,7 @@
     ],
     "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9627"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9627"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
@@ -73,7 +73,7 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9634"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9634"
   },
   {
     "title": "2nd Annual Fido Fest",
@@ -86,7 +86,7 @@
     ],
     "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9631"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9631"
   },
   {
     "title": "Songwriters’ concert honoring veterans",
@@ -98,7 +98,7 @@
     ],
     "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9629"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9629"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
@@ -111,7 +111,7 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9635"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9635"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
@@ -124,7 +124,7 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9636"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9636"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
@@ -137,7 +137,7 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9637"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9637"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
@@ -150,7 +150,7 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9638"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9638"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
@@ -163,6 +163,6 @@
     ],
     "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=9639"
+    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9639"
   }
 ]
