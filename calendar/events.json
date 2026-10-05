@@ -1,18 +1,5 @@
 [
   {
-    "title": "Monthly Skins Tournament at Golf Center",
-    "start": "2026-10-04T12:00:00.000Z",
-    "end": "2026-10-04T15:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "community",
-      "sports"
-    ],
-    "location": "<p>Orange Beach Golf Center</p> - 4700 Easy Street  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "notes": " https://orangebeachal.gov/m/calendar/event/detail/9633"
-  },
-  {
     "title": "Fall Pop-Up Farmers Market",
     "start": "2026-10-11T10:00:00.000Z",
     "end": "2026-10-11T14:00:00.000Z",
