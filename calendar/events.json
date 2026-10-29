@@ -13,6 +13,32 @@
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9634"
   },
   {
+    "title": "Mahjong Society Open Play Night",
+    "start": "2026-11-06T17:30:00.000Z",
+    "end": "2026-11-06T20:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Community Center</p> - 27235 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11266"
+  },
+  {
+    "title": "Namaste by the Bay - Free Community Yoga",
+    "start": "2026-11-07T09:00:00.000Z",
+    "end": "2026-11-07T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11262"
+  },
+  {
     "title": "2nd Annual Fido Fest",
     "start": "2026-11-08T14:00:00.000Z",
     "end": "2026-11-08T17:00:00.000Z",
@@ -36,6 +62,108 @@
     "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=9629"
+  },
+  {
+    "title": "Pickleball Improvers Clinic",
+    "start": "2026-11-12T09:00:00.000Z",
+    "end": "2026-11-12T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Pickleball Complex</p> - 4869 Wilson Blvd.  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11267"
+  },
+  {
+    "title": "Namaste by the Bay - Free Community Yoga",
+    "start": "2026-11-14T09:00:00.000Z",
+    "end": "2026-11-14T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11263"
+  },
+  {
+    "title": "Locals Art Day ",
+    "start": "2026-11-14T10:00:00.000Z",
+    "end": "2026-11-14T15:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Coastal Arts Center of Orange Beach</p> - 26389 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11268"
+  },
+  {
+    "title": "Friendsgiving at Orange Beach Senior Center",
+    "start": "2026-11-20T10:00:00.000Z",
+    "end": "2026-11-20T12:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Senior Center</p> - 26251 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11269"
+  },
+  {
+    "title": "Namaste by the Bay - Free Community Yoga",
+    "start": "2026-11-21T09:00:00.000Z",
+    "end": "2026-11-21T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11264"
+  },
+  {
+    "title": "Thanksgiving Bingo by the Bay",
+    "start": "2026-11-24T17:30:00.000Z",
+    "end": "2026-11-24T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Coastal Arts Center&nbsp;</p> - 26389 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11270"
+  },
+  {
+    "title": "Thanksgiving Bingo by the Bay",
+    "start": "2026-11-24T17:30:00.000Z",
+    "end": "2026-11-24T19:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Coastal Arts Center&nbsp;</p> - 26389 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11270"
+  },
+  {
+    "title": "Namaste by the Bay - Free Community Yoga",
+    "start": "2026-11-28T09:00:00.000Z",
+    "end": "2026-11-28T10:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "location": "<p>Orange Beach Waterfront Park</p> - 26425 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11265"
   },
   {
     "title": "Visions of Christmas ",
