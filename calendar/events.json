@@ -167,8 +167,8 @@
   },
   {
     "title": "Visions of Christmas ",
-    "start": "2026-12-03T19:00:00.000Z",
-    "end": "2026-12-03T21:00:00.000Z",
+    "start": "2026-12-05T14:00:00.000Z",
+    "end": "2026-12-05T16:00:00.000Z",
     "allDay": false,
     "categories": [
       "arts"
@@ -176,18 +176,6 @@
     "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=11165"
-  },
-  {
-    "title": "Visions of Christmas ",
-    "start": "2026-12-04T19:00:00.000Z",
-    "end": "2026-12-04T21:00:00.000Z",
-    "allDay": false,
-    "categories": [
-      "arts"
-    ],
-    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
-    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
-    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11166"
   },
   {
     "title": "Visions of Christmas ",
@@ -225,6 +213,18 @@
     "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
     "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
     "notes": " https://orangebeachal.gov/calendar.aspx?EID=11168"
+  },
+  {
+    "title": "Visions of Christmas ",
+    "start": "2026-12-06T19:00:00.000Z",
+    "end": "2026-12-06T21:00:00.000Z",
+    "allDay": false,
+    "categories": [
+      "arts"
+    ],
+    "location": "<p>Orange Beach Performing Arts Center</p> - 23908 Canal Road  Orange Beach AL 36561",
+    "link": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33",
+    "notes": " https://orangebeachal.gov/calendar.aspx?EID=11166"
   },
   {
     "title": "Monthly Skins Tournament at Golf Center",
